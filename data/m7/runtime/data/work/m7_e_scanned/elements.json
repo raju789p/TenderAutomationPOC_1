@@ -1,0 +1,297 @@
+{
+  "doc_id": "m7_e_scanned",
+  "source_file": "m7_e_scanned.pdf",
+  "source_sha256": "8e9168d653ce3edfe79f6634ace6da7a26ad0323aef2a04420e20e9b67d1dd28",
+  "page_count": 6,
+  "elements": [
+    {
+      "id": "m7_e_scanned-p001-001",
+      "doc_id": "m7_e_scanned",
+      "page": 1,
+      "bbox": [
+        0.0,
+        0.2357177734375,
+        595.0,
+        841.7642822265625
+      ],
+      "type": "figure",
+      "role": "cover",
+      "disposition": "placed",
+      "image_path": "images/parts/m7_e_scanned-p001-001-part01.png",
+      "sha256": "60d779911a7db646ff7ef7719393d6a535514ff90eb6f0a85a866ca979291960",
+      "width": 893,
+      "height": 1263,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_e_scanned-p001-001-part01",
+          "page": 1,
+          "xref": 4,
+          "image_path": "images/parts/m7_e_scanned-p001-001-part01.png",
+          "sha256": "60d779911a7db646ff7ef7719393d6a535514ff90eb6f0a85a866ca979291960",
+          "bbox": [
+            0.0,
+            0.2357177734375,
+            595.0,
+            841.7642822265625
+          ],
+          "width": 893,
+          "height": 1263,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 29105
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_e_scanned-p002-001",
+      "doc_id": "m7_e_scanned",
+      "page": 2,
+      "bbox": [
+        0.0,
+        0.2357177734375,
+        595.0,
+        841.7642822265625
+      ],
+      "type": "figure",
+      "role": "body",
+      "disposition": "pending",
+      "image_path": "images/parts/m7_e_scanned-p002-001-part01.png",
+      "sha256": "e059e9ebe53fdfa3d92a9ce3745f526d1ed1dd4767a1a188eded2e4dae1fa4be",
+      "width": 893,
+      "height": 1263,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_e_scanned-p002-001-part01",
+          "page": 2,
+          "xref": 8,
+          "image_path": "images/parts/m7_e_scanned-p002-001-part01.png",
+          "sha256": "e059e9ebe53fdfa3d92a9ce3745f526d1ed1dd4767a1a188eded2e4dae1fa4be",
+          "bbox": [
+            0.0,
+            0.2357177734375,
+            595.0,
+            841.7642822265625
+          ],
+          "width": 893,
+          "height": 1263,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 16185
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_e_scanned-p003-001",
+      "doc_id": "m7_e_scanned",
+      "page": 3,
+      "bbox": [
+        0.0,
+        0.2357177734375,
+        595.0,
+        841.7642822265625
+      ],
+      "type": "figure",
+      "role": "body",
+      "disposition": "pending",
+      "image_path": "images/parts/m7_e_scanned-p003-001-part01.png",
+      "sha256": "0fe331169f7a055a65d480f603047d05367d1383f3cb160aa349cc78dc97a859",
+      "width": 893,
+      "height": 1263,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_e_scanned-p003-001-part01",
+          "page": 3,
+          "xref": 10,
+          "image_path": "images/parts/m7_e_scanned-p003-001-part01.png",
+          "sha256": "0fe331169f7a055a65d480f603047d05367d1383f3cb160aa349cc78dc97a859",
+          "bbox": [
+            0.0,
+            0.2357177734375,
+            595.0,
+            841.7642822265625
+          ],
+          "width": 893,
+          "height": 1263,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 21222
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_e_scanned-p004-001",
+      "doc_id": "m7_e_scanned",
+      "page": 4,
+      "bbox": [
+        0.0,
+        0.2357177734375,
+        595.0,
+        841.7642822265625
+      ],
+      "type": "figure",
+      "role": "body",
+      "disposition": "pending",
+      "image_path": "images/parts/m7_e_scanned-p004-001-part01.png",
+      "sha256": "43f998c86f57e505f85b6c74e877b2f040a428d257d0088d42a9e785e1f0fc07",
+      "width": 893,
+      "height": 1263,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_e_scanned-p004-001-part01",
+          "page": 4,
+          "xref": 12,
+          "image_path": "images/parts/m7_e_scanned-p004-001-part01.png",
+          "sha256": "43f998c86f57e505f85b6c74e877b2f040a428d257d0088d42a9e785e1f0fc07",
+          "bbox": [
+            0.0,
+            0.2357177734375,
+            595.0,
+            841.7642822265625
+          ],
+          "width": 893,
+          "height": 1263,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 32679
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_e_scanned-p005-001",
+      "doc_id": "m7_e_scanned",
+      "page": 5,
+      "bbox": [
+        0.0,
+        0.2357177734375,
+        595.0,
+        841.7642822265625
+      ],
+      "type": "figure",
+      "role": "body",
+      "disposition": "pending",
+      "image_path": "images/parts/m7_e_scanned-p005-001-part01.png",
+      "sha256": "6fa7c74eb2c95ee98641b2bb4329c78fcc86ec26133c2df332e52025c434af0e",
+      "width": 893,
+      "height": 1263,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_e_scanned-p005-001-part01",
+          "page": 5,
+          "xref": 14,
+          "image_path": "images/parts/m7_e_scanned-p005-001-part01.png",
+          "sha256": "6fa7c74eb2c95ee98641b2bb4329c78fcc86ec26133c2df332e52025c434af0e",
+          "bbox": [
+            0.0,
+            0.2357177734375,
+            595.0,
+            841.7642822265625
+          ],
+          "width": 893,
+          "height": 1263,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 21703
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_e_scanned-p006-001",
+      "doc_id": "m7_e_scanned",
+      "page": 6,
+      "bbox": [
+        0.0,
+        0.2357177734375,
+        595.0,
+        841.7642822265625
+      ],
+      "type": "figure",
+      "role": "body",
+      "disposition": "pending",
+      "image_path": "images/parts/m7_e_scanned-p006-001-part01.png",
+      "sha256": "2479019f799f75f5f3ed51384c18d7893978655cd52824c0bed8739251294c58",
+      "width": 893,
+      "height": 1263,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_e_scanned-p006-001-part01",
+          "page": 6,
+          "xref": 16,
+          "image_path": "images/parts/m7_e_scanned-p006-001-part01.png",
+          "sha256": "2479019f799f75f5f3ed51384c18d7893978655cd52824c0bed8739251294c58",
+          "bbox": [
+            0.0,
+            0.2357177734375,
+            595.0,
+            841.7642822265625
+          ],
+          "width": 893,
+          "height": 1263,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 21226
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    }
+  ],
+  "cover_lines": []
+}

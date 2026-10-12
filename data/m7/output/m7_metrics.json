@@ -1,0 +1,5646 @@
+{
+  "stage": "M7 baseline",
+  "network_calls": 0,
+  "llm_calls": 0,
+  "documents": {
+    "m7_a_same_style": {
+      "status": "complete",
+      "source_pdf_sha256": "fb8850b34d4682109678182c497b3b5ec904e999578f943a9dbfc297c39229df",
+      "page_count": 6,
+      "expected_page_count": 6,
+      "text": {
+        "status": "measured",
+        "expected_words": 169,
+        "extracted_words": 161,
+        "recalled_words": 161,
+        "recall": 0.9526627218934911,
+        "missing_word_count": 8,
+        "missing_words": {
+          "signal": 2,
+          "control": 2,
+          "quality": 2,
+          "flow": 2
+        },
+        "excess_word_count": 0,
+        "excess_words": {}
+      },
+      "headings": {
+        "matched": 7,
+        "expected": 7,
+        "actual": 7,
+        "expected_items": [
+          {
+            "page": 3,
+            "title": "Delivery Intent",
+            "level": 1
+          },
+          {
+            "page": 3,
+            "title": "Evidence Inputs",
+            "level": 2
+          },
+          {
+            "page": 4,
+            "title": "Product Scope",
+            "level": 1
+          },
+          {
+            "page": 4,
+            "title": "Decision Rights",
+            "level": 2
+          },
+          {
+            "page": 5,
+            "title": "Sprint Mechanics",
+            "level": 1
+          },
+          {
+            "page": 5,
+            "title": "Assurance Measures",
+            "level": 2
+          },
+          {
+            "page": 6,
+            "title": "Release Learning Objectives",
+            "level": 1
+          }
+        ],
+        "actual_items": [
+          {
+            "page": 3,
+            "title": "Delivery Intent",
+            "level": 1,
+            "number": "1"
+          },
+          {
+            "page": 3,
+            "title": "Evidence Inputs",
+            "level": 2,
+            "number": "1.1"
+          },
+          {
+            "page": 4,
+            "title": "Product Scope",
+            "level": 1,
+            "number": "2"
+          },
+          {
+            "page": 4,
+            "title": "Decision Rights",
+            "level": 2,
+            "number": "2.1"
+          },
+          {
+            "page": 5,
+            "title": "Sprint Mechanics",
+            "level": 1,
+            "number": "3"
+          },
+          {
+            "page": 5,
+            "title": "Assurance Measures",
+            "level": 2,
+            "number": "3.1"
+          },
+          {
+            "page": 6,
+            "title": "Release Learning Objectives",
+            "level": 1,
+            "number": "4"
+          }
+        ],
+        "missing": [],
+        "extra": []
+      },
+      "tables": {
+        "shape_matches": 2,
+        "cell_matches": 2,
+        "expected": 2,
+        "actual": 2,
+        "matches": [
+          true,
+          true
+        ],
+        "expected_tables": [
+          {
+            "shape": [
+              4,
+              3
+            ],
+            "cells": [
+              [
+                "Stage",
+                "Evidence",
+                "Owner"
+              ],
+              [
+                "Frame",
+                "Baseline",
+                "Lead"
+              ],
+              [
+                "Test",
+                "Outcome",
+                "Team"
+              ],
+              [
+                "Learn",
+                "Decision",
+                "Sponsor"
+              ]
+            ]
+          },
+          {
+            "shape": [
+              4,
+              2
+            ],
+            "cells": [
+              [
+                "Check",
+                "Threshold"
+              ],
+              [
+                "Trace",
+                "Evidence linked"
+              ],
+              [
+                "Review",
+                "Owner assigned"
+              ],
+              [
+                "Close",
+                "Action recorded"
+              ]
+            ]
+          }
+        ],
+        "actual_tables": [
+          {
+            "element_id": "m7_a_same_style-p003-006",
+            "page": 3,
+            "shape": [
+              4,
+              3
+            ],
+            "cells": [
+              [
+                "Stage",
+                "Evidence",
+                "Owner"
+              ],
+              [
+                "Frame",
+                "Baseline",
+                "Lead"
+              ],
+              [
+                "Test",
+                "Outcome",
+                "Team"
+              ],
+              [
+                "Learn",
+                "Decision",
+                "Sponsor"
+              ]
+            ]
+          },
+          {
+            "element_id": "m7_a_same_style-p005-004",
+            "page": 5,
+            "shape": [
+              4,
+              2
+            ],
+            "cells": [
+              [
+                "Check",
+                "Threshold"
+              ],
+              [
+                "Trace",
+                "Evidence linked"
+              ],
+              [
+                "Review",
+                "Owner assigned"
+              ],
+              [
+                "Close",
+                "Action recorded"
+              ]
+            ]
+          }
+        ]
+      },
+      "images": {
+        "actual_count": 2,
+        "expected_count": 2,
+        "count_match": true,
+        "hash_matches": 0,
+        "expected_hashes": {
+          "981e66054ff4168b4cb6f98d88e7cbe903a29d1c7f17cd3902d107b21f927813": 2
+        },
+        "actual_hashes": {
+          "af69ec3f94acb556811ade28010bdb5ceb83ba61483e72e7c18a29f63af46e66": 2
+        },
+        "printed_words_expected": [
+          "SIGNAL",
+          "CONTROL",
+          "QUALITY",
+          "FLOW",
+          "SIGNAL",
+          "CONTROL",
+          "QUALITY",
+          "FLOW"
+        ],
+        "printed_words_ocr_status": "NOT MEASURED — no OCR or image transcription was run"
+      },
+      "mapping": {
+        "correct": 4,
+        "total": 4,
+        "accuracy": 1.0,
+        "comparisons": [
+          {
+            "number": "1",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          },
+          {
+            "number": "2",
+            "expected": "scope",
+            "actual": "scope",
+            "correct": true
+          },
+          {
+            "number": "3",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          },
+          {
+            "number": "4",
+            "expected": "learning_objectives",
+            "actual": "learning_objectives",
+            "correct": true
+          }
+        ]
+      },
+      "ledger": {
+        "placed": 15,
+        "regenerated": 1,
+        "unplaced": 0,
+        "pending": 12
+      },
+      "header_footer_leakage": {
+        "header_or_footer_leaks": [],
+        "page_number_leaks": [],
+        "leaked": false
+      },
+      "existing_verifier": {
+        "defect_count": 87,
+        "defects": [
+          {
+            "category": "ledger",
+            "code": "placement_ledger_mismatch",
+            "missing_ids": [
+              "m7_a_same_style-p002-002",
+              "m7_a_same_style-p002-003",
+              "m7_a_same_style-p002-004",
+              "m7_a_same_style-p002-005",
+              "m7_a_same_style-p003-001",
+              "m7_a_same_style-p003-002",
+              "m7_a_same_style-p003-003",
+              "m7_a_same_style-p003-004",
+              "m7_a_same_style-p003-005",
+              "m7_a_same_style-p003-006",
+              "m7_a_same_style-p005-001",
+              "m7_a_same_style-p005-002"
+            ],
+            "unknown_ids": [],
+            "message": "Placement ledger does not contain exactly one mapping for every source element."
+          },
+          {
+            "category": "ledger",
+            "code": "pending_disposition",
+            "message": "At least one source element has a missing or pending disposition."
+          },
+          {
+            "category": "tables",
+            "code": "table_count_mismatch",
+            "message": "Expected 2 source tables, found 1 output tables."
+          },
+          {
+            "category": "tables",
+            "code": "table_shape_mismatch",
+            "element_id": "m7_a_same_style-p003-006",
+            "message": "Table shape [4, 2] differs from expected [4, 3]."
+          },
+          {
+            "category": "tables",
+            "code": "table_shape_mismatch",
+            "element_id": "m7_a_same_style-p005-004",
+            "message": "Table shape [0, 0] differs from expected [4, 2]."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_a_same_style-p003-001",
+            "message": "Heading 'Delivery Intent' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_a_same_style-p003-002",
+            "message": "Heading 'Evidence Inputs' does not appear verbatim at output Heading 3."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_a_same_style-p005-001",
+            "message": "Heading 'Sprint Mechanics' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_a_same_style-p005-002",
+            "message": "Heading 'Assurance Measures' does not appear verbatim at output Heading 3."
+          },
+          {
+            "category": "images",
+            "code": "image_set_or_count_mismatch",
+            "element_ids": [
+              "m7_a_same_style-p001-006",
+              "m7_a_same_style-p005-005"
+            ],
+            "message": "DOCX media has 1 files; source has 2 display images."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-001",
+            "word": "delivery",
+            "count": 1,
+            "message": "Source word 'delivery' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-001",
+            "word": "intent",
+            "count": 1,
+            "message": "Source word 'intent' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-003",
+            "word": "align",
+            "count": 1,
+            "message": "Source word 'align' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-003",
+            "word": "work",
+            "count": 2,
+            "message": "Source word 'work' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-003",
+            "word": "delivery",
+            "count": 1,
+            "message": "Source word 'delivery' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-003",
+            "word": "goals",
+            "count": 1,
+            "message": "Source word 'goals' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-003",
+            "word": "before",
+            "count": 1,
+            "message": "Source word 'before' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-003",
+            "word": "advancing",
+            "count": 1,
+            "message": "Source word 'advancing' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-003",
+            "word": "item",
+            "count": 1,
+            "message": "Source word 'item' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-004",
+            "word": "signal",
+            "count": 1,
+            "message": "Source word 'signal' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-004",
+            "word": "before",
+            "count": 1,
+            "message": "Source word 'before' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-004",
+            "word": "changing",
+            "count": 1,
+            "message": "Source word 'changing' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-004",
+            "word": "plan",
+            "count": 1,
+            "message": "Source word 'plan' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-005",
+            "word": "keep",
+            "count": 1,
+            "message": "Source word 'keep' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-005",
+            "word": "ownership",
+            "count": 1,
+            "message": "Source word 'ownership' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-005",
+            "word": "visible",
+            "count": 1,
+            "message": "Source word 'visible' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-005",
+            "word": "across",
+            "count": 1,
+            "message": "Source word 'across' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-005",
+            "word": "handoffs",
+            "count": 1,
+            "message": "Source word 'handoffs' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-006",
+            "word": "stage",
+            "count": 1,
+            "message": "Source word 'stage' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-006",
+            "word": "frame",
+            "count": 1,
+            "message": "Source word 'frame' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-006",
+            "word": "baseline",
+            "count": 1,
+            "message": "Source word 'baseline' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-006",
+            "word": "lead",
+            "count": 1,
+            "message": "Source word 'lead' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-006",
+            "word": "test",
+            "count": 1,
+            "message": "Source word 'test' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-006",
+            "word": "outcome",
+            "count": 1,
+            "message": "Source word 'outcome' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-006",
+            "word": "team",
+            "count": 1,
+            "message": "Source word 'team' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-006",
+            "word": "learn",
+            "count": 1,
+            "message": "Source word 'learn' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p003-006",
+            "word": "sponsor",
+            "count": 1,
+            "message": "Source word 'sponsor' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p004-003",
+            "word": "product",
+            "count": 1,
+            "message": "Source word 'product' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p004-003",
+            "word": "to",
+            "count": 1,
+            "message": "Source word 'to' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p004-004",
+            "word": "teams",
+            "count": 1,
+            "message": "Source word 'teams' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p004-004",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p005-003",
+            "word": "scrum",
+            "count": 1,
+            "message": "Source word 'scrum' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p005-003",
+            "word": "sprint",
+            "count": 1,
+            "message": "Source word 'sprint' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p005-003",
+            "word": "mechanics",
+            "count": 1,
+            "message": "Source word 'mechanics' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p005-003",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p005-004",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p005-004",
+            "word": "review",
+            "count": 1,
+            "message": "Source word 'review' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p005-004",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p006-001",
+            "word": "4",
+            "count": 1,
+            "message": "Source word '4' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p006-002",
+            "word": "record",
+            "count": 1,
+            "message": "Source word 'record' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p006-002",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p006-002",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_a_same_style-p006-002",
+            "word": "scrum",
+            "count": 1,
+            "message": "Source word 'scrum' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "table block 41, row 1, column 2",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "table block 41, row 1, column 6",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 43 (Heading 1)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 44 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_a_same_style",
+            "location": "table block 41, row 2, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_a_same_style' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_a_same_style",
+            "location": "table block 41, row 3, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_a_same_style' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_a_same_style",
+            "location": "body paragraph 44 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_a_same_style' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_a_same_style",
+            "location": "body paragraph 45 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_a_same_style' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p005",
+            "location": "table block 41, row 3, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'p005' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p005",
+            "location": "body paragraph 48 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p005' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p003",
+            "location": "body paragraph 44 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p003' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p003",
+            "location": "body paragraph 45 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p003' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "001",
+            "location": "body paragraph 44 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '001' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "001",
+            "location": "body paragraph 46 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '001' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 44 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 45 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 46 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 47 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 44 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 45 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 46 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 47 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 44 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 45 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 46 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 47 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 44 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 45 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 48 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 49 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "002",
+            "location": "body paragraph 45 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '002' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "002",
+            "location": "body paragraph 47 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '002' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "1",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "3",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          }
+        ],
+        "text_recall": 0.725,
+        "table_matches": 0,
+        "image_hash_set_equal": true
+      },
+      "failures": [
+        {
+          "document": "m7_a_same_style",
+          "category": "text",
+          "detail": "Missing 8 words and excess 0 words.",
+          "likely_root_cause": "`src/poc/extract.py` builds text elements from PyMuPDF text blocks and line spans; `config/extraction.yaml` supplies the heading and bullet heuristics. Image-only text has no OCR path.",
+          "recommended_scope": "generic extractor or configuration change; OCR is out of scope"
+        },
+        {
+          "document": "m7_a_same_style",
+          "category": "images",
+          "detail": "Image count 2/2; exact hash matches 0/2.",
+          "likely_root_cause": "`src/poc/extract.py` hashes extracted image streams; PDF image re-encoding and full-page rasterization can change byte identity relative to generator source bytes.",
+          "recommended_scope": "generic provenance/hash handling or configuration change, measured only"
+        },
+        {
+          "document": "m7_a_same_style",
+          "category": "ledger",
+          "detail": "Unplaced=0; pending=12.",
+          "likely_root_cause": "`src/poc/render_docx.py` places content only under a preceding heading with a canonical target section; unmatched headings leave elements without a destination.",
+          "recommended_scope": "generic renderer or classification coverage; measured without fixes"
+        }
+      ]
+    },
+    "m7_b_new_style": {
+      "status": "complete",
+      "source_pdf_sha256": "d58306caa81dfe77aad55377e1e1215c0838f5bfdae646dfcaf2ad6fead31fca",
+      "page_count": 6,
+      "expected_page_count": 6,
+      "text": {
+        "status": "measured",
+        "expected_words": 220,
+        "extracted_words": 211,
+        "recalled_words": 211,
+        "recall": 0.9590909090909091,
+        "missing_word_count": 9,
+        "missing_words": {
+          "signal": 2,
+          "control": 2,
+          "quality": 2,
+          "flow": 2,
+          "roadmap": 1
+        },
+        "excess_word_count": 0,
+        "excess_words": {}
+      },
+      "headings": {
+        "matched": 7,
+        "expected": 7,
+        "actual": 7,
+        "expected_items": [
+          {
+            "page": 3,
+            "title": "Value Stream Scope",
+            "level": 1
+          },
+          {
+            "page": 3,
+            "title": "Experiment Design",
+            "level": 2
+          },
+          {
+            "page": 4,
+            "title": "Portfolio Advantages",
+            "level": 1
+          },
+          {
+            "page": 4,
+            "title": "Decision Rights",
+            "level": 2
+          },
+          {
+            "page": 5,
+            "title": "Flow Evidence",
+            "level": 1
+          },
+          {
+            "page": 5,
+            "title": "Assurance Measures",
+            "level": 2
+          },
+          {
+            "page": 6,
+            "title": "Learning Review",
+            "level": 1
+          }
+        ],
+        "actual_items": [
+          {
+            "page": 3,
+            "title": "Value Stream Scope",
+            "level": 1,
+            "number": "1"
+          },
+          {
+            "page": 3,
+            "title": "Experiment Design",
+            "level": 2,
+            "number": "1.1"
+          },
+          {
+            "page": 4,
+            "title": "Portfolio Advantages",
+            "level": 1,
+            "number": "2"
+          },
+          {
+            "page": 4,
+            "title": "Decision Rights",
+            "level": 2,
+            "number": "2.1"
+          },
+          {
+            "page": 5,
+            "title": "Flow Evidence",
+            "level": 1,
+            "number": "3"
+          },
+          {
+            "page": 5,
+            "title": "Assurance Measures",
+            "level": 2,
+            "number": "3.1"
+          },
+          {
+            "page": 6,
+            "title": "Learning Review",
+            "level": 1,
+            "number": "4"
+          }
+        ],
+        "missing": [],
+        "extra": []
+      },
+      "tables": {
+        "shape_matches": 2,
+        "cell_matches": 2,
+        "expected": 2,
+        "actual": 2,
+        "matches": [
+          true,
+          true
+        ],
+        "expected_tables": [
+          {
+            "shape": [
+              4,
+              3
+            ],
+            "cells": [
+              [
+                "Stage",
+                "Evidence",
+                "Owner"
+              ],
+              [
+                "Frame",
+                "Baseline",
+                "Lead"
+              ],
+              [
+                "Test",
+                "Outcome",
+                "Team"
+              ],
+              [
+                "Learn",
+                "Decision",
+                "Sponsor"
+              ]
+            ]
+          },
+          {
+            "shape": [
+              4,
+              2
+            ],
+            "cells": [
+              [
+                "Check",
+                "Threshold"
+              ],
+              [
+                "Trace",
+                "Evidence linked"
+              ],
+              [
+                "Review",
+                "Owner assigned"
+              ],
+              [
+                "Close",
+                "Action recorded"
+              ]
+            ]
+          }
+        ],
+        "actual_tables": [
+          {
+            "element_id": "m7_b_new_style-p003-007",
+            "page": 3,
+            "shape": [
+              4,
+              3
+            ],
+            "cells": [
+              [
+                "Stage",
+                "Evidence",
+                "Owner"
+              ],
+              [
+                "Frame",
+                "Baseline",
+                "Lead"
+              ],
+              [
+                "Test",
+                "Outcome",
+                "Team"
+              ],
+              [
+                "Learn",
+                "Decision",
+                "Sponsor"
+              ]
+            ]
+          },
+          {
+            "element_id": "m7_b_new_style-p005-005",
+            "page": 5,
+            "shape": [
+              4,
+              2
+            ],
+            "cells": [
+              [
+                "Check",
+                "Threshold"
+              ],
+              [
+                "Trace",
+                "Evidence linked"
+              ],
+              [
+                "Review",
+                "Owner assigned"
+              ],
+              [
+                "Close",
+                "Action recorded"
+              ]
+            ]
+          }
+        ]
+      },
+      "images": {
+        "actual_count": 2,
+        "expected_count": 2,
+        "count_match": true,
+        "hash_matches": 0,
+        "expected_hashes": {
+          "fb6be2f4eb99dd725bcd27d75fe6e250bc736b927c725bcd67d2841a767e4902": 2
+        },
+        "actual_hashes": {
+          "e74d45d2766738b8561bef2df4f841ebfd8d64c205d14457492d14f951521246": 2
+        },
+        "printed_words_expected": [
+          "SIGNAL",
+          "CONTROL",
+          "QUALITY",
+          "FLOW",
+          "SIGNAL",
+          "CONTROL",
+          "QUALITY",
+          "FLOW"
+        ],
+        "printed_words_ocr_status": "NOT MEASURED — no OCR or image transcription was run"
+      },
+      "mapping": {
+        "correct": 4,
+        "total": 4,
+        "accuracy": 1.0,
+        "comparisons": [
+          {
+            "number": "1",
+            "expected": "scope",
+            "actual": "scope",
+            "correct": true
+          },
+          {
+            "number": "2",
+            "expected": "advantages",
+            "actual": "advantages",
+            "correct": true
+          },
+          {
+            "number": "3",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          },
+          {
+            "number": "4",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          }
+        ]
+      },
+      "ledger": {
+        "placed": 27,
+        "regenerated": 0,
+        "unplaced": 0,
+        "pending": 10
+      },
+      "header_footer_leakage": {
+        "header_or_footer_leaks": [
+          {
+            "page": 2,
+            "field": "header",
+            "text": "M7 B New Style / Internal Playbook"
+          },
+          {
+            "page": 2,
+            "field": "footer",
+            "text": "Operations Excellence Series"
+          },
+          {
+            "page": 3,
+            "field": "header",
+            "text": "M7 B New Style / Internal Playbook"
+          },
+          {
+            "page": 3,
+            "field": "footer",
+            "text": "Operations Excellence Series"
+          },
+          {
+            "page": 4,
+            "field": "header",
+            "text": "M7 B New Style / Internal Playbook"
+          },
+          {
+            "page": 4,
+            "field": "footer",
+            "text": "Operations Excellence Series"
+          },
+          {
+            "page": 5,
+            "field": "header",
+            "text": "M7 B New Style / Internal Playbook"
+          },
+          {
+            "page": 5,
+            "field": "footer",
+            "text": "Operations Excellence Series"
+          },
+          {
+            "page": 6,
+            "field": "header",
+            "text": "M7 B New Style / Internal Playbook"
+          },
+          {
+            "page": 6,
+            "field": "footer",
+            "text": "Operations Excellence Series"
+          }
+        ],
+        "page_number_leaks": [],
+        "leaked": true
+      },
+      "existing_verifier": {
+        "defect_count": 49,
+        "defects": [
+          {
+            "category": "ledger",
+            "code": "placement_ledger_mismatch",
+            "missing_ids": [
+              "m7_b_new_style-p002-001",
+              "m7_b_new_style-p002-002",
+              "m7_b_new_style-p002-003",
+              "m7_b_new_style-p002-004",
+              "m7_b_new_style-p002-005",
+              "m7_b_new_style-p002-006",
+              "m7_b_new_style-p003-001",
+              "m7_b_new_style-p005-002",
+              "m7_b_new_style-p005-003",
+              "m7_b_new_style-p006-002"
+            ],
+            "unknown_ids": [],
+            "message": "Placement ledger does not contain exactly one mapping for every source element."
+          },
+          {
+            "category": "ledger",
+            "code": "pending_disposition",
+            "message": "At least one source element has a missing or pending disposition."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_b_new_style-p005-002",
+            "message": "Heading 'Flow Evidence' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_b_new_style-p005-003",
+            "message": "Heading 'Assurance Measures' does not appear verbatim at output Heading 3."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_b_new_style-p006-002",
+            "message": "Heading 'Learning Review' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "images",
+            "code": "image_set_or_count_mismatch",
+            "element_ids": [
+              "m7_b_new_style-p001-006",
+              "m7_b_new_style-p005-006"
+            ],
+            "message": "DOCX media has 1 files; source has 2 display images."
+          },
+          {
+            "category": "order",
+            "code": "source_order_violation",
+            "message": "One or more source elements moved to a different target section or changed relative order.",
+            "violations": [
+              {
+                "section": "E_strengths_risks",
+                "element_ids": [
+                  "m7_b_new_style-p004-002",
+                  "m7_b_new_style-p004-003",
+                  "m7_b_new_style-p004-004",
+                  "m7_b_new_style-p004-005",
+                  "m7_b_new_style-p004-006",
+                  "m7_b_new_style-p005-001",
+                  "m7_b_new_style-p006-001",
+                  "m7_b_new_style-p005-004",
+                  "m7_b_new_style-p005-005",
+                  "m7_b_new_style-p005-006",
+                  "m7_b_new_style-p005-007",
+                  "m7_b_new_style-p006-003",
+                  "m7_b_new_style-p006-004"
+                ],
+                "message": "Source elements are out of relative order."
+              }
+            ]
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p005-001",
+            "word": "m7",
+            "count": 1,
+            "message": "Source word 'm7' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p005-001",
+            "word": "new",
+            "count": 1,
+            "message": "Source word 'new' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p005-001",
+            "word": "style",
+            "count": 1,
+            "message": "Source word 'style' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p005-001",
+            "word": "internal",
+            "count": 1,
+            "message": "Source word 'internal' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p005-001",
+            "word": "playbook",
+            "count": 1,
+            "message": "Source word 'playbook' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p005-004",
+            "word": "flow",
+            "count": 1,
+            "message": "Source word 'flow' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-001",
+            "word": "m7",
+            "count": 1,
+            "message": "Source word 'm7' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-001",
+            "word": "new",
+            "count": 1,
+            "message": "Source word 'new' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-001",
+            "word": "style",
+            "count": 1,
+            "message": "Source word 'style' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-001",
+            "word": "internal",
+            "count": 1,
+            "message": "Source word 'internal' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-001",
+            "word": "playbook",
+            "count": 1,
+            "message": "Source word 'playbook' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-002",
+            "word": "review",
+            "count": 1,
+            "message": "Source word 'review' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-003",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-004",
+            "word": "operations",
+            "count": 1,
+            "message": "Source word 'operations' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-004",
+            "word": "excellence",
+            "count": 1,
+            "message": "Source word 'excellence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_b_new_style-p006-004",
+            "word": "series",
+            "count": 1,
+            "message": "Source word 'series' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "table block 53, row 1, column 2",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "table block 53, row 1, column 6",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 55 (Heading 1)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_b_new_style",
+            "location": "table block 53, row 2, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_b_new_style' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_b_new_style",
+            "location": "table block 53, row 3, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_b_new_style' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_b_new_style",
+            "location": "body paragraph 56 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_b_new_style' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p005",
+            "location": "table block 53, row 3, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'p005' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p005",
+            "location": "body paragraph 60 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p005' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "002",
+            "location": "body paragraph 56 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '002' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "002",
+            "location": "body paragraph 58 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '002' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 56 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 57 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 58 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 56 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 57 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 58 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 56 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 57 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 58 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "003",
+            "location": "body paragraph 57 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '003' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 60 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 61 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 62 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p006",
+            "location": "body paragraph 62 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p006' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "3",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "4",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          }
+        ],
+        "text_recall": 0.9241706161137441,
+        "table_matches": 2,
+        "image_hash_set_equal": true
+      },
+      "failures": [
+        {
+          "document": "m7_b_new_style",
+          "category": "text",
+          "detail": "Missing 9 words and excess 0 words.",
+          "likely_root_cause": "`src/poc/extract.py` builds text elements from PyMuPDF text blocks and line spans; `config/extraction.yaml` supplies the heading and bullet heuristics. Image-only text has no OCR path.",
+          "recommended_scope": "generic extractor or configuration change; OCR is out of scope"
+        },
+        {
+          "document": "m7_b_new_style",
+          "category": "images",
+          "detail": "Image count 2/2; exact hash matches 0/2.",
+          "likely_root_cause": "`src/poc/extract.py` hashes extracted image streams; PDF image re-encoding and full-page rasterization can change byte identity relative to generator source bytes.",
+          "recommended_scope": "generic provenance/hash handling or configuration change, measured only"
+        },
+        {
+          "document": "m7_b_new_style",
+          "category": "ledger",
+          "detail": "Unplaced=0; pending=10.",
+          "likely_root_cause": "`src/poc/render_docx.py` places content only under a preceding heading with a canonical target section; unmatched headings leave elements without a destination.",
+          "recommended_scope": "generic renderer or classification coverage; measured without fixes"
+        },
+        {
+          "document": "m7_b_new_style",
+          "category": "header_footer_leakage",
+          "detail": "Header/footer leaks=[{'page': 2, 'field': 'header', 'text': 'M7 B New Style / Internal Playbook'}, {'page': 2, 'field': 'footer', 'text': 'Operations Excellence Series'}, {'page': 3, 'field': 'header', 'text': 'M7 B New Style / Internal Playbook'}, {'page': 3, 'field': 'footer', 'text': 'Operations Excellence Series'}, {'page': 4, 'field': 'header', 'text': 'M7 B New Style / Internal Playbook'}, {'page': 4, 'field': 'footer', 'text': 'Operations Excellence Series'}, {'page': 5, 'field': 'header', 'text': 'M7 B New Style / Internal Playbook'}, {'page': 5, 'field': 'footer', 'text': 'Operations Excellence Series'}, {'page': 6, 'field': 'header', 'text': 'M7 B New Style / Internal Playbook'}, {'page': 6, 'field': 'footer', 'text': 'Operations Excellence Series'}]; page-number leaks=[].",
+          "likely_root_cause": "`config/extraction.yaml` classifies only isolated digit spans near the page bottom; `src/poc/extract.py` otherwise processes repeated furniture as ordinary page text.",
+          "recommended_scope": "generic header/footer detection or configuration change"
+        }
+      ]
+    },
+    "m7_c_borderless_tables": {
+      "status": "complete",
+      "source_pdf_sha256": "7da309852e5432341d6196f1dcb5818e939ee249b6a74926724d995de7552265",
+      "page_count": 5,
+      "expected_page_count": 5,
+      "text": {
+        "status": "measured",
+        "expected_words": 191,
+        "extracted_words": 187,
+        "recalled_words": 187,
+        "recall": 0.9790575916230366,
+        "missing_word_count": 4,
+        "missing_words": {
+          "quality": 1,
+          "control": 1,
+          "signal": 1,
+          "flow": 1
+        },
+        "excess_word_count": 0,
+        "excess_words": {}
+      },
+      "headings": {
+        "matched": 4,
+        "expected": 4,
+        "actual": 4,
+        "expected_items": [
+          {
+            "page": 3,
+            "title": "Variation Study",
+            "level": 1
+          },
+          {
+            "page": 3,
+            "title": "Evidence Inputs",
+            "level": 2
+          },
+          {
+            "page": 4,
+            "title": "Measurement System",
+            "level": 1
+          },
+          {
+            "page": 4,
+            "title": "Decision Rights",
+            "level": 2
+          }
+        ],
+        "actual_items": [
+          {
+            "page": 3,
+            "title": "Variation Study",
+            "level": 1,
+            "number": "1"
+          },
+          {
+            "page": 3,
+            "title": "Evidence Inputs",
+            "level": 2,
+            "number": "1.1"
+          },
+          {
+            "page": 4,
+            "title": "Measurement System",
+            "level": 1,
+            "number": "2"
+          },
+          {
+            "page": 4,
+            "title": "Decision Rights",
+            "level": 2,
+            "number": "2.1"
+          }
+        ],
+        "missing": [],
+        "extra": []
+      },
+      "tables": {
+        "shape_matches": 0,
+        "cell_matches": 0,
+        "expected": 2,
+        "actual": 0,
+        "matches": [
+          false,
+          false
+        ],
+        "expected_tables": [
+          {
+            "shape": [
+              4,
+              3
+            ],
+            "cells": [
+              [
+                "Stage",
+                "Evidence",
+                "Owner"
+              ],
+              [
+                "Frame",
+                "Baseline",
+                "Lead"
+              ],
+              [
+                "Test",
+                "Outcome",
+                "Team"
+              ],
+              [
+                "Learn",
+                "Decision",
+                "Sponsor"
+              ]
+            ]
+          },
+          {
+            "shape": [
+              11,
+              3
+            ],
+            "cells": [
+              [
+                "Control",
+                "Measure",
+                "Escalation"
+              ],
+              [
+                "Gate 1",
+                "Metric 1",
+                "Owner 1"
+              ],
+              [
+                "Gate 2",
+                "Metric 2",
+                "Owner 2"
+              ],
+              [
+                "Gate 3",
+                "Metric 3",
+                "Owner 3"
+              ],
+              [
+                "Gate 4",
+                "Metric 4",
+                "Owner 4"
+              ],
+              [
+                "Gate 5",
+                "Metric 5",
+                "Owner 5"
+              ],
+              [
+                "Gate 6",
+                "Metric 6",
+                "Owner 6"
+              ],
+              [
+                "Gate 7",
+                "Metric 7",
+                "Owner 7"
+              ],
+              [
+                "Gate 8",
+                "Metric 8",
+                "Owner 8"
+              ],
+              [
+                "Gate 9",
+                "Metric 9",
+                "Owner 9"
+              ],
+              [
+                "Gate 10",
+                "Metric 10",
+                "Owner 10"
+              ]
+            ]
+          }
+        ],
+        "actual_tables": []
+      },
+      "images": {
+        "actual_count": 1,
+        "expected_count": 1,
+        "count_match": true,
+        "hash_matches": 0,
+        "expected_hashes": {
+          "28a7dffe8e90bd89f931b9b5c716220560b8dd91c3fc3730aa1e03fe810571c4": 1
+        },
+        "actual_hashes": {
+          "135af180801439a55d4b3c4513848dc531825d59c6bd53bd4a6356e9d3022309": 1
+        },
+        "printed_words_expected": [
+          "SIGNAL",
+          "CONTROL",
+          "QUALITY",
+          "FLOW"
+        ],
+        "printed_words_ocr_status": "NOT MEASURED — no OCR or image transcription was run"
+      },
+      "mapping": {
+        "correct": 2,
+        "total": 2,
+        "accuracy": 1.0,
+        "comparisons": [
+          {
+            "number": "1",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          },
+          {
+            "number": "2",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          }
+        ]
+      },
+      "ledger": {
+        "placed": 6,
+        "regenerated": 1,
+        "unplaced": 0,
+        "pending": 29
+      },
+      "header_footer_leakage": {
+        "header_or_footer_leaks": [],
+        "page_number_leaks": [],
+        "leaked": false
+      },
+      "existing_verifier": {
+        "defect_count": 164,
+        "defects": [
+          {
+            "category": "ledger",
+            "code": "placement_ledger_mismatch",
+            "missing_ids": [
+              "m7_c_borderless_tables-p002-002",
+              "m7_c_borderless_tables-p002-003",
+              "m7_c_borderless_tables-p002-004",
+              "m7_c_borderless_tables-p002-005",
+              "m7_c_borderless_tables-p003-001",
+              "m7_c_borderless_tables-p003-002",
+              "m7_c_borderless_tables-p003-003",
+              "m7_c_borderless_tables-p003-004",
+              "m7_c_borderless_tables-p003-005",
+              "m7_c_borderless_tables-p003-006",
+              "m7_c_borderless_tables-p003-007",
+              "m7_c_borderless_tables-p003-008",
+              "m7_c_borderless_tables-p003-009",
+              "m7_c_borderless_tables-p004-001",
+              "m7_c_borderless_tables-p004-002",
+              "m7_c_borderless_tables-p004-003",
+              "m7_c_borderless_tables-p004-004",
+              "m7_c_borderless_tables-p004-005",
+              "m7_c_borderless_tables-p004-006",
+              "m7_c_borderless_tables-p004-007",
+              "m7_c_borderless_tables-p004-008",
+              "m7_c_borderless_tables-p004-009",
+              "m7_c_borderless_tables-p004-010",
+              "m7_c_borderless_tables-p005-001",
+              "m7_c_borderless_tables-p005-002",
+              "m7_c_borderless_tables-p005-003",
+              "m7_c_borderless_tables-p005-004",
+              "m7_c_borderless_tables-p005-005",
+              "m7_c_borderless_tables-p005-006"
+            ],
+            "unknown_ids": [],
+            "message": "Placement ledger does not contain exactly one mapping for every source element."
+          },
+          {
+            "category": "ledger",
+            "code": "pending_disposition",
+            "message": "At least one source element has a missing or pending disposition."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_c_borderless_tables-p003-001",
+            "message": "Heading 'Variation Study' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_c_borderless_tables-p003-002",
+            "message": "Heading 'Evidence Inputs' does not appear verbatim at output Heading 3."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_c_borderless_tables-p004-001",
+            "message": "Heading 'Measurement System' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_c_borderless_tables-p004-002",
+            "message": "Heading 'Decision Rights' does not appear verbatim at output Heading 3."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p002-004",
+            "word": "control",
+            "count": 1,
+            "message": "Source word 'control' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p002-004",
+            "word": "plan",
+            "count": 1,
+            "message": "Source word 'plan' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p002-005",
+            "word": "4",
+            "count": 1,
+            "message": "Source word '4' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p002-005",
+            "word": "capability",
+            "count": 1,
+            "message": "Source word 'capability' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p002-005",
+            "word": "review",
+            "count": 1,
+            "message": "Source word 'review' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-001",
+            "word": "variation",
+            "count": 1,
+            "message": "Source word 'variation' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-001",
+            "word": "study",
+            "count": 1,
+            "message": "Source word 'study' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "six",
+            "count": 2,
+            "message": "Source word 'six' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "sigma",
+            "count": 2,
+            "message": "Source word 'sigma' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "teams",
+            "count": 1,
+            "message": "Source word 'teams' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "align",
+            "count": 1,
+            "message": "Source word 'align' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "work",
+            "count": 2,
+            "message": "Source word 'work' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "to",
+            "count": 1,
+            "message": "Source word 'to' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "quality",
+            "count": 1,
+            "message": "Source word 'quality' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "control",
+            "count": 1,
+            "message": "Source word 'control' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "goals",
+            "count": 1,
+            "message": "Source word 'goals' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "record",
+            "count": 1,
+            "message": "Source word 'record' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "before",
+            "count": 1,
+            "message": "Source word 'before' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "advancing",
+            "count": 1,
+            "message": "Source word 'advancing' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-003",
+            "word": "item",
+            "count": 1,
+            "message": "Source word 'item' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-004",
+            "word": "review",
+            "count": 1,
+            "message": "Source word 'review' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-004",
+            "word": "the",
+            "count": 2,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-004",
+            "word": "signal",
+            "count": 1,
+            "message": "Source word 'signal' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-004",
+            "word": "before",
+            "count": 1,
+            "message": "Source word 'before' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-004",
+            "word": "changing",
+            "count": 1,
+            "message": "Source word 'changing' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-004",
+            "word": "plan",
+            "count": 1,
+            "message": "Source word 'plan' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-005",
+            "word": "keep",
+            "count": 1,
+            "message": "Source word 'keep' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-005",
+            "word": "ownership",
+            "count": 1,
+            "message": "Source word 'ownership' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-005",
+            "word": "visible",
+            "count": 1,
+            "message": "Source word 'visible' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-005",
+            "word": "across",
+            "count": 1,
+            "message": "Source word 'across' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-005",
+            "word": "handoffs",
+            "count": 1,
+            "message": "Source word 'handoffs' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-006",
+            "word": "stage",
+            "count": 1,
+            "message": "Source word 'stage' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-006",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-006",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-007",
+            "word": "frame",
+            "count": 1,
+            "message": "Source word 'frame' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-007",
+            "word": "baseline",
+            "count": 1,
+            "message": "Source word 'baseline' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-007",
+            "word": "lead",
+            "count": 1,
+            "message": "Source word 'lead' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-008",
+            "word": "test",
+            "count": 1,
+            "message": "Source word 'test' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-008",
+            "word": "outcome",
+            "count": 1,
+            "message": "Source word 'outcome' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-008",
+            "word": "team",
+            "count": 1,
+            "message": "Source word 'team' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-009",
+            "word": "learn",
+            "count": 1,
+            "message": "Source word 'learn' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p003-009",
+            "word": "sponsor",
+            "count": 1,
+            "message": "Source word 'sponsor' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-001",
+            "word": "measurement",
+            "count": 1,
+            "message": "Source word 'measurement' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-001",
+            "word": "system",
+            "count": 1,
+            "message": "Source word 'system' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-002",
+            "word": "decision",
+            "count": 1,
+            "message": "Source word 'decision' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "the",
+            "count": 2,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "six",
+            "count": 1,
+            "message": "Source word 'six' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "sigma",
+            "count": 1,
+            "message": "Source word 'sigma' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "method",
+            "count": 1,
+            "message": "Source word 'method' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "uses",
+            "count": 1,
+            "message": "Source word 'uses' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "measurement",
+            "count": 1,
+            "message": "Source word 'measurement' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "system",
+            "count": 1,
+            "message": "Source word 'system' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "to",
+            "count": 1,
+            "message": "Source word 'to' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "make",
+            "count": 1,
+            "message": "Source word 'make' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "next",
+            "count": 1,
+            "message": "Source word 'next' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "decision",
+            "count": 1,
+            "message": "Source word 'decision' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "observable",
+            "count": 1,
+            "message": "Source word 'observable' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-003",
+            "word": "reversible",
+            "count": 1,
+            "message": "Source word 'reversible' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "teams",
+            "count": 1,
+            "message": "Source word 'teams' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "capture",
+            "count": 1,
+            "message": "Source word 'capture' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "context",
+            "count": 1,
+            "message": "Source word 'context' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "compare",
+            "count": 1,
+            "message": "Source word 'compare' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "and",
+            "count": 1,
+            "message": "Source word 'and' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "assign",
+            "count": 1,
+            "message": "Source word 'assign' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "named",
+            "count": 1,
+            "message": "Source word 'named' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "for",
+            "count": 1,
+            "message": "Source word 'for' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "next",
+            "count": 1,
+            "message": "Source word 'next' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-004",
+            "word": "review",
+            "count": 1,
+            "message": "Source word 'review' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-005",
+            "word": "control",
+            "count": 1,
+            "message": "Source word 'control' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-005",
+            "word": "measure",
+            "count": 1,
+            "message": "Source word 'measure' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-005",
+            "word": "escalation",
+            "count": 1,
+            "message": "Source word 'escalation' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-006",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-006",
+            "word": "1",
+            "count": 1,
+            "message": "Source word '1' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-006",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-006",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-007",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-007",
+            "word": "2",
+            "count": 3,
+            "message": "Source word '2' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-007",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-007",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-008",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-008",
+            "word": "3",
+            "count": 3,
+            "message": "Source word '3' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-008",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-008",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-009",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-009",
+            "word": "4",
+            "count": 3,
+            "message": "Source word '4' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-009",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-009",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-010",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-010",
+            "word": "5",
+            "count": 3,
+            "message": "Source word '5' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-010",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p004-010",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-001",
+            "word": "continuation",
+            "count": 1,
+            "message": "Source word 'continuation' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-001",
+            "word": "of",
+            "count": 1,
+            "message": "Source word 'of' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-001",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-001",
+            "word": "unruled",
+            "count": 1,
+            "message": "Source word 'unruled' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-001",
+            "word": "control",
+            "count": 1,
+            "message": "Source word 'control' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-001",
+            "word": "matrix",
+            "count": 1,
+            "message": "Source word 'matrix' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-001",
+            "word": "across",
+            "count": 1,
+            "message": "Source word 'across' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-001",
+            "word": "break",
+            "count": 1,
+            "message": "Source word 'break' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-002",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-002",
+            "word": "6",
+            "count": 3,
+            "message": "Source word '6' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-002",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-002",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-003",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-003",
+            "word": "7",
+            "count": 3,
+            "message": "Source word '7' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-003",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-003",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-004",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-004",
+            "word": "8",
+            "count": 3,
+            "message": "Source word '8' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-004",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-004",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-005",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-005",
+            "word": "9",
+            "count": 3,
+            "message": "Source word '9' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-005",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-005",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-006",
+            "word": "gate",
+            "count": 1,
+            "message": "Source word 'gate' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-006",
+            "word": "10",
+            "count": 3,
+            "message": "Source word '10' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-006",
+            "word": "metric",
+            "count": 1,
+            "message": "Source word 'metric' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_c_borderless_tables-p005-006",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "table block 31, row 1, column 2",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "table block 31, row 1, column 6",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 33 (Heading 1)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_c_borderless_tables",
+            "location": "table block 31, row 2, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_c_borderless_tables' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_c_borderless_tables",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_c_borderless_tables' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_c_borderless_tables",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_c_borderless_tables' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_c_borderless_tables",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_c_borderless_tables' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p003",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p003' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p003",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p003' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "001",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '001' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "001",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '001' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "002",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '002' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "002",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '002' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p004",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p004' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p004",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p004' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "1",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "2",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          }
+        ],
+        "text_recall": 0.20967741935483872,
+        "table_matches": 0,
+        "image_hash_set_equal": true
+      },
+      "failures": [
+        {
+          "document": "m7_c_borderless_tables",
+          "category": "text",
+          "detail": "Missing 4 words and excess 0 words.",
+          "likely_root_cause": "`src/poc/extract.py` builds text elements from PyMuPDF text blocks and line spans; `config/extraction.yaml` supplies the heading and bullet heuristics. Image-only text has no OCR path.",
+          "recommended_scope": "generic extractor or configuration change; OCR is out of scope"
+        },
+        {
+          "document": "m7_c_borderless_tables",
+          "category": "tables",
+          "detail": "Cell-exact matches 0/2; extracted 0 tables.",
+          "likely_root_cause": "`src/poc/extract.py` calls pdfplumber `find_tables`; `config/extraction.yaml` selects the lines strategy and fixed snap/join tolerances, which cannot detect whitespace-aligned tables reliably or join split-page fragments.",
+          "recommended_scope": "generic table detection/joining or configuration change, measured only"
+        },
+        {
+          "document": "m7_c_borderless_tables",
+          "category": "images",
+          "detail": "Image count 1/1; exact hash matches 0/1.",
+          "likely_root_cause": "`src/poc/extract.py` hashes extracted image streams; PDF image re-encoding and full-page rasterization can change byte identity relative to generator source bytes.",
+          "recommended_scope": "generic provenance/hash handling or configuration change, measured only"
+        },
+        {
+          "document": "m7_c_borderless_tables",
+          "category": "ledger",
+          "detail": "Unplaced=0; pending=29.",
+          "likely_root_cause": "`src/poc/render_docx.py` places content only under a preceding heading with a canonical target section; unmatched headings leave elements without a destination.",
+          "recommended_scope": "generic renderer or classification coverage; measured without fixes"
+        }
+      ]
+    },
+    "m7_d_two_column": {
+      "status": "complete",
+      "source_pdf_sha256": "46de874d62f4c682a725873f1b26c985604ef12b5186da15759fc8c7e1cdfec7",
+      "page_count": 6,
+      "expected_page_count": 6,
+      "text": {
+        "status": "measured",
+        "expected_words": 186,
+        "extracted_words": 178,
+        "recalled_words": 178,
+        "recall": 0.956989247311828,
+        "missing_word_count": 8,
+        "missing_words": {
+          "signal": 2,
+          "control": 2,
+          "quality": 2,
+          "flow": 2
+        },
+        "excess_word_count": 0,
+        "excess_words": {}
+      },
+      "headings": {
+        "matched": 7,
+        "expected": 7,
+        "actual": 7,
+        "expected_items": [
+          {
+            "page": 3,
+            "title": "Service Flow",
+            "level": 1
+          },
+          {
+            "page": 3,
+            "title": "Evidence Inputs",
+            "level": 2
+          },
+          {
+            "page": 4,
+            "title": "Deployment Safety",
+            "level": 1
+          },
+          {
+            "page": 4,
+            "title": "Column Handoff",
+            "level": 2
+          },
+          {
+            "page": 5,
+            "title": "Incident Learning",
+            "level": 1
+          },
+          {
+            "page": 5,
+            "title": "Assurance Measures",
+            "level": 2
+          },
+          {
+            "page": 6,
+            "title": "Reliability Signals",
+            "level": 1
+          }
+        ],
+        "actual_items": [
+          {
+            "page": 3,
+            "title": "Service Flow",
+            "level": 1,
+            "number": "1"
+          },
+          {
+            "page": 3,
+            "title": "Evidence Inputs",
+            "level": 2,
+            "number": "1.1"
+          },
+          {
+            "page": 4,
+            "title": "Deployment Safety",
+            "level": 1,
+            "number": "2"
+          },
+          {
+            "page": 4,
+            "title": "Column Handoff",
+            "level": 2,
+            "number": "2.1"
+          },
+          {
+            "page": 5,
+            "title": "Incident Learning",
+            "level": 1,
+            "number": "3"
+          },
+          {
+            "page": 5,
+            "title": "Assurance Measures",
+            "level": 2,
+            "number": "3.1"
+          },
+          {
+            "page": 6,
+            "title": "Reliability Signals",
+            "level": 1,
+            "number": "4"
+          }
+        ],
+        "missing": [],
+        "extra": []
+      },
+      "tables": {
+        "shape_matches": 2,
+        "cell_matches": 2,
+        "expected": 2,
+        "actual": 2,
+        "matches": [
+          true,
+          true
+        ],
+        "expected_tables": [
+          {
+            "shape": [
+              4,
+              3
+            ],
+            "cells": [
+              [
+                "Stage",
+                "Evidence",
+                "Owner"
+              ],
+              [
+                "Frame",
+                "Baseline",
+                "Lead"
+              ],
+              [
+                "Test",
+                "Outcome",
+                "Team"
+              ],
+              [
+                "Learn",
+                "Decision",
+                "Sponsor"
+              ]
+            ]
+          },
+          {
+            "shape": [
+              4,
+              2
+            ],
+            "cells": [
+              [
+                "Check",
+                "Threshold"
+              ],
+              [
+                "Trace",
+                "Evidence linked"
+              ],
+              [
+                "Review",
+                "Owner assigned"
+              ],
+              [
+                "Close",
+                "Action recorded"
+              ]
+            ]
+          }
+        ],
+        "actual_tables": [
+          {
+            "element_id": "m7_d_two_column-p003-006",
+            "page": 3,
+            "shape": [
+              4,
+              3
+            ],
+            "cells": [
+              [
+                "Stage",
+                "Evidence",
+                "Owner"
+              ],
+              [
+                "Frame",
+                "Baseline",
+                "Lead"
+              ],
+              [
+                "Test",
+                "Outcome",
+                "Team"
+              ],
+              [
+                "Learn",
+                "Decision",
+                "Sponsor"
+              ]
+            ]
+          },
+          {
+            "element_id": "m7_d_two_column-p005-004",
+            "page": 5,
+            "shape": [
+              4,
+              2
+            ],
+            "cells": [
+              [
+                "Check",
+                "Threshold"
+              ],
+              [
+                "Trace",
+                "Evidence linked"
+              ],
+              [
+                "Review",
+                "Owner assigned"
+              ],
+              [
+                "Close",
+                "Action recorded"
+              ]
+            ]
+          }
+        ]
+      },
+      "images": {
+        "actual_count": 3,
+        "expected_count": 3,
+        "count_match": true,
+        "hash_matches": 0,
+        "expected_hashes": {
+          "1e3cf84776afa3e6f1fca75bf7e12be0f87d3f540b1809390c2307f1a163f40f": 3
+        },
+        "actual_hashes": {
+          "57dceb1dd5e9aeab95d6107f68af7a38ef2f4e71a57999f6019cb563d05a46ad": 3
+        },
+        "printed_words_expected": [
+          "SIGNAL",
+          "CONTROL",
+          "QUALITY",
+          "FLOW",
+          "SIGNAL",
+          "CONTROL",
+          "QUALITY",
+          "FLOW",
+          "SIGNAL",
+          "CONTROL",
+          "QUALITY",
+          "FLOW"
+        ],
+        "printed_words_ocr_status": "NOT MEASURED — no OCR or image transcription was run"
+      },
+      "mapping": {
+        "correct": 4,
+        "total": 4,
+        "accuracy": 1.0,
+        "comparisons": [
+          {
+            "number": "1",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          },
+          {
+            "number": "2",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          },
+          {
+            "number": "3",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          },
+          {
+            "number": "4",
+            "expected": "unclassified",
+            "actual": "unclassified",
+            "correct": true
+          }
+        ]
+      },
+      "ledger": {
+        "placed": 6,
+        "regenerated": 1,
+        "unplaced": 0,
+        "pending": 24
+      },
+      "header_footer_leakage": {
+        "header_or_footer_leaks": [],
+        "page_number_leaks": [],
+        "leaked": false
+      },
+      "existing_verifier": {
+        "defect_count": 194,
+        "defects": [
+          {
+            "category": "ledger",
+            "code": "placement_ledger_mismatch",
+            "missing_ids": [
+              "m7_d_two_column-p002-002",
+              "m7_d_two_column-p002-003",
+              "m7_d_two_column-p002-004",
+              "m7_d_two_column-p002-005",
+              "m7_d_two_column-p003-001",
+              "m7_d_two_column-p003-002",
+              "m7_d_two_column-p003-003",
+              "m7_d_two_column-p003-004",
+              "m7_d_two_column-p003-005",
+              "m7_d_two_column-p003-006",
+              "m7_d_two_column-p004-001",
+              "m7_d_two_column-p004-002",
+              "m7_d_two_column-p004-003",
+              "m7_d_two_column-p004-004",
+              "m7_d_two_column-p004-005",
+              "m7_d_two_column-p004-006",
+              "m7_d_two_column-p004-007",
+              "m7_d_two_column-p005-001",
+              "m7_d_two_column-p005-002",
+              "m7_d_two_column-p005-003",
+              "m7_d_two_column-p005-004",
+              "m7_d_two_column-p005-005",
+              "m7_d_two_column-p006-001",
+              "m7_d_two_column-p006-002"
+            ],
+            "unknown_ids": [],
+            "message": "Placement ledger does not contain exactly one mapping for every source element."
+          },
+          {
+            "category": "ledger",
+            "code": "pending_disposition",
+            "message": "At least one source element has a missing or pending disposition."
+          },
+          {
+            "category": "tables",
+            "code": "table_count_mismatch",
+            "message": "Expected 2 source tables, found 0 output tables."
+          },
+          {
+            "category": "tables",
+            "code": "table_shape_mismatch",
+            "element_id": "m7_d_two_column-p003-006",
+            "message": "Table shape [0, 0] differs from expected [4, 3]."
+          },
+          {
+            "category": "tables",
+            "code": "table_shape_mismatch",
+            "element_id": "m7_d_two_column-p005-004",
+            "message": "Table shape [0, 0] differs from expected [4, 2]."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_d_two_column-p003-001",
+            "message": "Heading 'Service Flow' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_d_two_column-p003-002",
+            "message": "Heading 'Evidence Inputs' does not appear verbatim at output Heading 3."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_d_two_column-p004-001",
+            "message": "Heading 'Deployment Safety' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_d_two_column-p004-002",
+            "message": "Heading 'Column Handoff' does not appear verbatim at output Heading 3."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_d_two_column-p005-001",
+            "message": "Heading 'Incident Learning' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_d_two_column-p005-002",
+            "message": "Heading 'Assurance Measures' does not appear verbatim at output Heading 3."
+          },
+          {
+            "category": "headings",
+            "code": "heading_missing_or_wrong_level",
+            "element_id": "m7_d_two_column-p006-001",
+            "message": "Heading 'Reliability Signals' does not appear verbatim at output Heading 2."
+          },
+          {
+            "category": "images",
+            "code": "image_set_or_count_mismatch",
+            "element_ids": [
+              "m7_d_two_column-p001-006",
+              "m7_d_two_column-p004-005",
+              "m7_d_two_column-p005-005"
+            ],
+            "message": "DOCX media has 1 files; source has 3 display images."
+          },
+          {
+            "category": "images",
+            "code": "image_relationship_mismatch",
+            "message": "Inline image relationships do not contain the source display-image hashes with matching counts."
+          },
+          {
+            "category": "images",
+            "code": "image_placement_mismatch",
+            "element_ids": [],
+            "message": "The image hashes appear in a different figure order than the source-to-target placement order."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-001",
+            "word": "service",
+            "count": 1,
+            "message": "Source word 'service' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-001",
+            "word": "flow",
+            "count": 1,
+            "message": "Source word 'flow' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "devops",
+            "count": 2,
+            "message": "Source word 'devops' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "teams",
+            "count": 1,
+            "message": "Source word 'teams' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "align",
+            "count": 1,
+            "message": "Source word 'align' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "work",
+            "count": 2,
+            "message": "Source word 'work' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "to",
+            "count": 1,
+            "message": "Source word 'to' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "service",
+            "count": 1,
+            "message": "Source word 'service' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "reliability",
+            "count": 1,
+            "message": "Source word 'reliability' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "goals",
+            "count": 1,
+            "message": "Source word 'goals' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "record",
+            "count": 1,
+            "message": "Source word 'record' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "before",
+            "count": 1,
+            "message": "Source word 'before' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "advancing",
+            "count": 1,
+            "message": "Source word 'advancing' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-003",
+            "word": "item",
+            "count": 1,
+            "message": "Source word 'item' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-004",
+            "word": "review",
+            "count": 1,
+            "message": "Source word 'review' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-004",
+            "word": "the",
+            "count": 2,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-004",
+            "word": "signal",
+            "count": 1,
+            "message": "Source word 'signal' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-004",
+            "word": "before",
+            "count": 1,
+            "message": "Source word 'before' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-004",
+            "word": "changing",
+            "count": 1,
+            "message": "Source word 'changing' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-004",
+            "word": "plan",
+            "count": 1,
+            "message": "Source word 'plan' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-005",
+            "word": "keep",
+            "count": 1,
+            "message": "Source word 'keep' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-005",
+            "word": "ownership",
+            "count": 1,
+            "message": "Source word 'ownership' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-005",
+            "word": "visible",
+            "count": 1,
+            "message": "Source word 'visible' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-005",
+            "word": "across",
+            "count": 1,
+            "message": "Source word 'across' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-005",
+            "word": "handoffs",
+            "count": 1,
+            "message": "Source word 'handoffs' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "stage",
+            "count": 1,
+            "message": "Source word 'stage' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "frame",
+            "count": 1,
+            "message": "Source word 'frame' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "baseline",
+            "count": 1,
+            "message": "Source word 'baseline' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "lead",
+            "count": 1,
+            "message": "Source word 'lead' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "test",
+            "count": 1,
+            "message": "Source word 'test' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "outcome",
+            "count": 1,
+            "message": "Source word 'outcome' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "team",
+            "count": 1,
+            "message": "Source word 'team' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "learn",
+            "count": 1,
+            "message": "Source word 'learn' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "decision",
+            "count": 1,
+            "message": "Source word 'decision' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p003-006",
+            "word": "sponsor",
+            "count": 1,
+            "message": "Source word 'sponsor' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-001",
+            "word": "deployment",
+            "count": 1,
+            "message": "Source word 'deployment' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-001",
+            "word": "safety",
+            "count": 1,
+            "message": "Source word 'safety' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "the",
+            "count": 2,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "devops",
+            "count": 1,
+            "message": "Source word 'devops' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "method",
+            "count": 1,
+            "message": "Source word 'method' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "uses",
+            "count": 1,
+            "message": "Source word 'uses' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "deployment",
+            "count": 1,
+            "message": "Source word 'deployment' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "safety",
+            "count": 1,
+            "message": "Source word 'safety' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "to",
+            "count": 1,
+            "message": "Source word 'to' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "make",
+            "count": 1,
+            "message": "Source word 'make' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "next",
+            "count": 1,
+            "message": "Source word 'next' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "decision",
+            "count": 1,
+            "message": "Source word 'decision' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "observable",
+            "count": 1,
+            "message": "Source word 'observable' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-003",
+            "word": "reversible",
+            "count": 1,
+            "message": "Source word 'reversible' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "teams",
+            "count": 1,
+            "message": "Source word 'teams' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "capture",
+            "count": 1,
+            "message": "Source word 'capture' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "context",
+            "count": 1,
+            "message": "Source word 'context' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "compare",
+            "count": 1,
+            "message": "Source word 'compare' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "and",
+            "count": 1,
+            "message": "Source word 'and' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "assign",
+            "count": 1,
+            "message": "Source word 'assign' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "named",
+            "count": 1,
+            "message": "Source word 'named' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "for",
+            "count": 1,
+            "message": "Source word 'for' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "next",
+            "count": 1,
+            "message": "Source word 'next' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-004",
+            "word": "review",
+            "count": 1,
+            "message": "Source word 'review' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-006",
+            "word": "service",
+            "count": 1,
+            "message": "Source word 'service' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-006",
+            "word": "signals",
+            "count": 1,
+            "message": "Source word 'signals' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-006",
+            "word": "move",
+            "count": 1,
+            "message": "Source word 'move' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-006",
+            "word": "through",
+            "count": 1,
+            "message": "Source word 'through' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-006",
+            "word": "guarded",
+            "count": 1,
+            "message": "Source word 'guarded' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-006",
+            "word": "deployment",
+            "count": 1,
+            "message": "Source word 'deployment' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-006",
+            "word": "loop",
+            "count": 1,
+            "message": "Source word 'loop' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-007",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-007",
+            "word": "is",
+            "count": 1,
+            "message": "Source word 'is' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-007",
+            "word": "sampled",
+            "count": 1,
+            "message": "Source word 'sampled' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-007",
+            "word": "after",
+            "count": 1,
+            "message": "Source word 'after' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-007",
+            "word": "a",
+            "count": 1,
+            "message": "Source word 'a' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-007",
+            "word": "stable",
+            "count": 1,
+            "message": "Source word 'stable' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-007",
+            "word": "observation",
+            "count": 1,
+            "message": "Source word 'observation' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p004-007",
+            "word": "window",
+            "count": 1,
+            "message": "Source word 'window' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-001",
+            "word": "incident",
+            "count": 1,
+            "message": "Source word 'incident' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "devops",
+            "count": 1,
+            "message": "Source word 'devops' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "records",
+            "count": 1,
+            "message": "Source word 'records' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "a",
+            "count": 1,
+            "message": "Source word 'a' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "measurable",
+            "count": 1,
+            "message": "Source word 'measurable' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "for",
+            "count": 1,
+            "message": "Source word 'for' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "incident",
+            "count": 1,
+            "message": "Source word 'incident' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "and",
+            "count": 1,
+            "message": "Source word 'and' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "preserves",
+            "count": 1,
+            "message": "Source word 'preserves' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "decision",
+            "count": 1,
+            "message": "Source word 'decision' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-003",
+            "word": "context",
+            "count": 1,
+            "message": "Source word 'context' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "threshold",
+            "count": 1,
+            "message": "Source word 'threshold' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "trace",
+            "count": 1,
+            "message": "Source word 'trace' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "linked",
+            "count": 1,
+            "message": "Source word 'linked' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "review",
+            "count": 1,
+            "message": "Source word 'review' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "owner",
+            "count": 1,
+            "message": "Source word 'owner' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "assigned",
+            "count": 1,
+            "message": "Source word 'assigned' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "close",
+            "count": 1,
+            "message": "Source word 'close' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "action",
+            "count": 1,
+            "message": "Source word 'action' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p005-004",
+            "word": "recorded",
+            "count": 1,
+            "message": "Source word 'recorded' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-001",
+            "word": "reliability",
+            "count": 1,
+            "message": "Source word 'reliability' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-001",
+            "word": "signals",
+            "count": 1,
+            "message": "Source word 'signals' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "a",
+            "count": 1,
+            "message": "Source word 'a' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "closeout",
+            "count": 1,
+            "message": "Source word 'closeout' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "record",
+            "count": 1,
+            "message": "Source word 'record' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "states",
+            "count": 1,
+            "message": "Source word 'states' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "what",
+            "count": 2,
+            "message": "Source word 'what' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "changed",
+            "count": 1,
+            "message": "Source word 'changed' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "who",
+            "count": 1,
+            "message": "Source word 'who' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "accepted",
+            "count": 1,
+            "message": "Source word 'accepted' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "the",
+            "count": 1,
+            "message": "Source word 'the' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "evidence",
+            "count": 1,
+            "message": "Source word 'evidence' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "and",
+            "count": 1,
+            "message": "Source word 'and' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "remains",
+            "count": 1,
+            "message": "Source word 'remains' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "open",
+            "count": 1,
+            "message": "Source word 'open' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_missing",
+            "element_id": "m7_d_two_column-p006-002",
+            "word": "devops",
+            "count": 1,
+            "message": "Source word 'devops' is missing from output."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "table block 31, row 1, column 2",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "table block 31, row 1, column 6",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 33 (Heading 1)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "source",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'source' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_d_two_column",
+            "location": "table block 31, row 2, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_d_two_column' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_d_two_column",
+            "location": "table block 31, row 3, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_d_two_column' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_d_two_column",
+            "location": "table block 31, row 4, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_d_two_column' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_d_two_column",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_d_two_column' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_d_two_column",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_d_two_column' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_d_two_column",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_d_two_column' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_d_two_column",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_d_two_column' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p004",
+            "location": "table block 31, row 3, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'p004' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p004",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p004' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p005",
+            "location": "table block 31, row 4, column 1",
+            "possible_fabrication": true,
+            "message": "Output word 'p005' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p005",
+            "location": "body paragraph 38 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p005' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p003",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p003' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p003",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p003' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "001",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '001' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "001",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '001' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "001",
+            "location": "body paragraph 38 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '001' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "001",
+            "location": "body paragraph 40 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '001' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 38 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 39 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "number",
+            "location": "body paragraph 40 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'number' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 38 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 39 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "title",
+            "location": "body paragraph 40 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'title' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 38 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 39 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "target",
+            "location": "body paragraph 40 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'target' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 34 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 36 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 38 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 39 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "unmapped",
+            "location": "body paragraph 40 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'unmapped' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "002",
+            "location": "body paragraph 35 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '002' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "002",
+            "location": "body paragraph 37 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '002' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "002",
+            "location": "body paragraph 39 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word '002' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "p006",
+            "location": "body paragraph 40 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'p006' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "1",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "2",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "3",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "4",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          }
+        ],
+        "text_recall": 0.2994350282485876,
+        "table_matches": 0,
+        "image_hash_set_equal": true
+      },
+      "failures": [
+        {
+          "document": "m7_d_two_column",
+          "category": "text",
+          "detail": "Missing 8 words and excess 0 words.",
+          "likely_root_cause": "`src/poc/extract.py` builds text elements from PyMuPDF text blocks and line spans; `config/extraction.yaml` supplies the heading and bullet heuristics. Image-only text has no OCR path.",
+          "recommended_scope": "generic extractor or configuration change; OCR is out of scope"
+        },
+        {
+          "document": "m7_d_two_column",
+          "category": "images",
+          "detail": "Image count 3/3; exact hash matches 0/3.",
+          "likely_root_cause": "`src/poc/extract.py` hashes extracted image streams; PDF image re-encoding and full-page rasterization can change byte identity relative to generator source bytes.",
+          "recommended_scope": "generic provenance/hash handling or configuration change, measured only"
+        },
+        {
+          "document": "m7_d_two_column",
+          "category": "ledger",
+          "detail": "Unplaced=0; pending=24.",
+          "likely_root_cause": "`src/poc/render_docx.py` places content only under a preceding heading with a canonical target section; unmatched headings leave elements without a destination.",
+          "recommended_scope": "generic renderer or classification coverage; measured without fixes"
+        }
+      ]
+    },
+    "m7_e_scanned": {
+      "status": "complete",
+      "source_pdf_sha256": "8e9168d653ce3edfe79f6634ace6da7a26ad0323aef2a04420e20e9b67d1dd28",
+      "page_count": 6,
+      "expected_page_count": 6,
+      "text": {
+        "status": "no text extracted",
+        "expected_words": 130,
+        "extracted_words": 0,
+        "recalled_words": 0,
+        "recall": 0.0,
+        "missing_word_count": 130,
+        "missing_words": {
+          "northstar": 1,
+          "delivery": 1,
+          "office": 1,
+          "project": 1,
+          "method": 1,
+          "playbook": 1,
+          "spiral": 6,
+          "risk": 8,
+          "engineering": 1,
+          "synthetic": 1,
+          "baseline": 1,
+          "edition": 1,
+          "signal": 2,
+          "control": 2,
+          "quality": 2,
+          "flow": 2,
+          "contents": 1,
+          "1": 2,
+          "resolution": 3,
+          "2": 2,
+          "prototype": 3,
+          "review": 7,
+          "3": 3,
+          "iteration": 3,
+          "contract": 3,
+          "4": 3,
+          "exit": 3,
+          "evidence": 7,
+          "teams": 4,
+          "resolve": 4,
+          "uncertainty": 4,
+          "through": 4,
+          "controlled": 4,
+          "experiments": 4,
+          "and": 4,
+          "explicit": 4,
+          "page": 4,
+          "describes": 4,
+          "with": 4,
+          "repeatable": 4,
+          "acceptance": 4,
+          "signals": 4,
+          "5": 1,
+          "6": 1
+        },
+        "excess_word_count": 0,
+        "excess_words": {},
+        "note": "no text extracted"
+      },
+      "headings": {
+        "matched": 0,
+        "expected": 4,
+        "actual": 0,
+        "expected_items": [
+          {
+            "page": 3,
+            "title": "Risk Resolution",
+            "level": 1
+          },
+          {
+            "page": 4,
+            "title": "Prototype Review",
+            "level": 1
+          },
+          {
+            "page": 5,
+            "title": "Iteration Contract",
+            "level": 1
+          },
+          {
+            "page": 6,
+            "title": "Exit Evidence",
+            "level": 1
+          }
+        ],
+        "actual_items": [],
+        "missing": [
+          [
+            1,
+            "risk resolution"
+          ],
+          [
+            1,
+            "prototype review"
+          ],
+          [
+            1,
+            "iteration contract"
+          ],
+          [
+            1,
+            "exit evidence"
+          ]
+        ],
+        "extra": []
+      },
+      "tables": {
+        "shape_matches": 0,
+        "cell_matches": 0,
+        "expected": 0,
+        "actual": 0,
+        "matches": [],
+        "expected_tables": [],
+        "actual_tables": []
+      },
+      "images": {
+        "actual_count": 6,
+        "expected_count": 6,
+        "count_match": true,
+        "hash_matches": 6,
+        "expected_hashes": {
+          "60d779911a7db646ff7ef7719393d6a535514ff90eb6f0a85a866ca979291960": 1,
+          "e059e9ebe53fdfa3d92a9ce3745f526d1ed1dd4767a1a188eded2e4dae1fa4be": 1,
+          "0fe331169f7a055a65d480f603047d05367d1383f3cb160aa349cc78dc97a859": 1,
+          "43f998c86f57e505f85b6c74e877b2f040a428d257d0088d42a9e785e1f0fc07": 1,
+          "6fa7c74eb2c95ee98641b2bb4329c78fcc86ec26133c2df332e52025c434af0e": 1,
+          "2479019f799f75f5f3ed51384c18d7893978655cd52824c0bed8739251294c58": 1
+        },
+        "actual_hashes": {
+          "60d779911a7db646ff7ef7719393d6a535514ff90eb6f0a85a866ca979291960": 1,
+          "e059e9ebe53fdfa3d92a9ce3745f526d1ed1dd4767a1a188eded2e4dae1fa4be": 1,
+          "0fe331169f7a055a65d480f603047d05367d1383f3cb160aa349cc78dc97a859": 1,
+          "43f998c86f57e505f85b6c74e877b2f040a428d257d0088d42a9e785e1f0fc07": 1,
+          "6fa7c74eb2c95ee98641b2bb4329c78fcc86ec26133c2df332e52025c434af0e": 1,
+          "2479019f799f75f5f3ed51384c18d7893978655cd52824c0bed8739251294c58": 1
+        },
+        "printed_words_expected": [
+          "SIGNAL",
+          "CONTROL",
+          "QUALITY",
+          "FLOW"
+        ],
+        "printed_words_ocr_status": "NOT MEASURED — no OCR or image transcription was run"
+      },
+      "mapping": {
+        "correct": 0,
+        "total": 4,
+        "accuracy": 0.0,
+        "comparisons": [
+          {
+            "number": "1",
+            "expected": "unclassified",
+            "actual": "not_extracted",
+            "correct": false
+          },
+          {
+            "number": "2",
+            "expected": "unclassified",
+            "actual": "not_extracted",
+            "correct": false
+          },
+          {
+            "number": "3",
+            "expected": "unclassified",
+            "actual": "not_extracted",
+            "correct": false
+          },
+          {
+            "number": "4",
+            "expected": "unclassified",
+            "actual": "not_extracted",
+            "correct": false
+          }
+        ]
+      },
+      "ledger": {
+        "placed": 1,
+        "regenerated": 0,
+        "unplaced": 0,
+        "pending": 5
+      },
+      "header_footer_leakage": {
+        "header_or_footer_leaks": [],
+        "page_number_leaks": [],
+        "leaked": false
+      },
+      "existing_verifier": {
+        "defect_count": 10,
+        "defects": [
+          {
+            "category": "ledger",
+            "code": "placement_ledger_mismatch",
+            "missing_ids": [
+              "m7_e_scanned-p002-001",
+              "m7_e_scanned-p003-001",
+              "m7_e_scanned-p004-001",
+              "m7_e_scanned-p005-001",
+              "m7_e_scanned-p006-001"
+            ],
+            "unknown_ids": [],
+            "message": "Placement ledger does not contain exactly one mapping for every source element."
+          },
+          {
+            "category": "ledger",
+            "code": "pending_disposition",
+            "message": "At least one source element has a missing or pending disposition."
+          },
+          {
+            "category": "images",
+            "code": "image_set_or_count_mismatch",
+            "element_ids": [
+              "m7_e_scanned-p002-001",
+              "m7_e_scanned-p003-001",
+              "m7_e_scanned-p004-001",
+              "m7_e_scanned-p005-001",
+              "m7_e_scanned-p006-001"
+            ],
+            "message": "DOCX media has 1 files; source has 6 display images."
+          },
+          {
+            "category": "images",
+            "code": "image_relationship_mismatch",
+            "message": "Inline image relationships do not contain the source display-image hashes with matching counts."
+          },
+          {
+            "category": "images",
+            "code": "image_placement_mismatch",
+            "element_ids": [],
+            "message": "The image hashes appear in a different figure order than the source-to-target placement order."
+          },
+          {
+            "category": "text",
+            "code": "text_excess",
+            "word": "m7_e_scanned",
+            "location": "body paragraph 1 (Normal)",
+            "possible_fabrication": true,
+            "message": "Output word 'm7_e_scanned' is not source or allowed generated text; possible fabrication."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "1",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "2",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "3",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          },
+          {
+            "category": "mapping",
+            "code": "mapping_mismatch",
+            "element_id": null,
+            "number": "4",
+            "expected": "unclassified",
+            "actual": null,
+            "correct": false,
+            "message": "Section classification differs from the answer key."
+          }
+        ],
+        "text_recall": null,
+        "table_matches": 0,
+        "image_hash_set_equal": false
+      },
+      "failures": [
+        {
+          "document": "m7_e_scanned",
+          "category": "text",
+          "detail": "Missing 130 words and excess 0 words.",
+          "likely_root_cause": "`src/poc/extract.py` builds text elements from PyMuPDF text blocks and line spans; `config/extraction.yaml` supplies the heading and bullet heuristics. Image-only text has no OCR path.",
+          "recommended_scope": "generic extractor or configuration change; OCR is out of scope"
+        },
+        {
+          "document": "m7_e_scanned",
+          "category": "headings",
+          "detail": "Matched 0/4; missing=[(1, 'risk resolution'), (1, 'prototype review'), (1, 'iteration contract'), (1, 'exit evidence')]; extra=[].",
+          "likely_root_cause": "`src/poc/extract.py` reads page text with PyMuPDF; these pages contain only raster images, so no heading text reaches the numbered-heading detector. OCR is out of scope.",
+          "recommended_scope": "OCR is out of scope; no baseline fix applied"
+        },
+        {
+          "document": "m7_e_scanned",
+          "category": "section_mapping",
+          "detail": "Correct 0/4 expected top-level classifications.",
+          "likely_root_cause": "`src/poc/enrich.py` applies keyword rules from `config/classification.yaml`; the baseline runner deliberately skips LLM fallback, so unknown wording stays unclassified.",
+          "recommended_scope": "classification configuration or generic rule coverage; no LLM used"
+        },
+        {
+          "document": "m7_e_scanned",
+          "category": "ledger",
+          "detail": "Unplaced=0; pending=5.",
+          "likely_root_cause": "`src/poc/render_docx.py` places content only under a preceding heading with a canonical target section; unmatched headings leave elements without a destination.",
+          "recommended_scope": "generic renderer or classification coverage; measured without fixes"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "documents": 5,
+    "crashes": 0,
+    "failures": 18
+  }
+}

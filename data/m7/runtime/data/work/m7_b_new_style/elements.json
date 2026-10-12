@@ -1,0 +1,926 @@
+{
+  "doc_id": "m7_b_new_style",
+  "source_file": "m7_b_new_style.pdf",
+  "source_sha256": "d58306caa81dfe77aad55377e1e1215c0838f5bfdae646dfcaf2ad6fead31fca",
+  "page_count": 6,
+  "elements": [
+    {
+      "id": "m7_b_new_style-p001-001",
+      "doc_id": "m7_b_new_style",
+      "page": 1,
+      "bbox": [
+        220.9235076904297,
+        164.99996948242188,
+        374.07659912109375,
+        182.90097045898438
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Northstar Delivery Office",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_b_new_style-p001-002",
+      "doc_id": "m7_b_new_style",
+      "page": 1,
+      "bbox": [
+        144.7100067138672,
+        300.0000305175781,
+        450.28997802734375,
+        327.5400390625
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "PROJECT METHOD PLAYBOOK",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_b_new_style-p001-003",
+      "doc_id": "m7_b_new_style",
+      "page": 1,
+      "bbox": [
+        209.16000366210938,
+        332.1000061035156,
+        385.8399963378906,
+        359.6400146484375
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "LEAN PORTFOLIO",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_b_new_style-p001-004",
+      "doc_id": "m7_b_new_style",
+      "page": 1,
+      "bbox": [
+        85.19000244140625,
+        364.20001220703125,
+        509.8099670410156,
+        391.7400207519531
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Lean Portfolio Decisions | synthetic baseline",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_b_new_style-p001-005",
+      "doc_id": "m7_b_new_style",
+      "page": 1,
+      "bbox": [
+        264.7200012207031,
+        396.3000183105469,
+        330.2799987792969,
+        423.84002685546875
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "edition",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_b_new_style-p001-006",
+      "doc_id": "m7_b_new_style",
+      "page": 1,
+      "bbox": [
+        185.5,
+        520.0,
+        409.5,
+        632.0
+      ],
+      "type": "figure",
+      "role": "cover",
+      "disposition": "placed",
+      "image_path": "images/parts/m7_b_new_style-p001-006-part01.png",
+      "sha256": "e74d45d2766738b8561bef2df4f841ebfd8d64c205d14457492d14f951521246",
+      "width": 520,
+      "height": 260,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_b_new_style-p001-006-part01",
+          "page": 1,
+          "xref": 5,
+          "image_path": "images/parts/m7_b_new_style-p001-006-part01.png",
+          "sha256": "e74d45d2766738b8561bef2df4f841ebfd8d64c205d14457492d14f951521246",
+          "bbox": [
+            185.5,
+            520.0,
+            409.5,
+            632.0
+          ],
+          "width": 520,
+          "height": 260,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 5499
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_b_new_style-p002-001",
+      "doc_id": "m7_b_new_style",
+      "page": 2,
+      "bbox": [
+        44.0,
+        17.439998626708984,
+        169.3839874267578,
+        28.27199935913086
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "M7 B New Style / Internal Playbook",
+          "bold": false,
+          "italic": true
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p002-002",
+      "doc_id": "m7_b_new_style",
+      "page": 2,
+      "bbox": [
+        82.0,
+        141.42799377441406,
+        193.92999267578125,
+        159.43299865722656
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Value Stream Scope",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_b_new_style-p002-003",
+      "doc_id": "m7_b_new_style",
+      "page": 2,
+      "bbox": [
+        82.0,
+        177.42799377441406,
+        199.35101318359375,
+        195.43299865722656
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Portfolio Advantages",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_b_new_style-p002-004",
+      "doc_id": "m7_b_new_style",
+      "page": 2,
+      "bbox": [
+        82.0,
+        213.42799377441406,
+        163.25,
+        231.43299865722656
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Flow Evidence",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_b_new_style-p002-005",
+      "doc_id": "m7_b_new_style",
+      "page": 2,
+      "bbox": [
+        82.0,
+        249.42799377441406,
+        176.9650115966797,
+        267.4330139160156
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Learning Review",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_b_new_style-p002-006",
+      "doc_id": "m7_b_new_style",
+      "page": 2,
+      "bbox": [
+        44.0,
+        807.3699951171875,
+        531.0040283203125,
+        819.7630004882812
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Operations Excellence Series",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "2",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p003-001",
+      "doc_id": "m7_b_new_style",
+      "page": 3,
+      "bbox": [
+        44.0,
+        17.439998626708984,
+        169.3839874267578,
+        28.27199935913086
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "M7 B New Style / Internal Playbook",
+          "bold": false,
+          "italic": true
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p003-002",
+      "doc_id": "m7_b_new_style",
+      "page": 3,
+      "bbox": [
+        65.0,
+        88.00001525878906,
+        261.55999755859375,
+        117.08501434326172
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "placed",
+      "level": 1,
+      "number": "1",
+      "title": "Value Stream Scope"
+    },
+    {
+      "id": "m7_b_new_style-p003-003",
+      "doc_id": "m7_b_new_style",
+      "page": 3,
+      "bbox": [
+        58.0,
+        141.99998474121094,
+        213.10401916503906,
+        164.15997314453125
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "placed",
+      "level": 2,
+      "number": "1.1",
+      "title": "Experiment Design"
+    },
+    {
+      "id": "m7_b_new_style-p003-004",
+      "doc_id": "m7_b_new_style",
+      "page": 3,
+      "bbox": [
+        58.0,
+        197.00003051757812,
+        503.53619384765625,
+        230.76878356933594
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Lean Portfolio teams align work to lean portfolio decisions goals and record evidence before advancing the work item.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p003-005",
+      "doc_id": "m7_b_new_style",
+      "page": 3,
+      "bbox": [
+        73.0,
+        270.17498779296875,
+        289.4469299316406,
+        285.28900146484375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "· Review the signal before changing the plan",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p003-006",
+      "doc_id": "m7_b_new_style",
+      "page": 3,
+      "bbox": [
+        73.0,
+        298.17498779296875,
+        272.3089904785156,
+        313.28900146484375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "· Keep ownership visible across handoffs",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p003-007",
+      "doc_id": "m7_b_new_style",
+      "page": 3,
+      "bbox": [
+        58.0,
+        370.0,
+        518.0,
+        482.0
+      ],
+      "type": "table",
+      "role": "body",
+      "disposition": "placed",
+      "rows": [
+        [
+          "Stage",
+          "Evidence",
+          "Owner"
+        ],
+        [
+          "Frame",
+          "Baseline",
+          "Lead"
+        ],
+        [
+          "Test",
+          "Outcome",
+          "Team"
+        ],
+        [
+          "Learn",
+          "Decision",
+          "Sponsor"
+        ]
+      ],
+      "header_rows": 1,
+      "n_rows": 4,
+      "n_cols": 3
+    },
+    {
+      "id": "m7_b_new_style-p003-008",
+      "doc_id": "m7_b_new_style",
+      "page": 3,
+      "bbox": [
+        44.0,
+        807.3699951171875,
+        531.0040283203125,
+        819.7630004882812
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Operations Excellence Series",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "3",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p004-001",
+      "doc_id": "m7_b_new_style",
+      "page": 4,
+      "bbox": [
+        44.0,
+        17.439998626708984,
+        169.3839874267578,
+        28.27199935913086
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "M7 B New Style / Internal Playbook",
+          "bold": false,
+          "italic": true
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p004-002",
+      "doc_id": "m7_b_new_style",
+      "page": 4,
+      "bbox": [
+        58.0,
+        88.0,
+        253.54000854492188,
+        115.70000457763672
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "placed",
+      "level": 1,
+      "number": "2",
+      "title": "Portfolio Advantages"
+    },
+    {
+      "id": "m7_b_new_style-p004-003",
+      "doc_id": "m7_b_new_style",
+      "page": 4,
+      "bbox": [
+        58.0,
+        144.99996948242188,
+        180.0850067138672,
+        165.7749786376953
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "placed",
+      "level": 2,
+      "number": "2.1",
+      "title": "Decision Rights"
+    },
+    {
+      "id": "m7_b_new_style-p004-004",
+      "doc_id": "m7_b_new_style",
+      "page": 4,
+      "bbox": [
+        58.0,
+        205.00001525878906,
+        522.0790405273438,
+        234.30401611328125
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "The Lean Portfolio method uses portfolio advantages to make the next decision observable and reversible.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p004-005",
+      "doc_id": "m7_b_new_style",
+      "page": 4,
+      "bbox": [
+        58.0,
+        255.00001525878906,
+        500.0350036621094,
+        270.114013671875
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Teams capture context, compare evidence, and assign a named owner for the next review.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p004-006",
+      "doc_id": "m7_b_new_style",
+      "page": 4,
+      "bbox": [
+        44.0,
+        807.3699951171875,
+        531.0040283203125,
+        819.7630004882812
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Operations Excellence Series",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "4",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p005-001",
+      "doc_id": "m7_b_new_style",
+      "page": 5,
+      "bbox": [
+        44.0,
+        17.439998626708984,
+        169.3839874267578,
+        28.27199935913086
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "M7 B New Style / Internal Playbook",
+          "bold": false,
+          "italic": true
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p005-002",
+      "doc_id": "m7_b_new_style",
+      "page": 5,
+      "bbox": [
+        58.0,
+        78.00000762939453,
+        198.0579833984375,
+        102.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "3",
+      "title": "Flow Evidence"
+    },
+    {
+      "id": "m7_b_new_style-p005-003",
+      "doc_id": "m7_b_new_style",
+      "page": 5,
+      "bbox": [
+        58.0,
+        127.9999771118164,
+        221.40798950195312,
+        147.27798461914062
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 2,
+      "number": "3.1",
+      "title": "Assurance Measures"
+    },
+    {
+      "id": "m7_b_new_style-p005-004",
+      "doc_id": "m7_b_new_style",
+      "page": 5,
+      "bbox": [
+        58.0,
+        180.00001525878906,
+        526.929931640625,
+        195.114013671875
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Lean Portfolio records a measurable result for flow evidence and preserves the decision context.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p005-005",
+      "doc_id": "m7_b_new_style",
+      "page": 5,
+      "bbox": [
+        58.0,
+        280.0,
+        518.0,
+        392.0
+      ],
+      "type": "table",
+      "role": "body",
+      "disposition": "placed",
+      "rows": [
+        [
+          "Check",
+          "Threshold"
+        ],
+        [
+          "Trace",
+          "Evidence linked"
+        ],
+        [
+          "Review",
+          "Owner assigned"
+        ],
+        [
+          "Close",
+          "Action recorded"
+        ]
+      ],
+      "header_rows": 1,
+      "n_rows": 4,
+      "n_cols": 2
+    },
+    {
+      "id": "m7_b_new_style-p005-006",
+      "doc_id": "m7_b_new_style",
+      "page": 5,
+      "bbox": [
+        172.5,
+        440.0,
+        422.5,
+        565.0
+      ],
+      "type": "figure",
+      "role": "body",
+      "disposition": "placed",
+      "image_path": "images/parts/m7_b_new_style-p005-006-part01.png",
+      "sha256": "e74d45d2766738b8561bef2df4f841ebfd8d64c205d14457492d14f951521246",
+      "width": 520,
+      "height": 260,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_b_new_style-p005-006-part01",
+          "page": 5,
+          "xref": 5,
+          "image_path": "images/parts/m7_b_new_style-p005-006-part01.png",
+          "sha256": "e74d45d2766738b8561bef2df4f841ebfd8d64c205d14457492d14f951521246",
+          "bbox": [
+            172.5,
+            440.0,
+            422.5,
+            565.0
+          ],
+          "width": 520,
+          "height": 260,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 5499
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_b_new_style-p005-007",
+      "doc_id": "m7_b_new_style",
+      "page": 5,
+      "bbox": [
+        44.0,
+        807.3699951171875,
+        531.0040283203125,
+        819.7630004882812
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Operations Excellence Series",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "5",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p006-001",
+      "doc_id": "m7_b_new_style",
+      "page": 6,
+      "bbox": [
+        44.0,
+        17.439998626708984,
+        169.3839874267578,
+        28.27199935913086
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "M7 B New Style / Internal Playbook",
+          "bold": false,
+          "italic": true
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p006-002",
+      "doc_id": "m7_b_new_style",
+      "page": 6,
+      "bbox": [
+        58.0,
+        88.00000762939453,
+        216.0579833984375,
+        112.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "4",
+      "title": "Learning Review"
+    },
+    {
+      "id": "m7_b_new_style-p006-003",
+      "doc_id": "m7_b_new_style",
+      "page": 6,
+      "bbox": [
+        58.0,
+        145.00001525878906,
+        519.02099609375,
+        174.30401611328125
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "A closeout record states what changed, who accepted the evidence, and what remains open in Lean Portfolio.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_b_new_style-p006-004",
+      "doc_id": "m7_b_new_style",
+      "page": 6,
+      "bbox": [
+        44.0,
+        807.3699951171875,
+        531.0040283203125,
+        819.7630004882812
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Operations Excellence Series",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "6",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    }
+  ],
+  "cover_lines": [
+    "Northstar Delivery Office",
+    "PROJECT METHOD PLAYBOOK",
+    "LEAN PORTFOLIO",
+    "Lean Portfolio Decisions | synthetic baseline",
+    "edition"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "waterfall": {
+    "pages": 14, "page_numbers": 14, "h1": 10, "h2": 11, "bullets": 6, "tables": 6, "figures": 5,
+    "table_shapes": [["contents",11,2],["lifecycle",7,3],["decision",6,3],["best_practices",9,2],["advantages",6,2],["limitations",6,2]],
+    "cover_lines": ["MindX360 LMS PLATFORM","PROJECT MANAGEMENT METHODOLOGY","WATERFALL","Professional Methodology & Learning Document"],
+    "section_types": {"1":"abstract","2":"scope","3":"introduction","4":"learning_objectives","5":"core_concept","6":"process_detail","7":"when_to_use","8":"best_practices","9":"advantages","10":"limitations"},
+    "spot_strings": [
+      "Waterfall is a structured, sequential approach to project delivery",
+      "False sense of certainty",
+      "Treat documentation as an operational asset",
+      "Maintenance",
+      "These advantages are most meaningful when the project's underlying assumptions remain stable"
+    ],
+    "image_tokens": {
+      "cover_photo": [],
+      "sdlc_cycle": ["SOFTWARE","DEVELOPMENT","PLANNING","DESIGN","TESTING","DEPLOYMENT","MAINTENANCE"],
+      "ux_cycle": ["MULTIPLE ITERATIONS","Understand","Define","Evaluation"],
+      "testing_cycle": ["SOFTWARE TESTING","Test Planning","Test Execution","Test Closure"],
+      "phase_role_chart": ["Planning","Analysis","Design","Implementation","Test","Deploy","Maintenance"]
+    }
+  },
+  "kanban": {
+    "pages": 7, "page_numbers": 7, "h1": 10, "h2": 8, "bullets": 8, "tables": 4, "figures": 3,
+    "table_shapes": [["contents",11,2],["board_structure",5,2],["suitability",8,2],["key_challenges",6,2]],
+    "cover_lines": ["MindX360 LMS PLATFORM","PROJECT MANAGEMENT METHODOLOGY","KANBAN","Professional Methodology & Learning Document"],
+    "section_types": {"1":"abstract","2":"scope","3":"introduction","4":"learning_objectives","5":"core_concept","6":"process_detail","7":"when_to_use","8":"best_practices","9":"advantages","10":"limitations"},
+    "spot_strings": ["Waiting for Customer","Review or approval constraints","Work-in-Progress (WIP) limits"],
+    "image_tokens": {
+      "board_diagram": ["Kanban Board","Commitment Point","Delivery Point","Swimlanes","Cards","EXPEDITE"],
+      "wip_comparison": ["Without WIP Limits","With WIP Limit","18%","67%"],
+      "flow_diagram": ["MANAGE FLOW","BOTTLENECK","VISUALIZE","LIMIT WORK IN PROGRESS"]
+    }
+  }
+}

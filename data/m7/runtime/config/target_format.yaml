@@ -1,0 +1,27 @@
+name: "MindX360 Decision Brief"
+title_template: "{methodology} — Decision Brief"
+sections:
+  - id: A_overview
+    title: "A. Overview"
+    accepts: [abstract, scope, introduction]
+  - id: B_core_concept
+    title: "B. Core Concept"
+    accepts: [core_concept]
+  - id: C_process_detail
+    title: "C. Process in Detail"
+    accepts: [process_detail]
+  - id: D_fit_check
+    title: "D. Fit Check"
+    accepts: [when_to_use]
+  - id: E_strengths_risks
+    title: "E. Strengths and Risks"
+    accepts: [advantages, limitations, best_practices]   # this order
+  - id: F_learning_checklist
+    title: "F. Learning Checklist"
+    accepts: [learning_objectives]
+appendices:
+  - {id: app1_figures, title: "Appendix 1 — Figure Index", generated: true}
+  - {id: app2_source_map, title: "Appendix 2 — Source Map", generated: true}
+  - {id: app3_unplaced, title: "Appendix 3 — Unplaced Content", generated: true}
+generated_label: "AI-generated description:"
+

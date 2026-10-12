@@ -1,0 +1,11 @@
+documents:
+  - doc_id: m7_a_same_style
+    source_file: ../m7/inputs/m7_a_same_style.pdf
+  - doc_id: m7_b_new_style
+    source_file: ../m7/inputs/m7_b_new_style.pdf
+  - doc_id: m7_c_borderless_tables
+    source_file: ../m7/inputs/m7_c_borderless_tables.pdf
+  - doc_id: m7_d_two_column
+    source_file: ../m7/inputs/m7_d_two_column.pdf
+  - doc_id: m7_e_scanned
+    source_file: ../m7/inputs/m7_e_scanned.pdf

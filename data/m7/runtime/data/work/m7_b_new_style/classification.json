@@ -1,0 +1,37 @@
+{
+  "doc_id": "m7_b_new_style",
+  "items": [
+    {
+      "heading_id": "m7_b_new_style-p003-002",
+      "number": "1",
+      "title": "Value Stream Scope",
+      "canonical_type": "scope",
+      "method": "rule",
+      "status": "complete"
+    },
+    {
+      "heading_id": "m7_b_new_style-p003-003",
+      "number": "1.1",
+      "title": "Experiment Design",
+      "canonical_type": "scope",
+      "method": "rule",
+      "status": "complete"
+    },
+    {
+      "heading_id": "m7_b_new_style-p004-002",
+      "number": "2",
+      "title": "Portfolio Advantages",
+      "canonical_type": "advantages",
+      "method": "rule",
+      "status": "complete"
+    },
+    {
+      "heading_id": "m7_b_new_style-p004-003",
+      "number": "2.1",
+      "title": "Decision Rights",
+      "canonical_type": "advantages",
+      "method": "rule",
+      "status": "complete"
+    }
+  ]
+}

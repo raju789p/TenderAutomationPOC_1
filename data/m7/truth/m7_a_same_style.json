@@ -1,0 +1,193 @@
+{
+  "doc_id": "m7_a_same_style",
+  "methodology": "Scrum",
+  "source_pdf_sha256": "fb8850b34d4682109678182c497b3b5ec904e999578f943a9dbfc297c39229df",
+  "page_count": 6,
+  "pages": [
+    {
+      "text": "Northstar Delivery Office\nPROJECT METHOD PLAYBOOK\nSCRUM\nScrum Product Delivery | synthetic baseline edition\nSIGNAL\nCONTROL\nQUALITY\nFLOW",
+      "headings": []
+    },
+    {
+      "text": "Contents\n1. Delivery Intent\n2. Product Scope\n3. Sprint Mechanics\n4. Release Learning Objectives",
+      "headings": []
+    },
+    {
+      "text": "1 Delivery Intent\n1.1 Evidence Inputs\nScrum teams align work to scrum product delivery goals and record evidence before advancing the work item.\n• Review the signal before changing the plan\n• Keep ownership visible across handoffs\nStage Evidence Owner\nFrame Baseline Lead\nTest Outcome Team\nLearn Decision Sponsor",
+      "headings": [
+        {
+          "page": 3,
+          "title": "Delivery Intent",
+          "level": 1
+        },
+        {
+          "page": 3,
+          "title": "Evidence Inputs",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "2 Product Scope\n2.1 Decision Rights\nThe Scrum method uses product scope to make the next decision observable and reversible.\nTeams capture context, compare evidence, and assign a named owner for the next review.",
+      "headings": [
+        {
+          "page": 4,
+          "title": "Product Scope",
+          "level": 1
+        },
+        {
+          "page": 4,
+          "title": "Decision Rights",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "3 Sprint Mechanics\n3.1 Assurance Measures\nScrum records a measurable result for sprint mechanics and preserves the decision context.\nCheck Threshold\nTrace Evidence linked\nReview Owner assigned\nClose Action recorded\nSIGNAL\nCONTROL\nQUALITY\nFLOW",
+      "headings": [
+        {
+          "page": 5,
+          "title": "Sprint Mechanics",
+          "level": 1
+        },
+        {
+          "page": 5,
+          "title": "Assurance Measures",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "4 Release Learning Objectives\nA closeout record states what changed, who accepted the evidence, and what remains open in Scrum.",
+      "headings": [
+        {
+          "page": 6,
+          "title": "Release Learning Objectives",
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "headings": [
+    {
+      "page": 3,
+      "title": "Delivery Intent",
+      "level": 1
+    },
+    {
+      "page": 3,
+      "title": "Evidence Inputs",
+      "level": 2
+    },
+    {
+      "page": 4,
+      "title": "Product Scope",
+      "level": 1
+    },
+    {
+      "page": 4,
+      "title": "Decision Rights",
+      "level": 2
+    },
+    {
+      "page": 5,
+      "title": "Sprint Mechanics",
+      "level": 1
+    },
+    {
+      "page": 5,
+      "title": "Assurance Measures",
+      "level": 2
+    },
+    {
+      "page": 6,
+      "title": "Release Learning Objectives",
+      "level": 1
+    }
+  ],
+  "tables": [
+    {
+      "page": 3,
+      "shape": [
+        4,
+        3
+      ],
+      "cells": [
+        [
+          "Stage",
+          "Evidence",
+          "Owner"
+        ],
+        [
+          "Frame",
+          "Baseline",
+          "Lead"
+        ],
+        [
+          "Test",
+          "Outcome",
+          "Team"
+        ],
+        [
+          "Learn",
+          "Decision",
+          "Sponsor"
+        ]
+      ]
+    },
+    {
+      "page": 5,
+      "shape": [
+        4,
+        2
+      ],
+      "cells": [
+        [
+          "Check",
+          "Threshold"
+        ],
+        [
+          "Trace",
+          "Evidence linked"
+        ],
+        [
+          "Review",
+          "Owner assigned"
+        ],
+        [
+          "Close",
+          "Action recorded"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "sha256": "981e66054ff4168b4cb6f98d88e7cbe903a29d1c7f17cd3902d107b21f927813",
+      "expected_printed_words": [
+        "SIGNAL",
+        "CONTROL",
+        "QUALITY",
+        "FLOW"
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "981e66054ff4168b4cb6f98d88e7cbe903a29d1c7f17cd3902d107b21f927813",
+      "expected_printed_words": [
+        "SIGNAL",
+        "CONTROL",
+        "QUALITY",
+        "FLOW"
+      ]
+    }
+  ],
+  "section_types": {
+    "1": "unclassified",
+    "2": "scope",
+    "3": "unclassified",
+    "4": "learning_objectives"
+  },
+  "page_furniture": []
+}

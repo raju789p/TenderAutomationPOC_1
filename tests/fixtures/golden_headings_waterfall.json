@@ -1,0 +1,108 @@
+// verified against the PDF by the architect
+[
+  {
+    "level": 1,
+    "number": "1",
+    "title": "Abstract"
+  },
+  {
+    "level": 1,
+    "number": "2",
+    "title": "Scope"
+  },
+  {
+    "level": 1,
+    "number": "3",
+    "title": "Introduction"
+  },
+  {
+    "level": 2,
+    "number": "3.1",
+    "title": "Background"
+  },
+  {
+    "level": 2,
+    "number": "3.2",
+    "title": "Purpose"
+  },
+  {
+    "level": 2,
+    "number": "3.3",
+    "title": "Scope"
+  },
+  {
+    "level": 2,
+    "number": "3.4",
+    "title": "Intended Audience"
+  },
+  {
+    "level": 1,
+    "number": "4",
+    "title": "Learning Objectives"
+  },
+  {
+    "level": 1,
+    "number": "5",
+    "title": "Waterfall Lifecycle"
+  },
+  {
+    "level": 1,
+    "number": "6",
+    "title": "Detailed Phase-by-Phase Explanation"
+  },
+  {
+    "level": 2,
+    "number": "6.1",
+    "title": "Requirements"
+  },
+  {
+    "level": 2,
+    "number": "6.2",
+    "title": "Design"
+  },
+  {
+    "level": 2,
+    "number": "6.3",
+    "title": "Development"
+  },
+  {
+    "level": 2,
+    "number": "6.4",
+    "title": "Testing"
+  },
+  {
+    "level": 2,
+    "number": "6.5",
+    "title": "Deployment"
+  },
+  {
+    "level": 2,
+    "number": "6.6",
+    "title": "Maintenance"
+  },
+  {
+    "level": 1,
+    "number": "7",
+    "title": "When to Use Waterfall"
+  },
+  {
+    "level": 2,
+    "number": "7.1",
+    "title": "Decision Framework"
+  },
+  {
+    "level": 1,
+    "number": "8",
+    "title": "Best Practices"
+  },
+  {
+    "level": 1,
+    "number": "9",
+    "title": "Advantages of Waterfall"
+  },
+  {
+    "level": 1,
+    "number": "10",
+    "title": "Limitations & Challenges"
+  }
+]

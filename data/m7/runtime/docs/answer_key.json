@@ -1,0 +1,64 @@
+{
+  "m7_a_same_style": {
+    "section_types": {
+      "1": "unclassified",
+      "2": "scope",
+      "3": "unclassified",
+      "4": "learning_objectives"
+    },
+    "image_tokens": {
+      "fixture_1": [],
+      "fixture_2": []
+    }
+  },
+  "m7_b_new_style": {
+    "section_types": {
+      "1": "scope",
+      "2": "advantages",
+      "3": "unclassified",
+      "4": "unclassified"
+    },
+    "image_tokens": {
+      "fixture_1": [],
+      "fixture_2": []
+    }
+  },
+  "m7_c_borderless_tables": {
+    "section_types": {
+      "1": "unclassified",
+      "2": "unclassified"
+    },
+    "image_tokens": {
+      "fixture_1": []
+    }
+  },
+  "m7_d_two_column": {
+    "section_types": {
+      "1": "unclassified",
+      "2": "unclassified",
+      "3": "unclassified",
+      "4": "unclassified"
+    },
+    "image_tokens": {
+      "fixture_1": [],
+      "fixture_2": [],
+      "fixture_3": []
+    }
+  },
+  "m7_e_scanned": {
+    "section_types": {
+      "1": "unclassified",
+      "2": "unclassified",
+      "3": "unclassified",
+      "4": "unclassified"
+    },
+    "image_tokens": {
+      "fixture_1": [],
+      "fixture_2": [],
+      "fixture_3": [],
+      "fixture_4": [],
+      "fixture_5": [],
+      "fixture_6": []
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "doc_id": "m7_c_borderless_tables",
+  "output_file": "/Users/appalaraju/Desktop/TenderAutomationPOC_1/data/m7/output/m7_c_borderless_tables.docx",
+  "placements": {
+    "m7_c_borderless_tables-p001-001": {
+      "target_section": "cover",
+      "order_index": 0
+    },
+    "m7_c_borderless_tables-p001-002": {
+      "target_section": "cover",
+      "order_index": 1
+    },
+    "m7_c_borderless_tables-p001-003": {
+      "target_section": "cover",
+      "order_index": 2
+    },
+    "m7_c_borderless_tables-p001-004": {
+      "target_section": "cover",
+      "order_index": 3
+    },
+    "m7_c_borderless_tables-p001-005": {
+      "target_section": "cover",
+      "order_index": 4
+    },
+    "m7_c_borderless_tables-p001-006": {
+      "target_section": "cover",
+      "order_index": 0
+    },
+    "m7_c_borderless_tables-p002-001": {
+      "target_section": "contents",
+      "order_index": 0
+    }
+  },
+  "source_map": [
+    {
+      "element_id": "m7_c_borderless_tables-p003-001",
+      "number": "1",
+      "title": "Variation Study",
+      "target_section": "unmapped"
+    },
+    {
+      "element_id": "m7_c_borderless_tables-p003-002",
+      "number": "1.1",
+      "title": "Evidence Inputs",
+      "target_section": "unmapped"
+    },
+    {
+      "element_id": "m7_c_borderless_tables-p004-001",
+      "number": "2",
+      "title": "Measurement System",
+      "target_section": "unmapped"
+    },
+    {
+      "element_id": "m7_c_borderless_tables-p004-002",
+      "number": "2.1",
+      "title": "Decision Rights",
+      "target_section": "unmapped"
+    }
+  ],
+  "disposition_counts": {
+    "placed": 6,
+    "regenerated": 1,
+    "unplaced": 0,
+    "pending": 29
+  },
+  "unplaced_ids": []
+}

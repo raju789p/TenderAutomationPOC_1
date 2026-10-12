@@ -1,0 +1,15 @@
+{
+  "classification": {
+    "default": {
+      "canonical_type": "core_concept"
+    }
+  },
+  "image": {
+    "default": {
+      "kind": "other",
+      "caption": "Mock placeholder; no source image semantics were inferred.",
+      "transcribed_text": [],
+      "uncertain": true
+    }
+  }
+}

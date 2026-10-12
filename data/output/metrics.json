@@ -1,0 +1,1428 @@
+{
+  "documents": {
+    "waterfall": {
+      "doc_id": "waterfall",
+      "docx_file": "/Users/appalaraju/Desktop/TenderAutomationPOC_1/data/output/waterfall_decision_brief.docx",
+      "ledger": {
+        "element_count": 74,
+        "counts": {
+          "placed": 58,
+          "regenerated": 16,
+          "unplaced": 0,
+          "pending": 0
+        },
+        "expected_regenerated_ids": [
+          "waterfall-p001-006",
+          "waterfall-p002-001",
+          "waterfall-p002-002",
+          "waterfall-p002-003",
+          "waterfall-p003-004",
+          "waterfall-p004-003",
+          "waterfall-p005-010",
+          "waterfall-p006-009",
+          "waterfall-p007-004",
+          "waterfall-p008-008",
+          "waterfall-p009-010",
+          "waterfall-p010-002",
+          "waterfall-p011-005",
+          "waterfall-p012-003",
+          "waterfall-p013-004",
+          "waterfall-p014-003"
+        ],
+        "actual_regenerated_ids": [
+          "waterfall-p001-006",
+          "waterfall-p002-001",
+          "waterfall-p002-002",
+          "waterfall-p002-003",
+          "waterfall-p003-004",
+          "waterfall-p004-003",
+          "waterfall-p005-010",
+          "waterfall-p006-009",
+          "waterfall-p007-004",
+          "waterfall-p008-008",
+          "waterfall-p009-010",
+          "waterfall-p010-002",
+          "waterfall-p011-005",
+          "waterfall-p012-003",
+          "waterfall-p013-004",
+          "waterfall-p014-003"
+        ],
+        "placement_count": 74,
+        "defects": []
+      },
+      "text": {
+        "source_word_count": 1381,
+        "output_word_count": 2174,
+        "recalled_source_word_count": 1381,
+        "word_recall": 1.0,
+        "word_recall_reason": null,
+        "missing_word_count": 0,
+        "missing_words": [],
+        "excess_word_count": 0,
+        "excess_words": []
+      },
+      "tables": {
+        "expected_count": 5,
+        "actual_count": 5,
+        "matching_count": 5,
+        "all_equal": true,
+        "comparisons": [
+          {
+            "source_element_id": "waterfall-p007-002",
+            "output_table_index": 1,
+            "expected_shape": [
+              7,
+              3
+            ],
+            "actual_shape": [
+              7,
+              3
+            ],
+            "shape_equal": true,
+            "cells_equal_after_whitespace_normalisation": true
+          },
+          {
+            "source_element_id": "waterfall-p011-004",
+            "output_table_index": 2,
+            "expected_shape": [
+              6,
+              3
+            ],
+            "actual_shape": [
+              6,
+              3
+            ],
+            "shape_equal": true,
+            "cells_equal_after_whitespace_normalisation": true
+          },
+          {
+            "source_element_id": "waterfall-p012-002",
+            "output_table_index": 3,
+            "expected_shape": [
+              9,
+              2
+            ],
+            "actual_shape": [
+              9,
+              2
+            ],
+            "shape_equal": true,
+            "cells_equal_after_whitespace_normalisation": true
+          },
+          {
+            "source_element_id": "waterfall-p013-002",
+            "output_table_index": 4,
+            "expected_shape": [
+              6,
+              2
+            ],
+            "actual_shape": [
+              6,
+              2
+            ],
+            "shape_equal": true,
+            "cells_equal_after_whitespace_normalisation": true
+          },
+          {
+            "source_element_id": "waterfall-p014-002",
+            "output_table_index": 5,
+            "expected_shape": [
+              6,
+              2
+            ],
+            "actual_shape": [
+              6,
+              2
+            ],
+            "shape_equal": true,
+            "cells_equal_after_whitespace_normalisation": true
+          }
+        ],
+        "defects": []
+      },
+      "headings": {
+        "source_count": 21,
+        "matched_count": 21,
+        "matches": [
+          {
+            "element_id": "waterfall-p003-001",
+            "title": "Abstract",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p004-001",
+            "title": "Scope",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p005-001",
+            "title": "Introduction",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p005-002",
+            "title": "Background",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p005-004",
+            "title": "Purpose",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p005-006",
+            "title": "Scope",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p005-008",
+            "title": "Intended Audience",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p006-001",
+            "title": "Learning Objectives",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p007-001",
+            "title": "Waterfall Lifecycle",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p008-001",
+            "title": "Detailed Phase-by-Phase Explanation",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p008-003",
+            "title": "Requirements",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p008-005",
+            "title": "Design",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p009-001",
+            "title": "Development",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p009-003",
+            "title": "Testing",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p009-006",
+            "title": "Deployment",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p009-008",
+            "title": "Maintenance",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p011-001",
+            "title": "When to Use Waterfall",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p011-003",
+            "title": "Decision Framework",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p012-001",
+            "title": "Best Practices",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p013-001",
+            "title": "Advantages of Waterfall",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "waterfall-p014-001",
+            "title": "Limitations & Challenges",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          }
+        ],
+        "output_headings": [
+          {
+            "level": 1,
+            "title": "Contents"
+          },
+          {
+            "level": 1,
+            "title": "A. Overview"
+          },
+          {
+            "level": 2,
+            "title": "Abstract"
+          },
+          {
+            "level": 2,
+            "title": "Scope"
+          },
+          {
+            "level": 2,
+            "title": "Introduction"
+          },
+          {
+            "level": 3,
+            "title": "Background"
+          },
+          {
+            "level": 3,
+            "title": "Purpose"
+          },
+          {
+            "level": 3,
+            "title": "Scope"
+          },
+          {
+            "level": 3,
+            "title": "Intended Audience"
+          },
+          {
+            "level": 1,
+            "title": "B. Core Concept"
+          },
+          {
+            "level": 2,
+            "title": "Waterfall Lifecycle"
+          },
+          {
+            "level": 1,
+            "title": "C. Process in Detail"
+          },
+          {
+            "level": 2,
+            "title": "Detailed Phase-by-Phase Explanation"
+          },
+          {
+            "level": 3,
+            "title": "Requirements"
+          },
+          {
+            "level": 3,
+            "title": "Design"
+          },
+          {
+            "level": 3,
+            "title": "Development"
+          },
+          {
+            "level": 3,
+            "title": "Testing"
+          },
+          {
+            "level": 3,
+            "title": "Deployment"
+          },
+          {
+            "level": 3,
+            "title": "Maintenance"
+          },
+          {
+            "level": 1,
+            "title": "D. Fit Check"
+          },
+          {
+            "level": 2,
+            "title": "When to Use Waterfall"
+          },
+          {
+            "level": 3,
+            "title": "Decision Framework"
+          },
+          {
+            "level": 1,
+            "title": "E. Strengths and Risks"
+          },
+          {
+            "level": 2,
+            "title": "Best Practices"
+          },
+          {
+            "level": 2,
+            "title": "Advantages of Waterfall"
+          },
+          {
+            "level": 2,
+            "title": "Limitations & Challenges"
+          },
+          {
+            "level": 1,
+            "title": "F. Learning Checklist"
+          },
+          {
+            "level": 2,
+            "title": "Learning Objectives"
+          },
+          {
+            "level": 1,
+            "title": "Appendix 1 — Figure Index"
+          },
+          {
+            "level": 1,
+            "title": "Appendix 2 — Source Map"
+          },
+          {
+            "level": 1,
+            "title": "Appendix 3 — Unplaced Content"
+          }
+        ],
+        "defects": []
+      },
+      "images": {
+        "source_display_image_count": 5,
+        "docx_media_file_count": 5,
+        "docx_inline_image_count": 5,
+        "source_hashes": {
+          "3805ba5b973d9ab7edc82fdf87053bd1f6d57222c05ba377d53d309baf432420": 1,
+          "f40b8f6d18739ebffdfb70761bf54ec389671dfb929c46040e44cd75974bdfe8": 1,
+          "130bd37d0c5a17eeb1d28870620ee9218fabd21d84d6a6248fb0c5277a8bd155": 1,
+          "14574a6e9dc06baeceabc300085ae75b44da8bc11859b35c87de352e8390f0b3": 1,
+          "e22cec6dfe7b870d0b22d38492242e6d087f507b79cc54f3c2114b3d18e48599": 1
+        },
+        "media_hashes": {
+          "3805ba5b973d9ab7edc82fdf87053bd1f6d57222c05ba377d53d309baf432420": 1,
+          "f40b8f6d18739ebffdfb70761bf54ec389671dfb929c46040e44cd75974bdfe8": 1,
+          "130bd37d0c5a17eeb1d28870620ee9218fabd21d84d6a6248fb0c5277a8bd155": 1,
+          "14574a6e9dc06baeceabc300085ae75b44da8bc11859b35c87de352e8390f0b3": 1,
+          "e22cec6dfe7b870d0b22d38492242e6d087f507b79cc54f3c2114b3d18e48599": 1
+        },
+        "set_equal": true,
+        "count_equal": true,
+        "inline_relationships_equal": true,
+        "placement_order_equal": true,
+        "composites": [
+          {
+            "figure_id": "waterfall-p001-005",
+            "part_hashes": [
+              {
+                "part_id": "waterfall-p001-005-part01",
+                "expected": "ed8d88c614e835ffaa56938928093eccb11d61f7d407219f0254c9b7c8d12a0e",
+                "actual": "ed8d88c614e835ffaa56938928093eccb11d61f7d407219f0254c9b7c8d12a0e",
+                "matches": true
+              },
+              {
+                "part_id": "waterfall-p001-005-part02",
+                "expected": "e6aa97ad0187054d506702971643481b97db8df642331c54a217012d06778471",
+                "actual": "e6aa97ad0187054d506702971643481b97db8df642331c54a217012d06778471",
+                "matches": true
+              },
+              {
+                "part_id": "waterfall-p001-005-part03",
+                "expected": "a5d194f9ecd1acf56523a99a2214450ebef0798c51d0d3b513019c06f3da072e",
+                "actual": "a5d194f9ecd1acf56523a99a2214450ebef0798c51d0d3b513019c06f3da072e",
+                "matches": true
+              },
+              {
+                "part_id": "waterfall-p001-005-part04",
+                "expected": "2a21e5f00acbbc1fee4eba22916be34cca205e23b70fb119d2db3a89e261ac9b",
+                "actual": "2a21e5f00acbbc1fee4eba22916be34cca205e23b70fb119d2db3a89e261ac9b",
+                "matches": true
+              },
+              {
+                "part_id": "waterfall-p001-005-part05",
+                "expected": "1a03fc940d1f998d1512037aa6af2b6d3affb021166a6157cc524d4b01bc968c",
+                "actual": "1a03fc940d1f998d1512037aa6af2b6d3affb021166a6157cc524d4b01bc968c",
+                "matches": true
+              }
+            ],
+            "parts_match": true,
+            "rebuilt_sha256": "3805ba5b973d9ab7edc82fdf87053bd1f6d57222c05ba377d53d309baf432420",
+            "display_sha256": "3805ba5b973d9ab7edc82fdf87053bd1f6d57222c05ba377d53d309baf432420",
+            "matches": true
+          }
+        ],
+        "defects": []
+      },
+      "order": {
+        "expected_section_order": [
+          "A_overview",
+          "B_core_concept",
+          "C_process_detail",
+          "D_fit_check",
+          "E_strengths_risks",
+          "F_learning_checklist"
+        ],
+        "actual_section_order": [
+          "A_overview",
+          "B_core_concept",
+          "C_process_detail",
+          "D_fit_check",
+          "E_strengths_risks",
+          "F_learning_checklist"
+        ],
+        "section_order_preserved": true,
+        "relative_order_preserved": true,
+        "violations": [],
+        "defects": []
+      },
+      "contents": {
+        "topic_count": 10,
+        "matched_count": 10,
+        "missing_topics": [],
+        "defects": []
+      },
+      "mapping": {
+        "correct": 10,
+        "total": 10,
+        "accuracy": 1.0,
+        "comparisons": [
+          {
+            "element_id": "waterfall-p003-001",
+            "number": "1",
+            "expected": "abstract",
+            "actual": "abstract",
+            "correct": true
+          },
+          {
+            "element_id": "waterfall-p004-001",
+            "number": "2",
+            "expected": "scope",
+            "actual": "scope",
+            "correct": true
+          },
+          {
+            "element_id": "waterfall-p005-001",
+            "number": "3",
+            "expected": "introduction",
+            "actual": "introduction",
+            "correct": true
+          },
+          {
+            "element_id": "waterfall-p006-001",
+            "number": "4",
+            "expected": "learning_objectives",
+            "actual": "learning_objectives",
+            "correct": true
+          },
+          {
+            "element_id": "waterfall-p007-001",
+            "number": "5",
+            "expected": "core_concept",
+            "actual": "core_concept",
+            "correct": true
+          },
+          {
+            "element_id": "waterfall-p008-001",
+            "number": "6",
+            "expected": "process_detail",
+            "actual": "process_detail",
+            "correct": true
+          },
+          {
+            "element_id": "waterfall-p011-001",
+            "number": "7",
+            "expected": "when_to_use",
+            "actual": "when_to_use",
+            "correct": true
+          },
+          {
+            "element_id": "waterfall-p012-001",
+            "number": "8",
+            "expected": "best_practices",
+            "actual": "best_practices",
+            "correct": true
+          },
+          {
+            "element_id": "waterfall-p013-001",
+            "number": "9",
+            "expected": "advantages",
+            "actual": "advantages",
+            "correct": true
+          },
+          {
+            "element_id": "waterfall-p014-001",
+            "number": "10",
+            "expected": "limitations",
+            "actual": "limitations",
+            "correct": true
+          }
+        ]
+      },
+      "image_transcription": {
+        "label": "indicative; measures keyword presence only",
+        "strict": {
+          "matched": 22,
+          "total": 22,
+          "recall": 1.0
+        },
+        "normalised": {
+          "matched": 22,
+          "total": 22,
+          "recall": 1.0
+        },
+        "per_figure": [
+          {
+            "figure_id": "waterfall-p001-005",
+            "page": 1,
+            "key_group": "cover_photo",
+            "strict": "NOT MEASURED",
+            "normalised": "NOT MEASURED",
+            "reason": "The answer key selects no image keywords for this figure."
+          },
+          {
+            "figure_id": "waterfall-p008-002",
+            "page": 8,
+            "key_group": "sdlc_cycle",
+            "strict": {
+              "matched": 7,
+              "total": 7,
+              "recall": 1.0,
+              "matched_tokens": [
+                "SOFTWARE",
+                "DEVELOPMENT",
+                "PLANNING",
+                "DESIGN",
+                "TESTING",
+                "DEPLOYMENT",
+                "MAINTENANCE"
+              ],
+              "missing_tokens": []
+            },
+            "normalised": {
+              "matched": 7,
+              "total": 7,
+              "recall": 1.0,
+              "matched_tokens": [
+                "SOFTWARE",
+                "DEVELOPMENT",
+                "PLANNING",
+                "DESIGN",
+                "TESTING",
+                "DEPLOYMENT",
+                "MAINTENANCE"
+              ],
+              "missing_tokens": []
+            },
+            "label": "indicative; measures keyword presence only"
+          },
+          {
+            "figure_id": "waterfall-p008-007",
+            "page": 8,
+            "key_group": "ux_cycle",
+            "strict": {
+              "matched": 4,
+              "total": 4,
+              "recall": 1.0,
+              "matched_tokens": [
+                "MULTIPLE ITERATIONS",
+                "Understand",
+                "Define",
+                "Evaluation"
+              ],
+              "missing_tokens": []
+            },
+            "normalised": {
+              "matched": 4,
+              "total": 4,
+              "recall": 1.0,
+              "matched_tokens": [
+                "MULTIPLE ITERATIONS",
+                "Understand",
+                "Define",
+                "Evaluation"
+              ],
+              "missing_tokens": []
+            },
+            "label": "indicative; measures keyword presence only"
+          },
+          {
+            "figure_id": "waterfall-p009-005",
+            "page": 9,
+            "key_group": "testing_cycle",
+            "strict": {
+              "matched": 4,
+              "total": 4,
+              "recall": 1.0,
+              "matched_tokens": [
+                "SOFTWARE TESTING",
+                "Test Planning",
+                "Test Execution",
+                "Test Closure"
+              ],
+              "missing_tokens": []
+            },
+            "normalised": {
+              "matched": 4,
+              "total": 4,
+              "recall": 1.0,
+              "matched_tokens": [
+                "SOFTWARE TESTING",
+                "Test Planning",
+                "Test Execution",
+                "Test Closure"
+              ],
+              "missing_tokens": []
+            },
+            "label": "indicative; measures keyword presence only"
+          },
+          {
+            "figure_id": "waterfall-p010-001",
+            "page": 10,
+            "key_group": "phase_role_chart",
+            "strict": {
+              "matched": 7,
+              "total": 7,
+              "recall": 1.0,
+              "matched_tokens": [
+                "Planning",
+                "Analysis",
+                "Design",
+                "Implementation",
+                "Test",
+                "Deploy",
+                "Maintenance"
+              ],
+              "missing_tokens": []
+            },
+            "normalised": {
+              "matched": 7,
+              "total": 7,
+              "recall": 1.0,
+              "matched_tokens": [
+                "Planning",
+                "Analysis",
+                "Design",
+                "Implementation",
+                "Test",
+                "Deploy",
+                "Maintenance"
+              ],
+              "missing_tokens": []
+            },
+            "label": "indicative; measures keyword presence only"
+          }
+        ]
+      },
+      "private_use": {
+        "count": 0,
+        "characters": [],
+        "defects": []
+      },
+      "defects": []
+    },
+    "kanban": {
+      "doc_id": "kanban",
+      "docx_file": "/Users/appalaraju/Desktop/TenderAutomationPOC_1/data/output/kanban_decision_brief.docx",
+      "ledger": {
+        "element_count": 72,
+        "counts": {
+          "placed": 63,
+          "regenerated": 9,
+          "unplaced": 0,
+          "pending": 0
+        },
+        "expected_regenerated_ids": [
+          "kanban-p001-005",
+          "kanban-p002-001",
+          "kanban-p002-002",
+          "kanban-p002-003",
+          "kanban-p003-014",
+          "kanban-p004-017",
+          "kanban-p005-013",
+          "kanban-p006-011",
+          "kanban-p007-009"
+        ],
+        "actual_regenerated_ids": [
+          "kanban-p001-005",
+          "kanban-p002-001",
+          "kanban-p002-002",
+          "kanban-p002-003",
+          "kanban-p003-014",
+          "kanban-p004-017",
+          "kanban-p005-013",
+          "kanban-p006-011",
+          "kanban-p007-009"
+        ],
+        "placement_count": 72,
+        "defects": []
+      },
+      "text": {
+        "source_word_count": 1581,
+        "output_word_count": 2116,
+        "recalled_source_word_count": 1581,
+        "word_recall": 1.0,
+        "word_recall_reason": null,
+        "missing_word_count": 0,
+        "missing_words": [],
+        "excess_word_count": 0,
+        "excess_words": []
+      },
+      "tables": {
+        "expected_count": 3,
+        "actual_count": 3,
+        "matching_count": 3,
+        "all_equal": true,
+        "comparisons": [
+          {
+            "source_element_id": "kanban-p004-015",
+            "output_table_index": 1,
+            "expected_shape": [
+              5,
+              2
+            ],
+            "actual_shape": [
+              5,
+              2
+            ],
+            "shape_equal": true,
+            "cells_equal_after_whitespace_normalisation": true
+          },
+          {
+            "source_element_id": "kanban-p006-004",
+            "output_table_index": 2,
+            "expected_shape": [
+              8,
+              2
+            ],
+            "actual_shape": [
+              8,
+              2
+            ],
+            "shape_equal": true,
+            "cells_equal_after_whitespace_normalisation": true
+          },
+          {
+            "source_element_id": "kanban-p007-007",
+            "output_table_index": 3,
+            "expected_shape": [
+              6,
+              2
+            ],
+            "actual_shape": [
+              6,
+              2
+            ],
+            "shape_equal": true,
+            "cells_equal_after_whitespace_normalisation": true
+          }
+        ],
+        "defects": []
+      },
+      "headings": {
+        "source_count": 18,
+        "matched_count": 18,
+        "matches": [
+          {
+            "element_id": "kanban-p003-001",
+            "title": "Abstract",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p003-005",
+            "title": "Scope",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p003-007",
+            "title": "Introduction",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p003-008",
+            "title": "Background",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p003-010",
+            "title": "Purpose",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p003-012",
+            "title": "Intended Audience",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p004-001",
+            "title": "Learning Objectives",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p004-011",
+            "title": "Kanban Methodology",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p005-001",
+            "title": "Detailed Kanban Process Explanation",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p005-002",
+            "title": "Visualizing Work",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p005-004",
+            "title": "Defining the Workflow",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p005-006",
+            "title": "Managing Work in Progress",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p005-009",
+            "title": "Managing Flow",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p005-011",
+            "title": "Continuous Improvement",
+            "source_level": 2,
+            "output_heading_level": 3,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p006-001",
+            "title": "When to Use Kanban",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p006-006",
+            "title": "Best Practices",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p006-009",
+            "title": "Advantages of Kanban",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          },
+          {
+            "element_id": "kanban-p007-003",
+            "title": "Limitations & Challenges",
+            "source_level": 1,
+            "output_heading_level": 2,
+            "matched": true
+          }
+        ],
+        "output_headings": [
+          {
+            "level": 1,
+            "title": "Contents"
+          },
+          {
+            "level": 1,
+            "title": "A. Overview"
+          },
+          {
+            "level": 2,
+            "title": "Abstract"
+          },
+          {
+            "level": 2,
+            "title": "Scope"
+          },
+          {
+            "level": 2,
+            "title": "Introduction"
+          },
+          {
+            "level": 3,
+            "title": "Background"
+          },
+          {
+            "level": 3,
+            "title": "Purpose"
+          },
+          {
+            "level": 3,
+            "title": "Intended Audience"
+          },
+          {
+            "level": 1,
+            "title": "B. Core Concept"
+          },
+          {
+            "level": 2,
+            "title": "Kanban Methodology"
+          },
+          {
+            "level": 1,
+            "title": "C. Process in Detail"
+          },
+          {
+            "level": 2,
+            "title": "Detailed Kanban Process Explanation"
+          },
+          {
+            "level": 3,
+            "title": "Visualizing Work"
+          },
+          {
+            "level": 3,
+            "title": "Defining the Workflow"
+          },
+          {
+            "level": 3,
+            "title": "Managing Work in Progress"
+          },
+          {
+            "level": 3,
+            "title": "Managing Flow"
+          },
+          {
+            "level": 3,
+            "title": "Continuous Improvement"
+          },
+          {
+            "level": 1,
+            "title": "D. Fit Check"
+          },
+          {
+            "level": 2,
+            "title": "When to Use Kanban"
+          },
+          {
+            "level": 1,
+            "title": "E. Strengths and Risks"
+          },
+          {
+            "level": 2,
+            "title": "Best Practices"
+          },
+          {
+            "level": 2,
+            "title": "Advantages of Kanban"
+          },
+          {
+            "level": 2,
+            "title": "Limitations & Challenges"
+          },
+          {
+            "level": 1,
+            "title": "F. Learning Checklist"
+          },
+          {
+            "level": 2,
+            "title": "Learning Objectives"
+          },
+          {
+            "level": 1,
+            "title": "Appendix 1 — Figure Index"
+          },
+          {
+            "level": 1,
+            "title": "Appendix 2 — Source Map"
+          },
+          {
+            "level": 1,
+            "title": "Appendix 3 — Unplaced Content"
+          }
+        ],
+        "defects": []
+      },
+      "images": {
+        "source_display_image_count": 3,
+        "docx_media_file_count": 3,
+        "docx_inline_image_count": 3,
+        "source_hashes": {
+          "871f41caa636ea40bfd2c2d7c5f09a9d2221fb6a40e89717b1cc6eca33e5de07": 1,
+          "a8cae953c2e9caa8f32cb563f89f95b53106189412c9eaa453772e6df1610454": 1,
+          "692d7cf00e68937adb5545fd9fc75fc5cb5c2da6c3d0cc83721ab9598e0017c8": 1
+        },
+        "media_hashes": {
+          "871f41caa636ea40bfd2c2d7c5f09a9d2221fb6a40e89717b1cc6eca33e5de07": 1,
+          "a8cae953c2e9caa8f32cb563f89f95b53106189412c9eaa453772e6df1610454": 1,
+          "692d7cf00e68937adb5545fd9fc75fc5cb5c2da6c3d0cc83721ab9598e0017c8": 1
+        },
+        "set_equal": true,
+        "count_equal": true,
+        "inline_relationships_equal": true,
+        "placement_order_equal": true,
+        "composites": [
+          {
+            "figure_id": "kanban-p007-008",
+            "part_hashes": [
+              {
+                "part_id": "kanban-p007-008-part01",
+                "expected": "c3067df9e4b95d5fc7eafc292d6488f70fe5579704b9991b4ed7002ecfc9b4a0",
+                "actual": "c3067df9e4b95d5fc7eafc292d6488f70fe5579704b9991b4ed7002ecfc9b4a0",
+                "matches": true
+              },
+              {
+                "part_id": "kanban-p007-008-part02",
+                "expected": "381d6aa609619f79b0b4dd35d1ff3b4f01f107c0deacc1661ad5681c672df46a",
+                "actual": "381d6aa609619f79b0b4dd35d1ff3b4f01f107c0deacc1661ad5681c672df46a",
+                "matches": true
+              }
+            ],
+            "parts_match": true,
+            "rebuilt_sha256": "692d7cf00e68937adb5545fd9fc75fc5cb5c2da6c3d0cc83721ab9598e0017c8",
+            "display_sha256": "692d7cf00e68937adb5545fd9fc75fc5cb5c2da6c3d0cc83721ab9598e0017c8",
+            "matches": true
+          }
+        ],
+        "defects": []
+      },
+      "order": {
+        "expected_section_order": [
+          "A_overview",
+          "B_core_concept",
+          "C_process_detail",
+          "D_fit_check",
+          "E_strengths_risks",
+          "F_learning_checklist"
+        ],
+        "actual_section_order": [
+          "A_overview",
+          "B_core_concept",
+          "C_process_detail",
+          "D_fit_check",
+          "E_strengths_risks",
+          "F_learning_checklist"
+        ],
+        "section_order_preserved": true,
+        "relative_order_preserved": true,
+        "violations": [],
+        "defects": []
+      },
+      "contents": {
+        "topic_count": 10,
+        "matched_count": 10,
+        "missing_topics": [],
+        "defects": []
+      },
+      "mapping": {
+        "correct": 10,
+        "total": 10,
+        "accuracy": 1.0,
+        "comparisons": [
+          {
+            "element_id": "kanban-p003-001",
+            "number": "1",
+            "expected": "abstract",
+            "actual": "abstract",
+            "correct": true
+          },
+          {
+            "element_id": "kanban-p003-005",
+            "number": "2",
+            "expected": "scope",
+            "actual": "scope",
+            "correct": true
+          },
+          {
+            "element_id": "kanban-p003-007",
+            "number": "3",
+            "expected": "introduction",
+            "actual": "introduction",
+            "correct": true
+          },
+          {
+            "element_id": "kanban-p004-001",
+            "number": "4",
+            "expected": "learning_objectives",
+            "actual": "learning_objectives",
+            "correct": true
+          },
+          {
+            "element_id": "kanban-p004-011",
+            "number": "5",
+            "expected": "core_concept",
+            "actual": "core_concept",
+            "correct": true
+          },
+          {
+            "element_id": "kanban-p005-001",
+            "number": "6",
+            "expected": "process_detail",
+            "actual": "process_detail",
+            "correct": true
+          },
+          {
+            "element_id": "kanban-p006-001",
+            "number": "7",
+            "expected": "when_to_use",
+            "actual": "when_to_use",
+            "correct": true
+          },
+          {
+            "element_id": "kanban-p006-006",
+            "number": "8",
+            "expected": "best_practices",
+            "actual": "best_practices",
+            "correct": true
+          },
+          {
+            "element_id": "kanban-p006-009",
+            "number": "9",
+            "expected": "advantages",
+            "actual": "advantages",
+            "correct": true
+          },
+          {
+            "element_id": "kanban-p007-003",
+            "number": "10",
+            "expected": "limitations",
+            "actual": "limitations",
+            "correct": true
+          }
+        ]
+      },
+      "image_transcription": {
+        "label": "indicative; measures keyword presence only",
+        "strict": {
+          "matched": 13,
+          "total": 14,
+          "recall": 0.9285714285714286
+        },
+        "normalised": {
+          "matched": 14,
+          "total": 14,
+          "recall": 1.0
+        },
+        "per_figure": [
+          {
+            "figure_id": "kanban-p004-016",
+            "page": 4,
+            "key_group": "board_diagram",
+            "strict": {
+              "matched": 6,
+              "total": 6,
+              "recall": 1.0,
+              "matched_tokens": [
+                "Kanban Board",
+                "Commitment Point",
+                "Delivery Point",
+                "Swimlanes",
+                "Cards",
+                "EXPEDITE"
+              ],
+              "missing_tokens": []
+            },
+            "normalised": {
+              "matched": 6,
+              "total": 6,
+              "recall": 1.0,
+              "matched_tokens": [
+                "Kanban Board",
+                "Commitment Point",
+                "Delivery Point",
+                "Swimlanes",
+                "Cards",
+                "EXPEDITE"
+              ],
+              "missing_tokens": []
+            },
+            "label": "indicative; measures keyword presence only"
+          },
+          {
+            "figure_id": "kanban-p005-008",
+            "page": 5,
+            "key_group": "wip_comparison",
+            "strict": {
+              "matched": 4,
+              "total": 4,
+              "recall": 1.0,
+              "matched_tokens": [
+                "Without WIP Limits",
+                "With WIP Limit",
+                "18%",
+                "67%"
+              ],
+              "missing_tokens": []
+            },
+            "normalised": {
+              "matched": 4,
+              "total": 4,
+              "recall": 1.0,
+              "matched_tokens": [
+                "Without WIP Limits",
+                "With WIP Limit",
+                "18%",
+                "67%"
+              ],
+              "missing_tokens": []
+            },
+            "label": "indicative; measures keyword presence only"
+          },
+          {
+            "figure_id": "kanban-p007-008",
+            "page": 7,
+            "key_group": "flow_diagram",
+            "strict": {
+              "matched": 3,
+              "total": 4,
+              "recall": 0.75,
+              "matched_tokens": [
+                "MANAGE FLOW",
+                "VISUALIZE",
+                "LIMIT WORK IN PROGRESS"
+              ],
+              "missing_tokens": [
+                "BOTTLENECK"
+              ]
+            },
+            "normalised": {
+              "matched": 4,
+              "total": 4,
+              "recall": 1.0,
+              "matched_tokens": [
+                "MANAGE FLOW",
+                "BOTTLENECK",
+                "VISUALIZE",
+                "LIMIT WORK IN PROGRESS"
+              ],
+              "missing_tokens": []
+            },
+            "label": "indicative; measures keyword presence only"
+          }
+        ]
+      },
+      "private_use": {
+        "count": 0,
+        "characters": [],
+        "defects": []
+      },
+      "defects": []
+    }
+  },
+  "overall": {
+    "documents": 2,
+    "text": {
+      "source_word_count": 2962,
+      "recalled_source_word_count": 2962,
+      "word_recall": 1.0,
+      "missing_word_count": 0,
+      "excess_word_count": 0
+    },
+    "tables": {
+      "expected_count": 8,
+      "matching_count": 8,
+      "shapes_equal": true,
+      "cells_equal": true
+    },
+    "images": {
+      "source_display_image_count": 8,
+      "docx_media_file_count": 8,
+      "composites_rebuilt": 2,
+      "composites_matching": 2
+    },
+    "mapping": {
+      "correct": 20,
+      "total": 20,
+      "accuracy": 1.0
+    },
+    "headings": {
+      "matched": 39,
+      "total": 39,
+      "accuracy": 1.0
+    },
+    "contents": {
+      "matched": 20,
+      "total": 20,
+      "all_topics_headings": true
+    },
+    "order": {
+      "documents_in_section_order": 2,
+      "documents_with_relative_order": 2
+    },
+    "image_transcription": {
+      "label": "indicative; measures keyword presence only",
+      "strict": {
+        "matched": 35,
+        "total": 36,
+        "recall": 0.9722222222222222
+      },
+      "normalised": {
+        "matched": 36,
+        "total": 36,
+        "recall": 1.0
+      }
+    },
+    "ledger": {
+      "placed": 121,
+      "regenerated": 25,
+      "unplaced": 0,
+      "pending": 0
+    },
+    "private_use_character_count": 0,
+    "defect_count": 0
+  }
+}

@@ -1,0 +1,215 @@
+[
+  {
+    "timestamp_utc": "2026-10-11T13:27:57.828030+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_kanban_pm_final_2_5340493d-p001-001",
+      "c1_kanban_pm_final_2_5340493d-p001-002",
+      "c1_kanban_pm_final_2_5340493d-p001-003",
+      "c1_kanban_pm_final_2_5340493d-p001-004",
+      "c1_kanban_pm_final_2_5340493d-p001-005",
+      "c1_kanban_pm_final_2_5340493d-p002-001",
+      "c1_kanban_pm_final_2_5340493d-p002-002",
+      "c1_kanban_pm_final_2_5340493d-p002-003"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "unclassified",
+          "source_heading_id": null,
+          "blocks": [
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p001-001",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p001-002",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p001-003",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p001-004",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p001-005",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p002-001",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p002-002",
+              "block_type": "table"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p002-003",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": true,
+    "provider_calls": 0,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:27:57.830790+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_kanban_pm_final_2_5340493d-p003-001",
+      "c1_kanban_pm_final_2_5340493d-p003-002",
+      "c1_kanban_pm_final_2_5340493d-p003-003",
+      "c1_kanban_pm_final_2_5340493d-p003-004"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "A_overview",
+          "source_heading_id": "c1_kanban_pm_final_2_5340493d-p003-001",
+          "blocks": [
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-002",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-003",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-004",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": true,
+    "provider_calls": 0,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:27:57.833495+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_kanban_pm_final_2_5340493d-p003-005",
+      "c1_kanban_pm_final_2_5340493d-p003-006"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "A_overview",
+          "source_heading_id": "c1_kanban_pm_final_2_5340493d-p003-005",
+          "blocks": [
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-005",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-006",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": true,
+    "provider_calls": 0,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:27:57.835823+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_kanban_pm_final_2_5340493d-p003-007",
+      "c1_kanban_pm_final_2_5340493d-p003-008",
+      "c1_kanban_pm_final_2_5340493d-p003-009",
+      "c1_kanban_pm_final_2_5340493d-p003-010",
+      "c1_kanban_pm_final_2_5340493d-p003-011",
+      "c1_kanban_pm_final_2_5340493d-p003-012",
+      "c1_kanban_pm_final_2_5340493d-p003-013",
+      "c1_kanban_pm_final_2_5340493d-p003-014"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "A_overview",
+          "source_heading_id": "c1_kanban_pm_final_2_5340493d-p003-007",
+          "blocks": [
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-007",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-008",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-009",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-010",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-011",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-012",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-013",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_kanban_pm_final_2_5340493d-p003-014",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": true,
+    "provider_calls": 0,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:27:58.526767+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_kanban_pm_final_2_5340493d-p004-001",
+      "c1_kanban_pm_final_2_5340493d-p004-002",
+      "c1_kanban_pm_final_2_5340493d-p004-003",
+      "c1_kanban_pm_final_2_5340493d-p004-004",
+      "c1_kanban_pm_final_2_5340493d-p004-005",
+      "c1_kanban_pm_final_2_5340493d-p004-006",
+      "c1_kanban_pm_final_2_5340493d-p004-007",
+      "c1_kanban_pm_final_2_5340493d-p004-008",
+      "c1_kanban_pm_final_2_5340493d-p004-009",
+      "c1_kanban_pm_final_2_5340493d-p004-010"
+    ],
+    "token_usage": null,
+    "result": "FAILED",
+    "error_type": "QuotaLimitError",
+    "error": "QuotaLimitError",
+    "cache_hit": false,
+    "provider_calls": 1,
+    "retries": 0
+  }
+]

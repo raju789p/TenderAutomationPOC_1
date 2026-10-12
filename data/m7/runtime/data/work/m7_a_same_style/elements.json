@@ -1,0 +1,678 @@
+{
+  "doc_id": "m7_a_same_style",
+  "source_file": "m7_a_same_style.pdf",
+  "source_sha256": "fb8850b34d4682109678182c497b3b5ec904e999578f943a9dbfc297c39229df",
+  "page_count": 6,
+  "elements": [
+    {
+      "id": "m7_a_same_style-p001-001",
+      "doc_id": "m7_a_same_style",
+      "page": 1,
+      "bbox": [
+        220.9235076904297,
+        164.99996948242188,
+        374.07659912109375,
+        182.90097045898438
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Northstar Delivery Office",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_a_same_style-p001-002",
+      "doc_id": "m7_a_same_style",
+      "page": 1,
+      "bbox": [
+        144.7100067138672,
+        300.0000305175781,
+        450.28997802734375,
+        327.5400390625
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "PROJECT METHOD PLAYBOOK",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_a_same_style-p001-003",
+      "doc_id": "m7_a_same_style",
+      "page": 1,
+      "bbox": [
+        260.8399963378906,
+        332.1000061035156,
+        334.1600036621094,
+        359.6400146484375
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "SCRUM",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_a_same_style-p001-004",
+      "doc_id": "m7_a_same_style",
+      "page": 1,
+      "bbox": [
+        89.07000732421875,
+        364.20001220703125,
+        505.9299621582031,
+        391.7400207519531
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Scrum Product Delivery | synthetic baseline",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_a_same_style-p001-005",
+      "doc_id": "m7_a_same_style",
+      "page": 1,
+      "bbox": [
+        264.7200012207031,
+        396.3000183105469,
+        330.2799987792969,
+        423.84002685546875
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "edition",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_a_same_style-p001-006",
+      "doc_id": "m7_a_same_style",
+      "page": 1,
+      "bbox": [
+        185.5,
+        520.0,
+        409.5,
+        632.0
+      ],
+      "type": "figure",
+      "role": "cover",
+      "disposition": "placed",
+      "image_path": "images/parts/m7_a_same_style-p001-006-part01.png",
+      "sha256": "af69ec3f94acb556811ade28010bdb5ceb83ba61483e72e7c18a29f63af46e66",
+      "width": 520,
+      "height": 260,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_a_same_style-p001-006-part01",
+          "page": 1,
+          "xref": 5,
+          "image_path": "images/parts/m7_a_same_style-p001-006-part01.png",
+          "sha256": "af69ec3f94acb556811ade28010bdb5ceb83ba61483e72e7c18a29f63af46e66",
+          "bbox": [
+            185.5,
+            520.0,
+            409.5,
+            632.0
+          ],
+          "width": 520,
+          "height": 260,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 5344
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_a_same_style-p002-001",
+      "doc_id": "m7_a_same_style",
+      "page": 2,
+      "bbox": [
+        58.0,
+        60.73999786376953,
+        135.9940185546875,
+        85.5260009765625
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "regenerated",
+      "spans": [
+        {
+          "text": "Contents",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_a_same_style-p002-002",
+      "doc_id": "m7_a_same_style",
+      "page": 2,
+      "bbox": [
+        78.0,
+        120.0999984741211,
+        168.03598022460938,
+        136.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "1. Delivery Intent",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p002-003",
+      "doc_id": "m7_a_same_style",
+      "page": 2,
+      "bbox": [
+        78.0,
+        157.10000610351562,
+        170.05197143554688,
+        173.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "2. Product Scope",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p002-004",
+      "doc_id": "m7_a_same_style",
+      "page": 2,
+      "bbox": [
+        78.0,
+        194.10000610351562,
+        183.37197875976562,
+        210.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "3. Sprint Mechanics",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p002-005",
+      "doc_id": "m7_a_same_style",
+      "page": 2,
+      "bbox": [
+        78.0,
+        231.10000610351562,
+        244.73995971679688,
+        247.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "4. Release Learning Objectives",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p003-001",
+      "doc_id": "m7_a_same_style",
+      "page": 3,
+      "bbox": [
+        58.0,
+        88.00000762939453,
+        197.0500030517578,
+        112.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "1",
+      "title": "Delivery Intent"
+    },
+    {
+      "id": "m7_a_same_style-p003-002",
+      "doc_id": "m7_a_same_style",
+      "page": 3,
+      "bbox": [
+        58.0,
+        141.99998474121094,
+        188.71800231933594,
+        161.27798461914062
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 2,
+      "number": "1.1",
+      "title": "Evidence Inputs"
+    },
+    {
+      "id": "m7_a_same_style-p003-003",
+      "doc_id": "m7_a_same_style",
+      "page": 3,
+      "bbox": [
+        58.0,
+        197.00001525878906,
+        520.7919311523438,
+        226.30401611328125
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Scrum teams align work to scrum product delivery goals and record evidence before advancing the work item.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p003-004",
+      "doc_id": "m7_a_same_style",
+      "page": 3,
+      "bbox": [
+        73.0,
+        270.17498779296875,
+        289.4469299316406,
+        285.28900146484375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "· Review the signal before changing the plan",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p003-005",
+      "doc_id": "m7_a_same_style",
+      "page": 3,
+      "bbox": [
+        73.0,
+        298.17498779296875,
+        272.3089904785156,
+        313.28900146484375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "· Keep ownership visible across handoffs",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p003-006",
+      "doc_id": "m7_a_same_style",
+      "page": 3,
+      "bbox": [
+        58.0,
+        370.0,
+        518.0,
+        482.0
+      ],
+      "type": "table",
+      "role": "body",
+      "disposition": "pending",
+      "rows": [
+        [
+          "Stage",
+          "Evidence",
+          "Owner"
+        ],
+        [
+          "Frame",
+          "Baseline",
+          "Lead"
+        ],
+        [
+          "Test",
+          "Outcome",
+          "Team"
+        ],
+        [
+          "Learn",
+          "Decision",
+          "Sponsor"
+        ]
+      ],
+      "header_rows": 1,
+      "n_rows": 4,
+      "n_cols": 3
+    },
+    {
+      "id": "m7_a_same_style-p004-001",
+      "doc_id": "m7_a_same_style",
+      "page": 4,
+      "bbox": [
+        58.0,
+        88.00000762939453,
+        200.03799438476562,
+        112.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "placed",
+      "level": 1,
+      "number": "2",
+      "title": "Product Scope"
+    },
+    {
+      "id": "m7_a_same_style-p004-002",
+      "doc_id": "m7_a_same_style",
+      "page": 4,
+      "bbox": [
+        58.0,
+        144.99998474121094,
+        187.15000915527344,
+        164.27798461914062
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "placed",
+      "level": 2,
+      "number": "2.1",
+      "title": "Decision Rights"
+    },
+    {
+      "id": "m7_a_same_style-p004-003",
+      "doc_id": "m7_a_same_style",
+      "page": 4,
+      "bbox": [
+        58.0,
+        205.00001525878906,
+        509.8139343261719,
+        220.114013671875
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "The Scrum method uses product scope to make the next decision observable and reversible.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p004-004",
+      "doc_id": "m7_a_same_style",
+      "page": 4,
+      "bbox": [
+        58.0,
+        255.00001525878906,
+        500.0350036621094,
+        270.114013671875
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Teams capture context, compare evidence, and assign a named owner for the next review.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p005-001",
+      "doc_id": "m7_a_same_style",
+      "page": 5,
+      "bbox": [
+        58.0,
+        78.00000762939453,
+        222.05198669433594,
+        102.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "3",
+      "title": "Sprint Mechanics"
+    },
+    {
+      "id": "m7_a_same_style-p005-002",
+      "doc_id": "m7_a_same_style",
+      "page": 5,
+      "bbox": [
+        58.0,
+        127.9999771118164,
+        221.40798950195312,
+        147.27798461914062
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 2,
+      "number": "3.1",
+      "title": "Assurance Measures"
+    },
+    {
+      "id": "m7_a_same_style-p005-003",
+      "doc_id": "m7_a_same_style",
+      "page": 5,
+      "bbox": [
+        58.0,
+        180.00001525878906,
+        506.72296142578125,
+        195.114013671875
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Scrum records a measurable result for sprint mechanics and preserves the decision context.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_a_same_style-p005-004",
+      "doc_id": "m7_a_same_style",
+      "page": 5,
+      "bbox": [
+        58.0,
+        280.0,
+        518.0,
+        392.0
+      ],
+      "type": "table",
+      "role": "body",
+      "disposition": "placed",
+      "rows": [
+        [
+          "Check",
+          "Threshold"
+        ],
+        [
+          "Trace",
+          "Evidence linked"
+        ],
+        [
+          "Review",
+          "Owner assigned"
+        ],
+        [
+          "Close",
+          "Action recorded"
+        ]
+      ],
+      "header_rows": 1,
+      "n_rows": 4,
+      "n_cols": 2
+    },
+    {
+      "id": "m7_a_same_style-p005-005",
+      "doc_id": "m7_a_same_style",
+      "page": 5,
+      "bbox": [
+        172.5,
+        440.0,
+        422.5,
+        565.0
+      ],
+      "type": "figure",
+      "role": "body",
+      "disposition": "placed",
+      "image_path": "images/parts/m7_a_same_style-p005-005-part01.png",
+      "sha256": "af69ec3f94acb556811ade28010bdb5ceb83ba61483e72e7c18a29f63af46e66",
+      "width": 520,
+      "height": 260,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_a_same_style-p005-005-part01",
+          "page": 5,
+          "xref": 5,
+          "image_path": "images/parts/m7_a_same_style-p005-005-part01.png",
+          "sha256": "af69ec3f94acb556811ade28010bdb5ceb83ba61483e72e7c18a29f63af46e66",
+          "bbox": [
+            172.5,
+            440.0,
+            422.5,
+            565.0
+          ],
+          "width": 520,
+          "height": 260,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 5344
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_a_same_style-p006-001",
+      "doc_id": "m7_a_same_style",
+      "page": 6,
+      "bbox": [
+        58.0,
+        88.00000762939453,
+        318.1179504394531,
+        112.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "placed",
+      "level": 1,
+      "number": "4",
+      "title": "Release Learning Objectives"
+    },
+    {
+      "id": "m7_a_same_style-p006-002",
+      "doc_id": "m7_a_same_style",
+      "page": 6,
+      "bbox": [
+        58.0,
+        145.00001525878906,
+        519.02099609375,
+        174.30401611328125
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "A closeout record states what changed, who accepted the evidence, and what remains open in Scrum.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    }
+  ],
+  "cover_lines": [
+    "Northstar Delivery Office",
+    "PROJECT METHOD PLAYBOOK",
+    "SCRUM",
+    "Scrum Product Delivery | synthetic baseline",
+    "edition"
+  ]
+}

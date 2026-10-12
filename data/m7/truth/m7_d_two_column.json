@@ -1,0 +1,203 @@
+{
+  "doc_id": "m7_d_two_column",
+  "methodology": "DevOps",
+  "source_pdf_sha256": "46de874d62f4c682a725873f1b26c985604ef12b5186da15759fc8c7e1cdfec7",
+  "page_count": 6,
+  "pages": [
+    {
+      "text": "Northstar Delivery Office\nPROJECT METHOD PLAYBOOK\nDEVOPS\nDevOps Service Reliability | synthetic baseline edition\nSIGNAL\nCONTROL\nQUALITY\nFLOW",
+      "headings": []
+    },
+    {
+      "text": "Contents\n1. Service Flow\n2. Deployment Safety\n3. Incident Learning\n4. Reliability Signals",
+      "headings": []
+    },
+    {
+      "text": "1 Service Flow\n1.1 Evidence Inputs\nDevOps teams align work to devops service reliability goals and record evidence before advancing the work item.\n• Review the signal before changing the plan\n• Keep ownership visible across handoffs\nStage Evidence Owner\nFrame Baseline Lead\nTest Outcome Team\nLearn Decision Sponsor",
+      "headings": [
+        {
+          "page": 3,
+          "title": "Service Flow",
+          "level": 1
+        },
+        {
+          "page": 3,
+          "title": "Evidence Inputs",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "2 Deployment Safety\n2.1 Column Handoff\nThe DevOps method uses deployment safety to make the next decision observable and reversible.\nTeams capture context, compare evidence, and assign a named owner for the next review.\nFigure 1. Service signals move through a guarded deployment loop.\n1. Evidence is sampled after a stable observation window.",
+      "headings": [
+        {
+          "page": 4,
+          "title": "Deployment Safety",
+          "level": 1
+        },
+        {
+          "page": 4,
+          "title": "Column Handoff",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "3 Incident Learning\n3.1 Assurance Measures\nDevOps records a measurable result for incident learning and preserves the decision context.\nCheck Threshold\nTrace Evidence linked\nReview Owner assigned\nClose Action recorded\nSIGNAL\nCONTROL\nQUALITY\nFLOW",
+      "headings": [
+        {
+          "page": 5,
+          "title": "Incident Learning",
+          "level": 1
+        },
+        {
+          "page": 5,
+          "title": "Assurance Measures",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "4 Reliability Signals\nA closeout record states what changed, who accepted the evidence, and what remains open in DevOps.",
+      "headings": [
+        {
+          "page": 6,
+          "title": "Reliability Signals",
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "headings": [
+    {
+      "page": 3,
+      "title": "Service Flow",
+      "level": 1
+    },
+    {
+      "page": 3,
+      "title": "Evidence Inputs",
+      "level": 2
+    },
+    {
+      "page": 4,
+      "title": "Deployment Safety",
+      "level": 1
+    },
+    {
+      "page": 4,
+      "title": "Column Handoff",
+      "level": 2
+    },
+    {
+      "page": 5,
+      "title": "Incident Learning",
+      "level": 1
+    },
+    {
+      "page": 5,
+      "title": "Assurance Measures",
+      "level": 2
+    },
+    {
+      "page": 6,
+      "title": "Reliability Signals",
+      "level": 1
+    }
+  ],
+  "tables": [
+    {
+      "page": 3,
+      "shape": [
+        4,
+        3
+      ],
+      "cells": [
+        [
+          "Stage",
+          "Evidence",
+          "Owner"
+        ],
+        [
+          "Frame",
+          "Baseline",
+          "Lead"
+        ],
+        [
+          "Test",
+          "Outcome",
+          "Team"
+        ],
+        [
+          "Learn",
+          "Decision",
+          "Sponsor"
+        ]
+      ]
+    },
+    {
+      "page": 5,
+      "shape": [
+        4,
+        2
+      ],
+      "cells": [
+        [
+          "Check",
+          "Threshold"
+        ],
+        [
+          "Trace",
+          "Evidence linked"
+        ],
+        [
+          "Review",
+          "Owner assigned"
+        ],
+        [
+          "Close",
+          "Action recorded"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "sha256": "1e3cf84776afa3e6f1fca75bf7e12be0f87d3f540b1809390c2307f1a163f40f",
+      "expected_printed_words": [
+        "SIGNAL",
+        "CONTROL",
+        "QUALITY",
+        "FLOW"
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "1e3cf84776afa3e6f1fca75bf7e12be0f87d3f540b1809390c2307f1a163f40f",
+      "expected_printed_words": [
+        "SIGNAL",
+        "CONTROL",
+        "QUALITY",
+        "FLOW"
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "1e3cf84776afa3e6f1fca75bf7e12be0f87d3f540b1809390c2307f1a163f40f",
+      "expected_printed_words": [
+        "SIGNAL",
+        "CONTROL",
+        "QUALITY",
+        "FLOW"
+      ]
+    }
+  ],
+  "section_types": {
+    "1": "unclassified",
+    "2": "unclassified",
+    "3": "unclassified",
+    "4": "unclassified"
+  },
+  "page_furniture": []
+}

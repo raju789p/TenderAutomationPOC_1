@@ -1,0 +1,147 @@
+// verified cell by cell against the PDF by the architect
+[
+  {
+    "id": "kanban-p002-002",
+    "page": 2,
+    "rows": [
+      [
+        "TOPIC",
+        "PAGE NO."
+      ],
+      [
+        "Abstract",
+        "3"
+      ],
+      [
+        "Scope",
+        "3"
+      ],
+      [
+        "Introduction",
+        "3"
+      ],
+      [
+        "Learning Objectives",
+        "4"
+      ],
+      [
+        "Kanban Methodology",
+        "4"
+      ],
+      [
+        "Detailed Kanban Process Explanation",
+        "5"
+      ],
+      [
+        "When to Use Kanban",
+        "6"
+      ],
+      [
+        "Best Practices",
+        "6"
+      ],
+      [
+        "Advantages of Kanban",
+        "6"
+      ],
+      [
+        "Limitations & Challenges",
+        "7"
+      ]
+    ]
+  },
+  {
+    "id": "kanban-p004-015",
+    "page": 4,
+    "rows": [
+      [
+        "Workflow Stage",
+        "Purpose"
+      ],
+      [
+        "To Do",
+        "Work that has been identified and is ready to be started"
+      ],
+      [
+        "In Progress",
+        "Work currently being actively handled"
+      ],
+      [
+        "Review",
+        "Work awaiting review, validation, or approval"
+      ],
+      [
+        "Done",
+        "Work that has met the defined completion criteria"
+      ]
+    ]
+  },
+  {
+    "id": "kanban-p006-004",
+    "page": 6,
+    "rows": [
+      [
+        "Project Characteristic",
+        "Kanban Suitability"
+      ],
+      [
+        "Continuous flow of work",
+        "Suitable"
+      ],
+      [
+        "Frequently changing priorities",
+        "Suitable"
+      ],
+      [
+        "Variable task sizes or urgency",
+        "Suitable"
+      ],
+      [
+        "Need to identify bottlenecks",
+        "Suitable"
+      ],
+      [
+        "Need for visual work tracking",
+        "Suitable"
+      ],
+      [
+        "Fixed iterations are mandatory",
+        "Less suitable"
+      ],
+      [
+        "Workflow cannot be clearly visualized",
+        "Less suitable"
+      ]
+    ]
+  },
+  {
+    "id": "kanban-p007-007",
+    "page": 7,
+    "rows": [
+      [
+        "Challenge",
+        "Potential Impact"
+      ],
+      [
+        "Poorly defined workflow",
+        "Inconsistent movement of work"
+      ],
+      [
+        "Excessive WIP",
+        "Reduced focus and work accumulation"
+      ],
+      [
+        "Frequent priority changes",
+        "Disrupted flow and reduced predictability"
+      ],
+      [
+        "Lack of continuous monitoring",
+        "Bottlenecks and delays remain unresolved"
+      ],
+      [
+        "Review or approval constraints",
+        "Work accumulates at specific stages"
+      ]
+    ]
+  }
+]

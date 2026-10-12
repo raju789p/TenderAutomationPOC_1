@@ -1,0 +1,7 @@
+Inspect only the supplied image. Return JSON matching the schema with:
+- kind: photo, diagram, chart, screenshot, or other;
+- caption: one concise sentence describing visible content;
+- transcribed_text: all legible visible words copied exactly and in reading order; use [?]
+  for any unreadable text and do not infer missing words;
+- uncertain: true when any part is ambiguous or unreadable.
+Do not add information that is not visible in the image.

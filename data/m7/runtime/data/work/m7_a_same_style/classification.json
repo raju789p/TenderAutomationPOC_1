@@ -1,0 +1,29 @@
+{
+  "doc_id": "m7_a_same_style",
+  "items": [
+    {
+      "heading_id": "m7_a_same_style-p004-001",
+      "number": "2",
+      "title": "Product Scope",
+      "canonical_type": "scope",
+      "method": "rule",
+      "status": "complete"
+    },
+    {
+      "heading_id": "m7_a_same_style-p004-002",
+      "number": "2.1",
+      "title": "Decision Rights",
+      "canonical_type": "scope",
+      "method": "rule",
+      "status": "complete"
+    },
+    {
+      "heading_id": "m7_a_same_style-p006-001",
+      "number": "4",
+      "title": "Release Learning Objectives",
+      "canonical_type": "learning_objectives",
+      "method": "rule",
+      "status": "complete"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "doc_id": "m7_e_scanned",
+  "methodology": "Spiral",
+  "source_pdf_sha256": "8e9168d653ce3edfe79f6634ace6da7a26ad0323aef2a04420e20e9b67d1dd28",
+  "page_count": 6,
+  "pages": [
+    {
+      "text": "Northstar Delivery Office\nPROJECT METHOD PLAYBOOK\nSPIRAL\nSpiral Risk Engineering | synthetic baseline edition\nSIGNAL\nCONTROL\nQUALITY\nFLOW",
+      "headings": []
+    },
+    {
+      "text": "Contents\n1. Risk Resolution\n2. Prototype Review\n3. Iteration Contract\n4. Exit Evidence",
+      "headings": []
+    },
+    {
+      "text": "1 Risk Resolution\nSpiral teams resolve uncertainty through evidence, controlled experiments, and explicit risk review. Page 3 describes risk resolution with repeatable acceptance signals.",
+      "headings": [
+        {
+          "title": "Risk Resolution",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "text": "2 Prototype Review\nSpiral teams resolve uncertainty through evidence, controlled experiments, and explicit risk review. Page 4 describes prototype review with repeatable acceptance signals.\nSIGNAL\nCONTROL\nQUALITY\nFLOW",
+      "headings": [
+        {
+          "title": "Prototype Review",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "text": "3 Iteration Contract\nSpiral teams resolve uncertainty through evidence, controlled experiments, and explicit risk review. Page 5 describes iteration contract with repeatable acceptance signals.",
+      "headings": [
+        {
+          "title": "Iteration Contract",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "text": "4 Exit Evidence\nSpiral teams resolve uncertainty through evidence, controlled experiments, and explicit risk review. Page 6 describes exit evidence with repeatable acceptance signals.",
+      "headings": [
+        {
+          "title": "Exit Evidence",
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "headings": [
+    {
+      "page": 3,
+      "title": "Risk Resolution",
+      "level": 1
+    },
+    {
+      "page": 4,
+      "title": "Prototype Review",
+      "level": 1
+    },
+    {
+      "page": 5,
+      "title": "Iteration Contract",
+      "level": 1
+    },
+    {
+      "page": 6,
+      "title": "Exit Evidence",
+      "level": 1
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "page": 1,
+      "sha256": "60d779911a7db646ff7ef7719393d6a535514ff90eb6f0a85a866ca979291960",
+      "expected_printed_words": []
+    },
+    {
+      "page": 2,
+      "sha256": "e059e9ebe53fdfa3d92a9ce3745f526d1ed1dd4767a1a188eded2e4dae1fa4be",
+      "expected_printed_words": []
+    },
+    {
+      "page": 3,
+      "sha256": "0fe331169f7a055a65d480f603047d05367d1383f3cb160aa349cc78dc97a859",
+      "expected_printed_words": []
+    },
+    {
+      "page": 4,
+      "sha256": "43f998c86f57e505f85b6c74e877b2f040a428d257d0088d42a9e785e1f0fc07",
+      "expected_printed_words": [
+        "SIGNAL",
+        "CONTROL",
+        "QUALITY",
+        "FLOW"
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "6fa7c74eb2c95ee98641b2bb4329c78fcc86ec26133c2df332e52025c434af0e",
+      "expected_printed_words": []
+    },
+    {
+      "page": 6,
+      "sha256": "2479019f799f75f5f3ed51384c18d7893978655cd52824c0bed8739251294c58",
+      "expected_printed_words": []
+    }
+  ],
+  "section_types": {
+    "1": "unclassified",
+    "2": "unclassified",
+    "3": "unclassified",
+    "4": "unclassified"
+  },
+  "page_furniture": []
+}

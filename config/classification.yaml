@@ -1,0 +1,22 @@
+version: 1
+section_rules:
+  - canonical_type: abstract
+    keywords: [abstract]
+  - canonical_type: scope
+    keywords: [scope]
+  - canonical_type: introduction
+    keywords: [introduction]
+  - canonical_type: learning_objectives
+    keywords: [learning objectives]
+  - canonical_type: core_concept
+    keywords: [waterfall lifecycle, kanban methodology, core concept]
+  - canonical_type: process_detail
+    keywords: [detailed phase-by-phase explanation, detailed kanban process explanation, process detail]
+  - canonical_type: when_to_use
+    keywords: [when to use, decision framework]
+  - canonical_type: best_practices
+    keywords: [best practices]
+  - canonical_type: advantages
+    keywords: [advantages]
+  - canonical_type: limitations
+    keywords: [limitations]

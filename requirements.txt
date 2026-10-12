@@ -1,0 +1,14 @@
+pymupdf
+pdfplumber
+python-docx
+pydantic>=2,<3
+pyyaml
+pillow
+pytest
+python-dotenv
+google-genai
+groq
+langchain-core==1.6.9
+langchain-google-genai==4.4.1
+langgraph==1.2.14
+-e .

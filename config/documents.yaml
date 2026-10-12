@@ -1,0 +1,6 @@
+documents:
+  - doc_id: waterfall
+    source_file: "WaterFall_PM_Documentation 1.pdf"
+  - doc_id: kanban
+    source_file: "Kanban_PM_Final 2.pdf"
+

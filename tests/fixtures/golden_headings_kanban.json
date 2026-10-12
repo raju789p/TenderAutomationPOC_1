@@ -1,0 +1,93 @@
+// verified against the PDF by the architect
+[
+  {
+    "level": 1,
+    "number": "1",
+    "title": "Abstract"
+  },
+  {
+    "level": 1,
+    "number": "2",
+    "title": "Scope"
+  },
+  {
+    "level": 1,
+    "number": "3",
+    "title": "Introduction"
+  },
+  {
+    "level": 2,
+    "number": "3.1",
+    "title": "Background"
+  },
+  {
+    "level": 2,
+    "number": "3.2",
+    "title": "Purpose"
+  },
+  {
+    "level": 2,
+    "number": "3.3",
+    "title": "Intended Audience"
+  },
+  {
+    "level": 1,
+    "number": "4",
+    "title": "Learning Objectives"
+  },
+  {
+    "level": 1,
+    "number": "5",
+    "title": "Kanban Methodology"
+  },
+  {
+    "level": 1,
+    "number": "6",
+    "title": "Detailed Kanban Process Explanation"
+  },
+  {
+    "level": 2,
+    "number": "6.1",
+    "title": "Visualizing Work"
+  },
+  {
+    "level": 2,
+    "number": "6.2",
+    "title": "Defining the Workflow"
+  },
+  {
+    "level": 2,
+    "number": "6.3",
+    "title": "Managing Work in Progress"
+  },
+  {
+    "level": 2,
+    "number": "6.4",
+    "title": "Managing Flow"
+  },
+  {
+    "level": 2,
+    "number": "6.5",
+    "title": "Continuous Improvement"
+  },
+  {
+    "level": 1,
+    "number": "7",
+    "title": "When to Use Kanban"
+  },
+  {
+    "level": 1,
+    "number": "8",
+    "title": "Best Practices"
+  },
+  {
+    "level": 1,
+    "number": "9",
+    "title": "Advantages of Kanban"
+  },
+  {
+    "level": 1,
+    "number": "10",
+    "title": "Limitations & Challenges"
+  }
+]

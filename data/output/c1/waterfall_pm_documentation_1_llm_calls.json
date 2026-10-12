@@ -1,0 +1,613 @@
+[
+  {
+    "timestamp_utc": "2026-10-11T13:08:23.592271+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-004",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-005",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-006",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p002-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p002-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p002-003"
+    ],
+    "token_usage": null,
+    "result": "FAILED",
+    "error_type": "ProviderError",
+    "cache_hit": false,
+    "provider_calls": 1,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:15:58.532044+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-004",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-005",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p001-006",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p002-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p002-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p002-003"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "unclassified",
+          "source_heading_id": null,
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-001",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-002",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-003",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-004",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-005",
+              "block_type": "image"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-006",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p002-001",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p002-002",
+              "block_type": "table"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p002-003",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 2,
+    "retries": 1
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:16:55.998697+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p003-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p003-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p003-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p003-004"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "A_overview",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-002",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-003",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-004",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 2,
+    "retries": 1
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:20:04.317680+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p004-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p004-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p004-003"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "A_overview",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p004-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p004-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p004-002",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p004-003",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 1,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:21:14.105481+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-004",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-005",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-006",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-007",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-008",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-009",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p005-010"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "A_overview",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-002",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-003",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-004",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-005",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-006",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-007",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-008",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-009",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-010",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 3,
+    "retries": 2
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:22:13.982962+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p006-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p006-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p006-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p006-004",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p006-005",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p006-006",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p006-007",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p006-008",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p006-009"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "F_learning_checklist",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-002",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-003",
+              "block_type": "bullet"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-004",
+              "block_type": "bullet"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-005",
+              "block_type": "bullet"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-006",
+              "block_type": "bullet"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-007",
+              "block_type": "bullet"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-008",
+              "block_type": "bullet"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-009",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 2,
+    "retries": 1
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:22:52.316408+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p007-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p007-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p007-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p007-004"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "B_core_concept",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-002",
+              "block_type": "table"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-003",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-004",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 1,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:23:19.587801+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p008-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p008-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p008-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p008-004",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p008-005",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p008-006",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p008-007",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p008-008",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-004",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-005",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-006",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-007",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-008",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-009",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p009-010",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p010-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p010-002"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "C_process_detail",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-002",
+              "block_type": "image"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-003",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-004",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-005",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-006",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-007",
+              "block_type": "image"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-008",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-002",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-003",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-004",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-005",
+              "block_type": "image"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-006",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-007",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-008",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-009",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-010",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p010-001",
+              "block_type": "image"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p010-002",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 1,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:23:41.393513+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p011-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p011-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p011-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p011-004",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p011-005"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "D_fit_check",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-002",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-003",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-004",
+              "block_type": "table"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-005",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 1,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:24:13.622314+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p012-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p012-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p012-003"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "E_strengths_risks",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p012-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p012-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p012-002",
+              "block_type": "table"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p012-003",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 1,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:24:42.513221+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p013-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p013-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p013-003",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p013-004"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "E_strengths_risks",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-002",
+              "block_type": "table"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-003",
+              "block_type": "paragraph"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-004",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 1,
+    "retries": 0
+  },
+  {
+    "timestamp_utc": "2026-10-11T13:25:16.896597+00:00",
+    "prompt_version": "c1-plan-v1",
+    "ids_sent": [
+      "c1_waterfall_pm_documentation_1_329b8ad5-p014-001",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p014-002",
+      "c1_waterfall_pm_documentation_1_329b8ad5-p014-003"
+    ],
+    "token_usage": null,
+    "result": {
+      "sections": [
+        {
+          "target_section": "E_strengths_risks",
+          "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p014-001",
+          "blocks": [
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p014-001",
+              "block_type": "heading"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p014-002",
+              "block_type": "table"
+            },
+            {
+              "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p014-003",
+              "block_type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    "cache_hit": false,
+    "provider_calls": 1,
+    "retries": 0
+  }
+]

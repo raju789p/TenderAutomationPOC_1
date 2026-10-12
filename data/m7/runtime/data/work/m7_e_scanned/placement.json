@@ -1,0 +1,18 @@
+{
+  "doc_id": "m7_e_scanned",
+  "output_file": "/Users/appalaraju/Desktop/TenderAutomationPOC_1/data/m7/output/m7_e_scanned.docx",
+  "placements": {
+    "m7_e_scanned-p001-001": {
+      "target_section": "cover",
+      "order_index": 0
+    }
+  },
+  "source_map": [],
+  "disposition_counts": {
+    "placed": 1,
+    "regenerated": 0,
+    "unplaced": 0,
+    "pending": 5
+  },
+  "unplaced_ids": []
+}

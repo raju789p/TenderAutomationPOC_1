@@ -1,0 +1,173 @@
+{
+  "schema_sent_before_fix": {
+    "$defs": {
+      "PlanBlock": {
+        "additionalProperties": false,
+        "description": "A reference to one source IR element, without replacement content.",
+        "properties": {
+          "source_id": {
+            "minLength": 1,
+            "title": "Source Id",
+            "type": "string"
+          },
+          "block_type": {
+            "enum": [
+              "heading",
+              "paragraph",
+              "bullet",
+              "table",
+              "image"
+            ],
+            "title": "Block Type",
+            "type": "string"
+          }
+        },
+        "required": [
+          "source_id",
+          "block_type"
+        ],
+        "title": "PlanBlock",
+        "type": "object"
+      },
+      "PlanSection": {
+        "additionalProperties": false,
+        "description": "One top-level source section's target and ordered element references.",
+        "properties": {
+          "target_section": {
+            "enum": [
+              "A_overview",
+              "B_core_concept",
+              "C_process_detail",
+              "D_fit_check",
+              "E_strengths_risks",
+              "F_learning_checklist",
+              "unclassified"
+            ],
+            "title": "Target Section",
+            "type": "string"
+          },
+          "source_heading_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Source Heading Id"
+          },
+          "blocks": {
+            "items": {
+              "$ref": "#/$defs/PlanBlock"
+            },
+            "title": "Blocks",
+            "type": "array"
+          }
+        },
+        "required": [
+          "target_section",
+          "source_heading_id",
+          "blocks"
+        ],
+        "title": "PlanSection",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "description": "A complete id-only placement plan for one chunk or document.",
+    "properties": {
+      "sections": {
+        "items": {
+          "$ref": "#/$defs/PlanSection"
+        },
+        "title": "Sections",
+        "type": "array"
+      }
+    },
+    "required": [
+      "sections"
+    ],
+    "title": "Plan",
+    "type": "object"
+  },
+  "prompt_size_before_fix": {
+    "characters": 4423,
+    "approx_tokens_chars_div_4": 1106,
+    "estimate_method": "characters divided by four; rough estimate"
+  },
+  "schema_sent_after_fix": {
+    "type": "OBJECT",
+    "properties": {
+      "sections": {
+        "type": "ARRAY",
+        "items": {
+          "type": "OBJECT",
+          "properties": {
+            "target_section": {
+              "type": "STRING"
+            },
+            "source_heading_id": {
+              "type": "STRING",
+              "nullable": true
+            },
+            "blocks": {
+              "type": "ARRAY",
+              "items": {
+                "type": "OBJECT",
+                "properties": {
+                  "source_id": {
+                    "type": "STRING"
+                  },
+                  "block_type": {
+                    "type": "STRING"
+                  }
+                },
+                "required": [
+                  "source_id",
+                  "block_type"
+                ]
+              }
+            }
+          },
+          "required": [
+            "target_section",
+            "source_heading_id",
+            "blocks"
+          ]
+        }
+      }
+    },
+    "required": [
+      "sections"
+    ]
+  },
+  "prompt_size_after_fix": {
+    "characters": 2971,
+    "approx_tokens_chars_div_4": 743,
+    "estimate_method": "characters divided by four; rough estimate"
+  },
+  "unsupported_schema_keywords_found_before_fix": [
+    "$/$defs",
+    "$/$defs/PlanBlock/additionalProperties",
+    "$/$defs/PlanBlock/properties/block_type/enum",
+    "$/$defs/PlanBlock/properties/block_type/title",
+    "$/$defs/PlanBlock/properties/source_id/title",
+    "$/$defs/PlanBlock/title",
+    "$/$defs/PlanSection/additionalProperties",
+    "$/$defs/PlanSection/properties/blocks/items/$ref",
+    "$/$defs/PlanSection/properties/blocks/title",
+    "$/$defs/PlanSection/properties/source_heading_id/anyOf",
+    "$/$defs/PlanSection/properties/source_heading_id/title",
+    "$/$defs/PlanSection/properties/target_section/enum",
+    "$/$defs/PlanSection/properties/target_section/title",
+    "$/$defs/PlanSection/title",
+    "$/additionalProperties",
+    "$/properties/sections/items/$ref",
+    "$/properties/sections/title",
+    "$/title"
+  ],
+  "unsupported_schema_keywords_found_after_fix": [],
+  "one_chunk_heading_id": null,
+  "chunk_element_count": 9
+}

@@ -1,0 +1,873 @@
+{
+  "doc_id": "m7_c_borderless_tables",
+  "source_file": "m7_c_borderless_tables.pdf",
+  "source_sha256": "7da309852e5432341d6196f1dcb5818e939ee249b6a74926724d995de7552265",
+  "page_count": 5,
+  "elements": [
+    {
+      "id": "m7_c_borderless_tables-p001-001",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 1,
+      "bbox": [
+        220.9235076904297,
+        164.99996948242188,
+        374.07659912109375,
+        182.90097045898438
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Northstar Delivery Office",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_c_borderless_tables-p001-002",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 1,
+      "bbox": [
+        144.7100067138672,
+        300.0000305175781,
+        450.28997802734375,
+        327.5400390625
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "PROJECT METHOD PLAYBOOK",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_c_borderless_tables-p001-003",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 1,
+      "bbox": [
+        245.82000732421875,
+        332.1000061035156,
+        349.17999267578125,
+        359.6400146484375
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "SIX SIGMA",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_c_borderless_tables-p001-004",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 1,
+      "bbox": [
+        79.6300048828125,
+        364.20001220703125,
+        515.3699340820312,
+        391.7400207519531
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Six Sigma Quality Control | synthetic baseline",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_c_borderless_tables-p001-005",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 1,
+      "bbox": [
+        264.7200012207031,
+        396.3000183105469,
+        330.2799987792969,
+        423.84002685546875
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "edition",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_c_borderless_tables-p001-006",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 1,
+      "bbox": [
+        185.5,
+        520.0,
+        409.5,
+        632.0
+      ],
+      "type": "figure",
+      "role": "cover",
+      "disposition": "placed",
+      "image_path": "images/parts/m7_c_borderless_tables-p001-006-part01.png",
+      "sha256": "135af180801439a55d4b3c4513848dc531825d59c6bd53bd4a6356e9d3022309",
+      "width": 520,
+      "height": 260,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_c_borderless_tables-p001-006-part01",
+          "page": 1,
+          "xref": 5,
+          "image_path": "images/parts/m7_c_borderless_tables-p001-006-part01.png",
+          "sha256": "135af180801439a55d4b3c4513848dc531825d59c6bd53bd4a6356e9d3022309",
+          "bbox": [
+            185.5,
+            520.0,
+            409.5,
+            632.0
+          ],
+          "width": 520,
+          "height": 260,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 5421
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_c_borderless_tables-p002-001",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 2,
+      "bbox": [
+        58.0,
+        60.73999786376953,
+        135.9940185546875,
+        85.5260009765625
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "regenerated",
+      "spans": [
+        {
+          "text": "Contents",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_c_borderless_tables-p002-002",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 2,
+      "bbox": [
+        78.0,
+        120.0999984741211,
+        172.71597290039062,
+        136.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "1. Variation Study",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p002-003",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 2,
+      "bbox": [
+        78.0,
+        157.10000610351562,
+        208.04397583007812,
+        173.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "2. Measurement System",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p002-004",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 2,
+      "bbox": [
+        78.0,
+        194.10000610351562,
+        157.36798095703125,
+        210.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "3. Control Plan",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p002-005",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 2,
+      "bbox": [
+        78.0,
+        231.10000610351562,
+        186.69598388671875,
+        247.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "4. Capability Review",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p003-001",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 3,
+      "bbox": [
+        58.0,
+        88.00000762939453,
+        205.04200744628906,
+        112.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "1",
+      "title": "Variation Study"
+    },
+    {
+      "id": "m7_c_borderless_tables-p003-002",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 3,
+      "bbox": [
+        58.0,
+        141.99998474121094,
+        188.71800231933594,
+        161.27798461914062
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 2,
+      "number": "1.1",
+      "title": "Evidence Inputs"
+    },
+    {
+      "id": "m7_c_borderless_tables-p003-003",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 3,
+      "bbox": [
+        58.0,
+        197.00001525878906,
+        491.4439392089844,
+        226.30401611328125
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Six Sigma teams align work to six sigma quality control goals and record evidence before advancing the work item.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p003-004",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 3,
+      "bbox": [
+        73.0,
+        270.17498779296875,
+        289.4469299316406,
+        285.28900146484375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "· Review the signal before changing the plan",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p003-005",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 3,
+      "bbox": [
+        73.0,
+        298.17498779296875,
+        272.3089904785156,
+        313.28900146484375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "· Keep ownership visible across handoffs",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p003-006",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 3,
+      "bbox": [
+        63.0,
+        375.0,
+        426.0080261230469,
+        387.39300537109375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Stage",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Evidence",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Owner",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_c_borderless_tables-p003-007",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 3,
+      "bbox": [
+        63.0,
+        403.0,
+        418.0159912109375,
+        415.3659973144531
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Frame Baseline Lead",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p003-008",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 3,
+      "bbox": [
+        63.0,
+        431.0,
+        421.0039978027344,
+        443.3659973144531
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Test Outcome Team",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p003-009",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 3,
+      "bbox": [
+        63.0,
+        459.0,
+        431.5159912109375,
+        471.3659973144531
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Learn Decision Sponsor",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-001",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        58.0,
+        88.00000762939453,
+        258.07000732421875,
+        112.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "2",
+      "title": "Measurement System"
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-002",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        58.0,
+        144.99998474121094,
+        187.15000915527344,
+        164.27798461914062
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 2,
+      "number": "2.1",
+      "title": "Decision Rights"
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-003",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        58.0,
+        205.00001525878906,
+        509.8030090332031,
+        234.30401611328125
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "The Six Sigma method uses measurement system to make the next decision observable and reversible.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-004",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        58.0,
+        255.00001525878906,
+        500.0350036621094,
+        270.114013671875
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Teams capture context, compare evidence, and assign a named owner for the next review.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-005",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        63.0,
+        525.0,
+        413.0159912109375,
+        536.0159912109375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Control",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Measure",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Escalation",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-006",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        63.0,
+        554.0,
+        403.23199462890625,
+        564.9920043945312
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 1 Metric 1 Owner 1",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-007",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        63.0,
+        583.0,
+        403.23199462890625,
+        593.9920043945312
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 2 Metric 2 Owner 2",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-008",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        63.0,
+        612.0,
+        403.23199462890625,
+        622.9920043945312
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 3 Metric 3 Owner 3",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-009",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        63.0,
+        641.0,
+        403.23199462890625,
+        651.9920043945312
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 4 Metric 4 Owner 4",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p004-010",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 4,
+      "bbox": [
+        63.0,
+        670.0,
+        403.23199462890625,
+        680.9920043945312
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 5 Metric 5 Owner 5",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p005-001",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 5,
+      "bbox": [
+        58.0,
+        54.9999885559082,
+        309.1179504394531,
+        67.3659896850586
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Continuation of the unruled control matrix across a page break.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p005-002",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 5,
+      "bbox": [
+        63.0,
+        95.0,
+        404.5679931640625,
+        106.01599884033203
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 6",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Metric 6",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Owner 6",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_c_borderless_tables-p005-003",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 5,
+      "bbox": [
+        63.0,
+        123.9999771118164,
+        403.23199462890625,
+        134.99197387695312
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 7 Metric 7 Owner 7",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p005-004",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 5,
+      "bbox": [
+        63.0,
+        152.99996948242188,
+        403.23199462890625,
+        163.99197387695312
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 8 Metric 8 Owner 8",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p005-005",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 5,
+      "bbox": [
+        63.0,
+        181.99996948242188,
+        403.23199462890625,
+        192.99197387695312
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 9 Metric 9 Owner 9",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_c_borderless_tables-p005-006",
+      "doc_id": "m7_c_borderless_tables",
+      "page": 5,
+      "bbox": [
+        63.0,
+        210.99996948242188,
+        407.67999267578125,
+        221.99197387695312
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Gate 10 Metric 10 Owner 10",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    }
+  ],
+  "cover_lines": [
+    "Northstar Delivery Office",
+    "PROJECT METHOD PLAYBOOK",
+    "SIX SIGMA",
+    "Six Sigma Quality Control | synthetic baseline",
+    "edition"
+  ]
+}

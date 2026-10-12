@@ -1,0 +1,232 @@
+// verified cell by cell against the PDF by the architect
+[
+  {
+    "id": "waterfall-p002-002",
+    "page": 2,
+    "rows": [
+      [
+        "TOPIC",
+        "PAGE NO."
+      ],
+      [
+        "Abstract",
+        "3"
+      ],
+      [
+        "Scope",
+        "4"
+      ],
+      [
+        "Introduction",
+        "5"
+      ],
+      [
+        "Learning Objectives",
+        "6"
+      ],
+      [
+        "Waterfall Lifecycle",
+        "7"
+      ],
+      [
+        "Detailed Phase-by-Phase Explanation",
+        "8"
+      ],
+      [
+        "When to Use Waterfall",
+        "11"
+      ],
+      [
+        "Best Practices",
+        "12"
+      ],
+      [
+        "Advantages of Waterfall",
+        "13"
+      ],
+      [
+        "Limitations & Challenges",
+        "14"
+      ]
+    ]
+  },
+  {
+    "id": "waterfall-p007-002",
+    "page": 7,
+    "rows": [
+      [
+        "Phase",
+        "Primary Purpose",
+        "Typical Output"
+      ],
+      [
+        "1. Requirements",
+        "Define what the project must deliver",
+        "Approved requirements and scope"
+      ],
+      [
+        "2. Design",
+        "Define how the requirements will be satisfied",
+        "Solution design and specifications"
+      ],
+      [
+        "3. Development",
+        "Build the solution according to the agreed definition",
+        "Completed product/build"
+      ],
+      [
+        "4. Testing",
+        "Verify that the solution works and meets requirements",
+        "Test results, defects and verification evidence"
+      ],
+      [
+        "5. Deployment",
+        "Make the approved solution available in its intended environment",
+        "Released solution"
+      ],
+      [
+        "6. Maintenance",
+        "Address post-release defects, operational needs and approved maintenance changes",
+        "Fixes, updates and support"
+      ]
+    ]
+  },
+  {
+    "id": "waterfall-p011-004",
+    "page": 11,
+    "rows": [
+      [
+        "Question",
+        "If Yes",
+        "If No"
+      ],
+      [
+        "Are requirements clear?",
+        "Supports Waterfall",
+        "Increases uncertainty"
+      ],
+      [
+        "Are requirements relatively stable?",
+        "Supports sequential planning",
+        "Raises rework risk"
+      ],
+      [
+        "Is the outcome predictable?",
+        "Supports upfront planning",
+        "Makes baseline definition harder"
+      ],
+      [
+        "Can work be planned effectively upfront?",
+        "Supports a predictive lifecycle",
+        "Suggests need for learning/adaptation"
+      ],
+      [
+        "Are formal phases/documentation/approvals valuable?",
+        "Provides additional fit",
+        "Reduces the structural advantage"
+      ]
+    ]
+  },
+  {
+    "id": "waterfall-p012-002",
+    "page": 12,
+    "rows": [
+      [
+        "Practice",
+        "Application"
+      ],
+      [
+        "Establish a clear baseline",
+        "Define scope, requirements and expected outcomes before substantial downstream work begins."
+      ],
+      [
+        "Validate before progressing",
+        "Use structured reviews to confirm that requirements and design are sufficiently complete for the next phase."
+      ],
+      [
+        "Maintain traceability",
+        "Ensure important requirements can be connected to design decisions, implementation and verification."
+      ],
+      [
+        "Manage dependencies actively",
+        "Identify what each phase requires from preceding work and confirm readiness before transition."
+      ],
+      [
+        "Control change formally",
+        "Assess scope, schedule, cost, resources and downstream effects before approving material changes."
+      ],
+      [
+        "Use meaningful phase criteria",
+        "Define what 'complete' means for each phase rather than relying only on elapsed time."
+      ],
+      [
+        "Keep stakeholders aligned",
+        "Communicate decisions, risks, issues, changes and milestones consistently."
+      ],
+      [
+        "Treat documentation as an operational asset",
+        "Keep documentation current enough to support decisions, handover, verification and future maintenance."
+      ]
+    ]
+  },
+  {
+    "id": "waterfall-p013-002",
+    "page": 13,
+    "rows": [
+      [
+        "Advantage",
+        "Project Value"
+      ],
+      [
+        "Clear structure",
+        "The sequence makes the current phase, expected work and next decision point easy to understand."
+      ],
+      [
+        "Documentation",
+        "Requirements, specifications, plans and decisions create a durable record of what was agreed."
+      ],
+      [
+        "Predictable planning",
+        "Stable requirements and a well-understood outcome support estimation of scope, schedule and budget."
+      ],
+      [
+        "Clear milestones",
+        "Phase deliverables and completion criteria provide straightforward progress checkpoints."
+      ],
+      [
+        "Controlled decision-making",
+        "Formal review and approval points can help organizations manage commitments and accountability."
+      ]
+    ]
+  },
+  {
+    "id": "waterfall-p014-002",
+    "page": 14,
+    "rows": [
+      [
+        "Challenge",
+        "Impact"
+      ],
+      [
+        "Late or significant requirement change",
+        "May require revisions to design, development and testing, increasing rework, time and cost."
+      ],
+      [
+        "Late user feedback",
+        "Users may only meaningfully interact with the completed solution relatively late, increasing the risk of discovering expectation gaps."
+      ],
+      [
+        "Downstream dependency",
+        "A delay or defect in one phase can affect subsequent activities."
+      ],
+      [
+        "Uncertainty",
+        "Projects that do not yet know what the final solution should be can be difficult to define upfront."
+      ],
+      [
+        "False sense of certainty",
+        "A detailed initial plan cannot eliminate uncertainty; it can only provide a baseline against which changes are managed."
+      ]
+    ]
+  }
+]

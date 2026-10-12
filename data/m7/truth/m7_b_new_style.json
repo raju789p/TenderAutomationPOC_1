@@ -1,0 +1,224 @@
+{
+  "doc_id": "m7_b_new_style",
+  "methodology": "Lean Portfolio",
+  "source_pdf_sha256": "d58306caa81dfe77aad55377e1e1215c0838f5bfdae646dfcaf2ad6fead31fca",
+  "page_count": 6,
+  "pages": [
+    {
+      "text": "Northstar Delivery Office\nPROJECT METHOD PLAYBOOK\nLEAN PORTFOLIO\nLean Portfolio Decisions | synthetic baseline edition\nSIGNAL\nCONTROL\nQUALITY\nFLOW",
+      "headings": []
+    },
+    {
+      "text": "Roadmap\nValue Stream Scope\nPortfolio Advantages\nFlow Evidence\nLearning Review\nM7 B New Style / Internal Playbook\nOperations Excellence Series\n2",
+      "headings": []
+    },
+    {
+      "text": "1 Value Stream Scope\n1.1 Experiment Design\nLean Portfolio teams align work to lean portfolio decisions goals and record evidence before advancing the work item.\n• Review the signal before changing the plan\n• Keep ownership visible across handoffs\nStage Evidence Owner\nFrame Baseline Lead\nTest Outcome Team\nLearn Decision Sponsor\nM7 B New Style / Internal Playbook\nOperations Excellence Series\n3",
+      "headings": [
+        {
+          "page": 3,
+          "title": "Value Stream Scope",
+          "level": 1
+        },
+        {
+          "page": 3,
+          "title": "Experiment Design",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "2 Portfolio Advantages\n2.1 Decision Rights\nThe Lean Portfolio method uses portfolio advantages to make the next decision observable and reversible.\nTeams capture context, compare evidence, and assign a named owner for the next review.\nM7 B New Style / Internal Playbook\nOperations Excellence Series\n4",
+      "headings": [
+        {
+          "page": 4,
+          "title": "Portfolio Advantages",
+          "level": 1
+        },
+        {
+          "page": 4,
+          "title": "Decision Rights",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "3 Flow Evidence\n3.1 Assurance Measures\nLean Portfolio records a measurable result for flow evidence and preserves the decision context.\nCheck Threshold\nTrace Evidence linked\nReview Owner assigned\nClose Action recorded\nSIGNAL\nCONTROL\nQUALITY\nFLOW\nM7 B New Style / Internal Playbook\nOperations Excellence Series\n5",
+      "headings": [
+        {
+          "page": 5,
+          "title": "Flow Evidence",
+          "level": 1
+        },
+        {
+          "page": 5,
+          "title": "Assurance Measures",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "4 Learning Review\nA closeout record states what changed, who accepted the evidence, and what remains open in Lean Portfolio.\nM7 B New Style / Internal Playbook\nOperations Excellence Series\n6",
+      "headings": [
+        {
+          "page": 6,
+          "title": "Learning Review",
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "headings": [
+    {
+      "page": 3,
+      "title": "Value Stream Scope",
+      "level": 1
+    },
+    {
+      "page": 3,
+      "title": "Experiment Design",
+      "level": 2
+    },
+    {
+      "page": 4,
+      "title": "Portfolio Advantages",
+      "level": 1
+    },
+    {
+      "page": 4,
+      "title": "Decision Rights",
+      "level": 2
+    },
+    {
+      "page": 5,
+      "title": "Flow Evidence",
+      "level": 1
+    },
+    {
+      "page": 5,
+      "title": "Assurance Measures",
+      "level": 2
+    },
+    {
+      "page": 6,
+      "title": "Learning Review",
+      "level": 1
+    }
+  ],
+  "tables": [
+    {
+      "page": 3,
+      "shape": [
+        4,
+        3
+      ],
+      "cells": [
+        [
+          "Stage",
+          "Evidence",
+          "Owner"
+        ],
+        [
+          "Frame",
+          "Baseline",
+          "Lead"
+        ],
+        [
+          "Test",
+          "Outcome",
+          "Team"
+        ],
+        [
+          "Learn",
+          "Decision",
+          "Sponsor"
+        ]
+      ]
+    },
+    {
+      "page": 5,
+      "shape": [
+        4,
+        2
+      ],
+      "cells": [
+        [
+          "Check",
+          "Threshold"
+        ],
+        [
+          "Trace",
+          "Evidence linked"
+        ],
+        [
+          "Review",
+          "Owner assigned"
+        ],
+        [
+          "Close",
+          "Action recorded"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "sha256": "fb6be2f4eb99dd725bcd27d75fe6e250bc736b927c725bcd67d2841a767e4902",
+      "expected_printed_words": [
+        "SIGNAL",
+        "CONTROL",
+        "QUALITY",
+        "FLOW"
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "fb6be2f4eb99dd725bcd27d75fe6e250bc736b927c725bcd67d2841a767e4902",
+      "expected_printed_words": [
+        "SIGNAL",
+        "CONTROL",
+        "QUALITY",
+        "FLOW"
+      ]
+    }
+  ],
+  "section_types": {
+    "1": "scope",
+    "2": "advantages",
+    "3": "unclassified",
+    "4": "unclassified"
+  },
+  "page_furniture": [
+    {
+      "page": 2,
+      "header": "M7 B New Style / Internal Playbook",
+      "footer": "Operations Excellence Series",
+      "page_number": "2"
+    },
+    {
+      "page": 3,
+      "header": "M7 B New Style / Internal Playbook",
+      "footer": "Operations Excellence Series",
+      "page_number": "3"
+    },
+    {
+      "page": 4,
+      "header": "M7 B New Style / Internal Playbook",
+      "footer": "Operations Excellence Series",
+      "page_number": "4"
+    },
+    {
+      "page": 5,
+      "header": "M7 B New Style / Internal Playbook",
+      "footer": "Operations Excellence Series",
+      "page_number": "5"
+    },
+    {
+      "page": 6,
+      "header": "M7 B New Style / Internal Playbook",
+      "footer": "Operations Excellence Series",
+      "page_number": "6"
+    }
+  ]
+}

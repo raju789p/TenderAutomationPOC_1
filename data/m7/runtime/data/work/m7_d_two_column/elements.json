@@ -1,0 +1,770 @@
+{
+  "doc_id": "m7_d_two_column",
+  "source_file": "m7_d_two_column.pdf",
+  "source_sha256": "46de874d62f4c682a725873f1b26c985604ef12b5186da15759fc8c7e1cdfec7",
+  "page_count": 6,
+  "elements": [
+    {
+      "id": "m7_d_two_column-p001-001",
+      "doc_id": "m7_d_two_column",
+      "page": 1,
+      "bbox": [
+        220.9235076904297,
+        164.99996948242188,
+        374.07659912109375,
+        182.90097045898438
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "Northstar Delivery Office",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_d_two_column-p001-002",
+      "doc_id": "m7_d_two_column",
+      "page": 1,
+      "bbox": [
+        144.7100067138672,
+        300.0000305175781,
+        450.28997802734375,
+        327.5400390625
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "PROJECT METHOD PLAYBOOK",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_d_two_column-p001-003",
+      "doc_id": "m7_d_two_column",
+      "page": 1,
+      "bbox": [
+        255.82000732421875,
+        332.1000061035156,
+        339.17999267578125,
+        359.6400146484375
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "DEVOPS",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_d_two_column-p001-004",
+      "doc_id": "m7_d_two_column",
+      "page": 1,
+      "bbox": [
+        76.27000427246094,
+        364.20001220703125,
+        518.7299194335938,
+        391.7400207519531
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "DevOps Service Reliability | synthetic baseline",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_d_two_column-p001-005",
+      "doc_id": "m7_d_two_column",
+      "page": 1,
+      "bbox": [
+        264.7200012207031,
+        396.3000183105469,
+        330.2799987792969,
+        423.84002685546875
+      ],
+      "type": "paragraph",
+      "role": "cover",
+      "disposition": "placed",
+      "spans": [
+        {
+          "text": "edition",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_d_two_column-p001-006",
+      "doc_id": "m7_d_two_column",
+      "page": 1,
+      "bbox": [
+        185.5,
+        520.0,
+        409.5,
+        632.0
+      ],
+      "type": "figure",
+      "role": "cover",
+      "disposition": "placed",
+      "image_path": "images/parts/m7_d_two_column-p001-006-part01.png",
+      "sha256": "57dceb1dd5e9aeab95d6107f68af7a38ef2f4e71a57999f6019cb563d05a46ad",
+      "width": 520,
+      "height": 260,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_d_two_column-p001-006-part01",
+          "page": 1,
+          "xref": 5,
+          "image_path": "images/parts/m7_d_two_column-p001-006-part01.png",
+          "sha256": "57dceb1dd5e9aeab95d6107f68af7a38ef2f4e71a57999f6019cb563d05a46ad",
+          "bbox": [
+            185.5,
+            520.0,
+            409.5,
+            632.0
+          ],
+          "width": 520,
+          "height": 260,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 5576
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_d_two_column-p002-001",
+      "doc_id": "m7_d_two_column",
+      "page": 2,
+      "bbox": [
+        58.0,
+        60.73999786376953,
+        135.9940185546875,
+        85.5260009765625
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "regenerated",
+      "spans": [
+        {
+          "text": "Contents",
+          "bold": true,
+          "italic": false
+        }
+      ],
+      "is_label": true
+    },
+    {
+      "id": "m7_d_two_column-p002-002",
+      "doc_id": "m7_d_two_column",
+      "page": 2,
+      "bbox": [
+        78.0,
+        120.0999984741211,
+        160.01998901367188,
+        136.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "1. Service Flow",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p002-003",
+      "doc_id": "m7_d_two_column",
+      "page": 2,
+      "bbox": [
+        78.0,
+        157.10000610351562,
+        192.719970703125,
+        173.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "2. Deployment Safety",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p002-004",
+      "doc_id": "m7_d_two_column",
+      "page": 2,
+      "bbox": [
+        78.0,
+        194.10000610351562,
+        183.39596557617188,
+        210.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "3. Incident Learning",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p002-005",
+      "doc_id": "m7_d_two_column",
+      "page": 2,
+      "bbox": [
+        78.0,
+        231.10000610351562,
+        185.36398315429688,
+        247.58799743652344
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "4. Reliability Signals",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p003-001",
+      "doc_id": "m7_d_two_column",
+      "page": 3,
+      "bbox": [
+        58.0,
+        88.00000762939453,
+        183.0640106201172,
+        112.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "1",
+      "title": "Service Flow"
+    },
+    {
+      "id": "m7_d_two_column-p003-002",
+      "doc_id": "m7_d_two_column",
+      "page": 3,
+      "bbox": [
+        58.0,
+        141.99998474121094,
+        188.71800231933594,
+        161.27798461914062
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 2,
+      "number": "1.1",
+      "title": "Evidence Inputs"
+    },
+    {
+      "id": "m7_d_two_column-p003-003",
+      "doc_id": "m7_d_two_column",
+      "page": 3,
+      "bbox": [
+        58.0,
+        197.00001525878906,
+        484.10687255859375,
+        226.30401611328125
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "DevOps teams align work to devops service reliability goals and record evidence before advancing the work item.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p003-004",
+      "doc_id": "m7_d_two_column",
+      "page": 3,
+      "bbox": [
+        73.0,
+        270.17498779296875,
+        289.4469299316406,
+        285.28900146484375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "· Review the signal before changing the plan",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p003-005",
+      "doc_id": "m7_d_two_column",
+      "page": 3,
+      "bbox": [
+        73.0,
+        298.17498779296875,
+        272.3089904785156,
+        313.28900146484375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "· Keep ownership visible across handoffs",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p003-006",
+      "doc_id": "m7_d_two_column",
+      "page": 3,
+      "bbox": [
+        58.0,
+        370.0,
+        518.0,
+        482.0
+      ],
+      "type": "table",
+      "role": "body",
+      "disposition": "pending",
+      "rows": [
+        [
+          "Stage",
+          "Evidence",
+          "Owner"
+        ],
+        [
+          "Frame",
+          "Baseline",
+          "Lead"
+        ],
+        [
+          "Test",
+          "Outcome",
+          "Team"
+        ],
+        [
+          "Learn",
+          "Decision",
+          "Sponsor"
+        ]
+      ],
+      "header_rows": 1,
+      "n_rows": 4,
+      "n_cols": 3
+    },
+    {
+      "id": "m7_d_two_column-p004-001",
+      "doc_id": "m7_d_two_column",
+      "page": 4,
+      "bbox": [
+        58.0,
+        88.00000762939453,
+        235.04798889160156,
+        112.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "2",
+      "title": "Deployment Safety"
+    },
+    {
+      "id": "m7_d_two_column-p004-002",
+      "doc_id": "m7_d_two_column",
+      "page": 4,
+      "bbox": [
+        58.0,
+        144.99998474121094,
+        190.23001098632812,
+        164.27798461914062
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 2,
+      "number": "2.1",
+      "title": "Column Handoff"
+    },
+    {
+      "id": "m7_d_two_column-p004-003",
+      "doc_id": "m7_d_two_column",
+      "page": 4,
+      "bbox": [
+        58.0,
+        205.00003051757812,
+        262.7559509277344,
+        252.44798278808594
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "The DevOps method uses deployment safety to make the next decision observable and reversible.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p004-004",
+      "doc_id": "m7_d_two_column",
+      "page": 4,
+      "bbox": [
+        315.0,
+        205.00003051757812,
+        531.10791015625,
+        252.44798278808594
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Teams capture context, compare evidence, and assign a named owner for the next review.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p004-005",
+      "doc_id": "m7_d_two_column",
+      "page": 4,
+      "bbox": [
+        74.0,
+        395.75,
+        271.0,
+        494.25
+      ],
+      "type": "figure",
+      "role": "body",
+      "disposition": "pending",
+      "image_path": "images/parts/m7_d_two_column-p004-005-part01.png",
+      "sha256": "57dceb1dd5e9aeab95d6107f68af7a38ef2f4e71a57999f6019cb563d05a46ad",
+      "width": 520,
+      "height": 260,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_d_two_column-p004-005-part01",
+          "page": 4,
+          "xref": 5,
+          "image_path": "images/parts/m7_d_two_column-p004-005-part01.png",
+          "sha256": "57dceb1dd5e9aeab95d6107f68af7a38ef2f4e71a57999f6019cb563d05a46ad",
+          "bbox": [
+            74.0,
+            395.75,
+            271.0,
+            494.25
+          ],
+          "width": 520,
+          "height": 260,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 5576
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_d_two_column-p004-006",
+      "doc_id": "m7_d_two_column",
+      "page": 4,
+      "bbox": [
+        76.0,
+        510.3699951171875,
+        346.1259765625,
+        522.5560302734375
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "Figure 1. Service signals move through a guarded deployment loop.",
+          "bold": false,
+          "italic": true
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p004-007",
+      "doc_id": "m7_d_two_column",
+      "page": 4,
+      "bbox": [
+        58.0,
+        766.4400024414062,
+        263.4239501953125,
+        777.27197265625
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "1. Evidence is sampled after a stable observation window.",
+          "bold": false,
+          "italic": true
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p005-001",
+      "doc_id": "m7_d_two_column",
+      "page": 5,
+      "bbox": [
+        58.0,
+        78.00000762939453,
+        223.0419921875,
+        102.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "3",
+      "title": "Incident Learning"
+    },
+    {
+      "id": "m7_d_two_column-p005-002",
+      "doc_id": "m7_d_two_column",
+      "page": 5,
+      "bbox": [
+        58.0,
+        127.9999771118164,
+        221.40798950195312,
+        147.27798461914062
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 2,
+      "number": "3.1",
+      "title": "Assurance Measures"
+    },
+    {
+      "id": "m7_d_two_column-p005-003",
+      "doc_id": "m7_d_two_column",
+      "page": 5,
+      "bbox": [
+        58.0,
+        180.00001525878906,
+        512.2449340820312,
+        195.114013671875
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "DevOps records a measurable result for incident learning and preserves the decision context.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    },
+    {
+      "id": "m7_d_two_column-p005-004",
+      "doc_id": "m7_d_two_column",
+      "page": 5,
+      "bbox": [
+        58.0,
+        280.0,
+        518.0,
+        392.0
+      ],
+      "type": "table",
+      "role": "body",
+      "disposition": "pending",
+      "rows": [
+        [
+          "Check",
+          "Threshold"
+        ],
+        [
+          "Trace",
+          "Evidence linked"
+        ],
+        [
+          "Review",
+          "Owner assigned"
+        ],
+        [
+          "Close",
+          "Action recorded"
+        ]
+      ],
+      "header_rows": 1,
+      "n_rows": 4,
+      "n_cols": 2
+    },
+    {
+      "id": "m7_d_two_column-p005-005",
+      "doc_id": "m7_d_two_column",
+      "page": 5,
+      "bbox": [
+        172.5,
+        440.0,
+        422.5,
+        565.0
+      ],
+      "type": "figure",
+      "role": "body",
+      "disposition": "pending",
+      "image_path": "images/parts/m7_d_two_column-p005-005-part01.png",
+      "sha256": "57dceb1dd5e9aeab95d6107f68af7a38ef2f4e71a57999f6019cb563d05a46ad",
+      "width": 520,
+      "height": 260,
+      "mime": "image/png",
+      "origin": "embedded",
+      "parts": [
+        {
+          "id": "m7_d_two_column-p005-005-part01",
+          "page": 5,
+          "xref": 5,
+          "image_path": "images/parts/m7_d_two_column-p005-005-part01.png",
+          "sha256": "57dceb1dd5e9aeab95d6107f68af7a38ef2f4e71a57999f6019cb563d05a46ad",
+          "bbox": [
+            172.5,
+            440.0,
+            422.5,
+            565.0
+          ],
+          "width": 520,
+          "height": 260,
+          "mime": "image/png",
+          "colorspace": "ICCBased(RGB,Artifex Software sRGB ICC Profile)",
+          "mask_present": false,
+          "mask_xref": null,
+          "mask_path": null,
+          "mask_sha256": null,
+          "mask_byte_size": 0,
+          "byte_size": 5576
+        }
+      ],
+      "ai": null,
+      "ai_status": "pending",
+      "ai_error": null
+    },
+    {
+      "id": "m7_d_two_column-p006-001",
+      "doc_id": "m7_d_two_column",
+      "page": 6,
+      "bbox": [
+        58.0,
+        88.00000762939453,
+        227.07398986816406,
+        112.7860107421875
+      ],
+      "type": "heading",
+      "role": "body",
+      "disposition": "pending",
+      "level": 1,
+      "number": "4",
+      "title": "Reliability Signals"
+    },
+    {
+      "id": "m7_d_two_column-p006-002",
+      "doc_id": "m7_d_two_column",
+      "page": 6,
+      "bbox": [
+        58.0,
+        145.00001525878906,
+        519.02099609375,
+        174.30401611328125
+      ],
+      "type": "paragraph",
+      "role": "body",
+      "disposition": "pending",
+      "spans": [
+        {
+          "text": "A closeout record states what changed, who accepted the evidence, and what remains open in DevOps.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "is_label": false
+    }
+  ],
+  "cover_lines": [
+    "Northstar Delivery Office",
+    "PROJECT METHOD PLAYBOOK",
+    "DEVOPS",
+    "DevOps Service Reliability | synthetic baseline",
+    "edition"
+  ]
+}

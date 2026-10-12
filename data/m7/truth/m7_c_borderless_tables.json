@@ -1,0 +1,185 @@
+{
+  "doc_id": "m7_c_borderless_tables",
+  "methodology": "Six Sigma",
+  "source_pdf_sha256": "7da309852e5432341d6196f1dcb5818e939ee249b6a74926724d995de7552265",
+  "page_count": 5,
+  "pages": [
+    {
+      "text": "Northstar Delivery Office\nPROJECT METHOD PLAYBOOK\nSIX SIGMA\nSix Sigma Quality Control | synthetic baseline edition\nSIGNAL\nCONTROL\nQUALITY\nFLOW",
+      "headings": []
+    },
+    {
+      "text": "Contents\n1. Variation Study\n2. Measurement System\n3. Control Plan\n4. Capability Review",
+      "headings": []
+    },
+    {
+      "text": "1 Variation Study\n1.1 Evidence Inputs\nSix Sigma teams align work to six sigma quality control goals and record evidence before advancing the work item.\n• Review the signal before changing the plan\n• Keep ownership visible across handoffs\nStage Evidence Owner\nFrame Baseline Lead\nTest Outcome Team\nLearn Decision Sponsor",
+      "headings": [
+        {
+          "page": 3,
+          "title": "Variation Study",
+          "level": 1
+        },
+        {
+          "page": 3,
+          "title": "Evidence Inputs",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "2 Measurement System\n2.1 Decision Rights\nThe Six Sigma method uses measurement system to make the next decision observable and reversible.\nTeams capture context, compare evidence, and assign a named owner for the next review.\nControl Measure Escalation\nGate 1 Metric 1 Owner 1\nGate 2 Metric 2 Owner 2\nGate 3 Metric 3 Owner 3\nGate 4 Metric 4 Owner 4\nGate 5 Metric 5 Owner 5",
+      "headings": [
+        {
+          "page": 4,
+          "title": "Measurement System",
+          "level": 1
+        },
+        {
+          "page": 4,
+          "title": "Decision Rights",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "text": "Continuation of the unruled control matrix across a page break.\nGate 6 Metric 6 Owner 6\nGate 7 Metric 7 Owner 7\nGate 8 Metric 8 Owner 8\nGate 9 Metric 9 Owner 9\nGate 10 Metric 10 Owner 10",
+      "headings": []
+    }
+  ],
+  "headings": [
+    {
+      "page": 3,
+      "title": "Variation Study",
+      "level": 1
+    },
+    {
+      "page": 3,
+      "title": "Evidence Inputs",
+      "level": 2
+    },
+    {
+      "page": 4,
+      "title": "Measurement System",
+      "level": 1
+    },
+    {
+      "page": 4,
+      "title": "Decision Rights",
+      "level": 2
+    }
+  ],
+  "tables": [
+    {
+      "page": 3,
+      "shape": [
+        4,
+        3
+      ],
+      "cells": [
+        [
+          "Stage",
+          "Evidence",
+          "Owner"
+        ],
+        [
+          "Frame",
+          "Baseline",
+          "Lead"
+        ],
+        [
+          "Test",
+          "Outcome",
+          "Team"
+        ],
+        [
+          "Learn",
+          "Decision",
+          "Sponsor"
+        ]
+      ]
+    },
+    {
+      "page": 4,
+      "continues_on_page": 5,
+      "shape": [
+        11,
+        3
+      ],
+      "cells": [
+        [
+          "Control",
+          "Measure",
+          "Escalation"
+        ],
+        [
+          "Gate 1",
+          "Metric 1",
+          "Owner 1"
+        ],
+        [
+          "Gate 2",
+          "Metric 2",
+          "Owner 2"
+        ],
+        [
+          "Gate 3",
+          "Metric 3",
+          "Owner 3"
+        ],
+        [
+          "Gate 4",
+          "Metric 4",
+          "Owner 4"
+        ],
+        [
+          "Gate 5",
+          "Metric 5",
+          "Owner 5"
+        ],
+        [
+          "Gate 6",
+          "Metric 6",
+          "Owner 6"
+        ],
+        [
+          "Gate 7",
+          "Metric 7",
+          "Owner 7"
+        ],
+        [
+          "Gate 8",
+          "Metric 8",
+          "Owner 8"
+        ],
+        [
+          "Gate 9",
+          "Metric 9",
+          "Owner 9"
+        ],
+        [
+          "Gate 10",
+          "Metric 10",
+          "Owner 10"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "sha256": "28a7dffe8e90bd89f931b9b5c716220560b8dd91c3fc3730aa1e03fe810571c4",
+      "expected_printed_words": [
+        "SIGNAL",
+        "CONTROL",
+        "QUALITY",
+        "FLOW"
+      ]
+    }
+  ],
+  "section_types": {
+    "1": "unclassified",
+    "2": "unclassified"
+  },
+  "page_furniture": []
+}

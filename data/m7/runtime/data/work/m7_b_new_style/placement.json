@@ -1,0 +1,165 @@
+{
+  "doc_id": "m7_b_new_style",
+  "output_file": "/Users/appalaraju/Desktop/TenderAutomationPOC_1/data/m7/output/m7_b_new_style.docx",
+  "placements": {
+    "m7_b_new_style-p001-001": {
+      "target_section": "cover",
+      "order_index": 0
+    },
+    "m7_b_new_style-p001-002": {
+      "target_section": "cover",
+      "order_index": 1
+    },
+    "m7_b_new_style-p001-003": {
+      "target_section": "cover",
+      "order_index": 2
+    },
+    "m7_b_new_style-p001-004": {
+      "target_section": "cover",
+      "order_index": 3
+    },
+    "m7_b_new_style-p001-005": {
+      "target_section": "cover",
+      "order_index": 4
+    },
+    "m7_b_new_style-p001-006": {
+      "target_section": "cover",
+      "order_index": 0
+    },
+    "m7_b_new_style-p003-002": {
+      "target_section": "A_overview",
+      "order_index": 0
+    },
+    "m7_b_new_style-p003-003": {
+      "target_section": "A_overview",
+      "order_index": 1
+    },
+    "m7_b_new_style-p003-004": {
+      "target_section": "A_overview",
+      "order_index": 2
+    },
+    "m7_b_new_style-p003-005": {
+      "target_section": "A_overview",
+      "order_index": 3
+    },
+    "m7_b_new_style-p003-006": {
+      "target_section": "A_overview",
+      "order_index": 4
+    },
+    "m7_b_new_style-p003-007": {
+      "target_section": "A_overview",
+      "order_index": 5
+    },
+    "m7_b_new_style-p003-008": {
+      "target_section": "A_overview",
+      "order_index": 6
+    },
+    "m7_b_new_style-p004-001": {
+      "target_section": "A_overview",
+      "order_index": 7
+    },
+    "m7_b_new_style-p004-002": {
+      "target_section": "E_strengths_risks",
+      "order_index": 0
+    },
+    "m7_b_new_style-p004-003": {
+      "target_section": "E_strengths_risks",
+      "order_index": 1
+    },
+    "m7_b_new_style-p004-004": {
+      "target_section": "E_strengths_risks",
+      "order_index": 2
+    },
+    "m7_b_new_style-p004-005": {
+      "target_section": "E_strengths_risks",
+      "order_index": 3
+    },
+    "m7_b_new_style-p004-006": {
+      "target_section": "E_strengths_risks",
+      "order_index": 4
+    },
+    "m7_b_new_style-p005-001": {
+      "target_section": "E_strengths_risks",
+      "order_index": 5
+    },
+    "m7_b_new_style-p005-004": {
+      "target_section": "E_strengths_risks",
+      "order_index": 6
+    },
+    "m7_b_new_style-p005-005": {
+      "target_section": "E_strengths_risks",
+      "order_index": 7
+    },
+    "m7_b_new_style-p005-006": {
+      "target_section": "E_strengths_risks",
+      "order_index": 8
+    },
+    "m7_b_new_style-p005-007": {
+      "target_section": "E_strengths_risks",
+      "order_index": 9
+    },
+    "m7_b_new_style-p006-001": {
+      "target_section": "E_strengths_risks",
+      "order_index": 10
+    },
+    "m7_b_new_style-p006-003": {
+      "target_section": "E_strengths_risks",
+      "order_index": 11
+    },
+    "m7_b_new_style-p006-004": {
+      "target_section": "E_strengths_risks",
+      "order_index": 12
+    }
+  },
+  "source_map": [
+    {
+      "element_id": "m7_b_new_style-p003-002",
+      "number": "1",
+      "title": "Value Stream Scope",
+      "target_section": "A_overview"
+    },
+    {
+      "element_id": "m7_b_new_style-p003-003",
+      "number": "1.1",
+      "title": "Experiment Design",
+      "target_section": "A_overview"
+    },
+    {
+      "element_id": "m7_b_new_style-p004-002",
+      "number": "2",
+      "title": "Portfolio Advantages",
+      "target_section": "E_strengths_risks"
+    },
+    {
+      "element_id": "m7_b_new_style-p004-003",
+      "number": "2.1",
+      "title": "Decision Rights",
+      "target_section": "E_strengths_risks"
+    },
+    {
+      "element_id": "m7_b_new_style-p005-002",
+      "number": "3",
+      "title": "Flow Evidence",
+      "target_section": "unmapped"
+    },
+    {
+      "element_id": "m7_b_new_style-p005-003",
+      "number": "3.1",
+      "title": "Assurance Measures",
+      "target_section": "unmapped"
+    },
+    {
+      "element_id": "m7_b_new_style-p006-002",
+      "number": "4",
+      "title": "Learning Review",
+      "target_section": "unmapped"
+    }
+  ],
+  "disposition_counts": {
+    "placed": 27,
+    "regenerated": 0,
+    "unplaced": 0,
+    "pending": 10
+  },
+  "unplaced_ids": []
+}

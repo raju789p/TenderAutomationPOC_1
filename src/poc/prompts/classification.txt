@@ -1,0 +1,6 @@
+Classify the heading title below as exactly one canonical project-methodology section type.
+Return JSON only, matching the schema. Use only this title; do not infer document context.
+Canonical types: abstract, scope, introduction, learning_objectives, core_concept,
+process_detail, when_to_use, best_practices, advantages, limitations.
+
+Heading title: {title}

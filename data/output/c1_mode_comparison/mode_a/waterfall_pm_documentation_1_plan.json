@@ -1,0 +1,439 @@
+{
+  "doc_id": "c1_waterfall_pm_documentation_1_329b8ad5",
+  "prompt_version": "c1-plan-v1",
+  "rule_only": false,
+  "saved_figure_captions_reused": 5,
+  "sections": [
+    {
+      "target_section": "unclassified",
+      "source_heading_id": null,
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-001",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-002",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-003",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-004",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-005",
+          "block_type": "image"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p001-006",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p002-001",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p002-002",
+          "block_type": "table"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p002-003",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "A_overview",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-002",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-003",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-004",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "A_overview",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p004-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p004-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p004-002",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p004-003",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "A_overview",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-002",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-003",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-004",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-005",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-006",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-007",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-008",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-009",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-010",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "F_learning_checklist",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-002",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-003",
+          "block_type": "bullet"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-004",
+          "block_type": "bullet"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-005",
+          "block_type": "bullet"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-006",
+          "block_type": "bullet"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-007",
+          "block_type": "bullet"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-008",
+          "block_type": "bullet"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-009",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "B_core_concept",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-002",
+          "block_type": "table"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-003",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-004",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "C_process_detail",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-002",
+          "block_type": "image"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-003",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-004",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-005",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-006",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-007",
+          "block_type": "image"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-008",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-002",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-003",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-004",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-005",
+          "block_type": "image"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-006",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-007",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-008",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-009",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p009-010",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p010-001",
+          "block_type": "image"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p010-002",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "D_fit_check",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-002",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-003",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-004",
+          "block_type": "table"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-005",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "E_strengths_risks",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p012-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p012-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p012-002",
+          "block_type": "table"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p012-003",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "E_strengths_risks",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-002",
+          "block_type": "table"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-003",
+          "block_type": "paragraph"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-004",
+          "block_type": "paragraph"
+        }
+      ]
+    },
+    {
+      "target_section": "E_strengths_risks",
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p014-001",
+      "blocks": [
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p014-001",
+          "block_type": "heading"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p014-002",
+          "block_type": "table"
+        },
+        {
+          "source_id": "c1_waterfall_pm_documentation_1_329b8ad5-p014-003",
+          "block_type": "paragraph"
+        }
+      ]
+    }
+  ],
+  "chunk_diagnostics": [
+    {
+      "source_heading_id": null,
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p003-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p004-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p005-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p006-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p007-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p008-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p011-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p012-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p013-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    },
+    {
+      "source_heading_id": "c1_waterfall_pm_documentation_1_329b8ad5-p014-001",
+      "attempts": 1,
+      "validation_retries": 0,
+      "fallback_used": false
+    }
+  ],
+  "fallbacks": []
+}
